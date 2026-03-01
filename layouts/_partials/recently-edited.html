@@ -1,8 +1,8 @@
 <h2 class="h4">Recent Page Edits</h2>
 
-    {{ $byLastMod :=  .Site.RegularPages.ByLastmod  }}
+    {{ $byLastMod :=  .Site.RegularPages.ByLastmod.Reverse  }}
     {{if $byLastMod }}
-        {{ $recent := ($byLastMod | last (math.Min 5 (len $byLastMod))).Reverse }}
+        {{ $recent := $byLastMod | first (math.Min 5 (len $byLastMod)) }}
         {{ partial "recently-edited-item" $recent }}
     {{else}}
         <p>None - consider <a href="https://github.com/komatic5/gdcs2/tree/main/content/docs/guides">adding content</a> to the site!</p>
