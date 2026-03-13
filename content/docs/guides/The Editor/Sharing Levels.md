@@ -7,6 +7,7 @@ authors:
 contributors:
 - komatic5
 - sparktwee
+- lagwerious
 draft: false
 
 seo:
@@ -32,7 +33,7 @@ When you first create a new level, or exit from the editor, you will be directed
 
 Notice the three big buttons at the center. From left to right, the tools button leads you to the editor, the yellow play button puts you in the level, and the red curvy arrow button is the upload button that will allow you to share your level.
 
-None
+{{< img src="https://lh3.googleusercontent.com/d/1P3Ljtx9_CrtxT6amGPs8IeJK8KW0G3JI" >}}
 
 # 2: Level Name and Description
 
@@ -52,7 +53,7 @@ Once you press the red upload button, it will lead you to another checkbox to co
 
 You can request stars to help players know what difficulty to expect.
 
-None
+{{< img src="https://lh3.googleusercontent.com/d/1AUzk1zx1pgzYIe_wUHqa4xddEYnuZj7V" >}}
 
 On the top right, you can see a gear which leads you to the other three elements.
 
@@ -62,26 +63,27 @@ Ticking Requires Password will lock the level by a passcode-protected keypad. If
 
 If you choose to upload your level as “Unlisted”, you’ll only allow your GD Friends to play the level, as long as you also give them the level ID. This is how creators can collab with each other and merge their parts.
 
-None
+{{< img src="https://lh3.googleusercontent.com/d/19QA-zcQbgkWj1BClzlP_CLxgQq0tLda5" >}}
 
 If you successfully upload your level, you will receive the official level ID that you can use to find it in the search bar (before that, the ID would show “NA”). Public levels will also be accessible through https://gdbrowser.com, while unlisted levels are not.
 
-# 4: :CopiedLevel: and :RedPlus: stickers
+# 4: Copied Level and Red Plus stickers
 
-You might have noticed that some levels have the :CopiedLevel: and :RedPlus: sticker placed on the right of the level name.
+You might have noticed that some levels have the {{< img src="images/GDEmotes/Icons/CopiedLevel.png" class="emote">}} Copied Level and {{< img src="images/GDEmotes/Icons/RedPlus.png" class="emote">}} Red Plus sticker placed on the right of the level name.
+You might have noticed that some levels have the {{< img src="images/GDEmotes/Icons/CopiedLevel.png" class="emote">}} and {{< img src="images/GDEmotes/Icons/RedPlus.png" class="emote">}} sticker placed on the right of the level name.
 
-If a level has a :CopiedLevel: sticker, it means it was originally copied from an existing level in the server. The original ID will also be displayed alongside the new copied ID. Many would assume that a level with C means it is stolen. And you’d be correct sometimes, but other times it's used for collabs. In order to merge collab parts together, creators will need to share the level as unlisted and copying these parts will give you that C sticker too.
+If a level has a {{< img src="images/GDEmotes/Icons/CopiedLevel.png" class="emote">}} sticker, it means it was originally copied from an existing level in the server. The original ID will also be displayed alongside the new copied ID. Many would assume that a level with {{< img src="images/GDEmotes/Icons/CopiedLevel.png" class="emote">}} means it is stolen. And you’d be correct sometimes, but other times it's used for collabs. In order to merge collab parts together, creators will need to share the level as unlisted and copying these parts will give you that {{< img src="images/GDEmotes/Icons/CopiedLevel.png" class="emote">}} sticker too.
 
-The :RedPlus: sticker deals with Object count. If your level has more than 40, 000 objects, this sticker will show up. Many levels have very high object counts for a variety of reasons. They range from poor optimization to visual details to effects.
+The {{< img src="images/GDEmotes/Icons/RedPlus.png" class="emote">}} sticker deals with Object count. If your level has more than 40, 000 objects, this sticker will show up. Many levels have very high object counts for a variety of reasons. They range from poor optimization to visual details to effects.
 
 # 5: Misc. Features
 
-:Xmark: The red X deletes your level from existence. This cannot be undone.
+{{< img src="images/GDEmotes/Icons/x.png" class="emote">}} The red X deletes your level from existence. This cannot be undone.
 
-The :HelpButton: button directs you to the outdated GD Guide that inspired GDCS to exist and surpass it.
+The {{< img src="images/GDEmotes/Buttons/HelpButton.png" class="emote">}} button directs you to the outdated GD Guide that inspired GDCS to exist and surpass it.
 
-:Files: The File button lets you duplicate your level. This is perfect for backups.
-:MoveToTop: The white up arrow places the level you're making to the top of your created levels list.
+{{< img src="images/GDEmotes/Buttons/Files.png" class="emote">}} The File button lets you duplicate your level. This is perfect for backups.
+{{< img src="images/GDEmotes/Buttons/MoveToTop.png" class="emote">}} The white up arrow places the level you're making to the top of your created levels list.
 
 On the left, you'll see a lone folder staying away from the crowd on the right. If you want to categorize your levels and organize them into previews, collab parts, fully uploaded levels, experiments, or whatever category you wish, this folder will be your best friend.
 
@@ -89,11 +91,17 @@ If you decide to update your level and make some changes, the level will become 
 
 If you create a new level with a name that already exists in your list of levels, a revision label will appear showing “Rev 1”.
 
-Here’s another wacky thing about descriptions: you can add color to the text by putting them in between these symbols. <c>Text</c>. Depending on the color you want, here is the list.
+Here’s another wacky thing about descriptions: you can add color to the text by putting them in between these symbols. Depending on the color you want, here is the list.
 
-None
+Formatted as `<c> Your text here </c>`
 
+Example: <cr>Hello level!</c>
 
+`cr` for Red (#FF0000)
+`cb` for Blue (#0000FF)
+`cg` for Green (#00FF00)
+`cj` for Cyan (#00FFFF)
+`co` for Orange (#FF7F00)
+`cp` for Purple (#CC8899)
 
-None
-
+{{< img src="https://lh3.googleusercontent.com/d/1RsYDyh7MMiL8N_0XrafLP-8Dmoy_Y_9o" >}}

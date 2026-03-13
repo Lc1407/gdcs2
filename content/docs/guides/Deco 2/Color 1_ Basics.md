@@ -99,5 +99,7 @@ The final gradient would look like this, with the brighter areas being directly 
 - James Gurney: *Color and Light*, Pages 73-78
 
 
-**Video:** https://www.youtube.com/watch?v=P2r4Z5kbx7M
+**Video:**
+
+{{< youtube P2r4Z5kbx7M start=27 end=120 >}}
 

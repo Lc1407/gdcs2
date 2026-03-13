@@ -116,4 +116,13 @@ If you stare at the cyan circle for long enough and then look at the orange squa
 
 
 
-**Video:** https://youtu.be/P2r4Z5kbx7M?si=P8PvmVByUQ6W_Ocy&t=478
+Changed the channel name: Color 5: Human Perception
+
+**Video:**
+
+{{< youtube P2r4Z5kbx7M start=478 >}}
+
+
+
+## Credits
+Created by @etherail and @sku and @Lagwerious

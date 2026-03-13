@@ -172,5 +172,7 @@ This is an example of what you don’t want your gamut maps to look like. There 
 - James Gurney: *Color and Light*, Pages 109-129
 
 
-**Video:** https://youtu.be/P2r4Z5kbx7M?si=CkCcKoJSW36e0Ro_&t=404
+**Video:**
+
+{{< youtube P2r4Z5kbx7M start=201 end=875 >}}
 
