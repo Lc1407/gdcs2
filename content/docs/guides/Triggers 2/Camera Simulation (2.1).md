@@ -2,8 +2,6 @@
 title: Camera Simulation (2.1)
 weight: 619
 date: 2024-04-20
-authors:
-- "?"
 contributors:
 - chunlv1
 - komatic5

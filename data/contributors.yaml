@@ -1,349 +1,364 @@
+<<<<<<< HEAD
 - ID: "767427137421443112"
   username: lagwerious
   displayname: Lagwerious
   userDisplay: true
+=======
+# HOW TO FILL A CONTRIBUTOR'S DATA
+
+# If you are adding a new contributor, please fill the following data:
+# ID: Contributor's discord user ID.
+# username: Contributor's discord username.
+# preferredName: The name the contributor may want to be recognized with.
+# usePreferred: Whether to use the username or preferred name on the website. If `true`, the preferred name will be used.
+
+# When the `npm run dev` command is executed, the `displayName` attribute will be calculated automatically according to
+# the information filled, and additional scripts for url safety.
+# This will be the final name displayed on the website, and it will be replaced on all guides.
+# You don't have to fill this attribute.
+>>>>>>> 1affdf0 (Change displayname attribute to preferredName)
 
 - ID: "???"
-  username: Unknown
-  displayname: unknown
-  useDisplay: true
+  username: unknown
+  preferredName: unknown
+  usePreferred: true
 
 - ID: "1156276508449587321"
   username: gustonguygermany
-  displayname: Gustron
-  useDisplay: false
+  preferredName: Gustron
+  usePreferred: false
 
 - ID: "879972597327069215"
   username: kde__
-  displayname: kde
-  useDisplay: true
+  preferredName: kde
+  usePreferred: true
 
 - ID: "921195052267622412"
   username: .tv_box.
-  displayname: DangerChampion
-  useDisplay: false
+  preferredName: DangerChampion
+  usePreferred: false
 
 - ID: "751897226074128384"
   username: skytriz
-  displayname: sku :3
-  useDisplay: false
+  preferredName: sku :3
+  usePreferred: false
 
 - ID: "437122189506904067"
   username: etherail
-  displayname: etherail
-  useDisplay: false
+  preferredName: etherail
+  usePreferred: false
 
 - ID: "787557122362834945"
   username: galofuf
-  displayname: galofuf
-  useDisplay: false
+  preferredName: galofuf
+  usePreferred: false
 
 - ID: "567071237390598174"
   username: .asandboxer
-  displayname: Sandboxer
-  useDisplay: false
+  preferredName: Sandboxer
+  usePreferred: false
 
 - ID: "723445194862624808"
   username: sparktwee
-  displayname: Selena
-  useDisplay: false
+  preferredName: Selena
+  usePreferred: false
 
 - ID: "498586973548707842"
   username: print6165
-  displayname: print
-  useDisplay: false
+  preferredName: print
+  usePreferred: false
 
 - ID: "821023051125620826"
   username: alexunam_777
-  displayname: ALEUNAM_777
-  useDisplay: false
+  preferredName: ALEUNAM_777
+  usePreferred: false
 
 - ID: "641115652156948501"
   username: lifecheck
-  displayname: LifeCheck
-  useDisplay: true
+  preferredName: LifeCheck
+  usePreferred: true
 
 - ID: "625102671388606464"
   username: notamoderatr
-  displayname: NotAModerator
-  useDisplay: true
+  preferredName: NotAModerator
+  usePreferred: true
 
 - ID: "256977344093356033"
   username: .thunderbat
-  displayname: ThunderBat
-  useDisplay: true
+  preferredName: ThunderBat
+  usePreferred: true
 
 - ID: "540122453763031042"
   username: chunlv1
-  displayname: Chunlv1
-  useDisplay: true
+  preferredName: Chunlv1
+  usePreferred: true
 
 - ID: "697386754294153240"
   username: vayulenagd
-  displayname: vayulena GD
-  useDisplay: true
+  preferredName: vayulena GD
+  usePreferred: true
 
 - ID: "447855794784829470"
   username: artaire
-  displayname: Artaire
-  useDisplay: true
+  preferredName: Artaire
+  usePreferred: true
 
 - ID: "1009782466275442779"
   username: exotron1352
-  displayname: Exotron
-  useDisplay: false
+  preferredName: Exotron
+  usePreferred: false
 
 - ID: "1084957102377816154"
   username: aquarware
-  displayname: Aquarware
-  useDisplay: true
+  preferredName: Aquarware
+  usePreferred: true
 
 - ID: "1102884420207255653"
   username: averageundertalefan
-  displayname: Average Guide Fan
-  useDisplay: false
+  preferredName: Average Guide Fan
+  usePreferred: false
 
 - ID: "178963770696138752"
   username: creeperiv
-  displayname: C4
-  useDisplay: false
+  preferredName: C4
+  usePreferred: false
 
 - ID: "521057526393995285"
   username: yoreid
-  displayname: YoReid
-  useDisplay: true
+  preferredName: YoReid
+  usePreferred: true
 
 - ID: "1140123811136671744"
   username: illusion2
-  displayname: spine keeper?
-  useDisplay: false
+  preferredName: spine keeper?
+  usePreferred: false
 
 - ID: "745810406311985223"
   username: silvow.
-  displayname: Silvow
-  useDisplay: true
+  preferredName: Silvow
+  usePreferred: true
 
 - ID: "206160317154066433"
   username: chuckolate
-  displayname: ChuckOlate
-  useDisplay: true
+  preferredName: ChuckOlate
+  usePreferred: true
 
 - ID: "917032562185089024"
   username: naem.less
-  displayname: naem
-  useDisplay: false
+  preferredName: naem
+  usePreferred: false
 
 - ID: "769191163198308382"
   username: halfcookedramen
-  displayname: Half-Cooked Ramen
-  useDisplay: true
+  preferredName: Half-Cooked Ramen
+  usePreferred: true
 
 - ID: "270692558085160961"
   username: matty2003
-  displayname: matty2003
-  useDisplay: false
+  preferredName: matty2003
+  usePreferred: false
 
 - ID: "679612101630885890"
   username: soondslash
-  displayname: soondslash
-  useDisplay: false
+  preferredName: soondslash
+  usePreferred: false
 
 - ID: "385251943104380928"
   username: typexleta
-  displayname: Typexleta
-  useDisplay: true
+  preferredName: Typexleta
+  usePreferred: true
 
 - ID: "427224709680070658"
   username: zvleus1487
-  displayname: zvleus
-  useDisplay: false
+  preferredName: zvleus
+  usePreferred: false
 
 - ID: "683707776450691094"
   username: v1ewsh0t
-  displayname: Cleveland
-  useDisplay: false
+  preferredName: Cleveland
+  usePreferred: false
 
 - ID: "1195469330150858793"
   username: psytrancegd
-  displayname: spyra
-  useDisplay: false
+  preferredName: spyra
+  usePreferred: false
 
 - ID: "574036671817842708"
   username: tdp9
-  displayname: TDP9
-  useDisplay: true
+  preferredName: TDP9
+  usePreferred: true
 
 - ID: "477106559676317717"
   username: theibra
-  displayname: ibra
-  useDisplay: true
+  preferredName: ibra
+  usePreferred: true
 
 - ID: "559111258331414528"
   username: themilkcat_tmc
-  displayname: TheMilkCat
-  useDisplay: false
+  preferredName: TheMilkCat
+  usePreferred: false
 
 - ID: "737566980701290496"
   username: infernuz_bunni
-  displayname: InfernuZ
-  useDisplay: false
+  preferredName: InfernuZ
+  usePreferred: false
 
 - ID: "274731634933235712"
   username: electrifyxd
-  displayname: Electrify
-  useDisplay: false
+  preferredName: Electrify
+  usePreferred: false
 
 - ID: "860922665912893511"
   username: crepeerpro244
-  displayname: Wil
-  useDisplay: false
+  preferredName: Wil
+  usePreferred: false
 
 - ID: "565630771566477332"
   username: .eyz.
-  displayname: EYZ
-  useDisplay: true
+  preferredName: EYZ
+  usePreferred: true
 
 - ID: "984788677198770196"
   username: livelaughluvv
-  displayname: nau.
-  useDisplay: false
+  preferredName: nau.
+  usePreferred: false
 
 - ID: "946128617522479144"
   username: myceliumdev
-  displayname: Mycelium
-  useDisplay: false
+  preferredName: Mycelium
+  usePreferred: false
 
 - ID: "660627272302067714"
   username: zars70
-  displayname: zars70
-  useDisplay: false
+  preferredName: zars70
+  usePreferred: false
 
 - ID: "1010074329876287499"
   username: itsnub1x
-  displayname: Nubix
-  useDisplay: false
+  preferredName: Nubix
+  usePreferred: false
 
 - ID: "344957051463663627"
   username: vexilo5
-  displayname: Vexilo
-  useDisplay: false
+  preferredName: Vexilo
+  usePreferred: false
 
 - ID: "702628796058173521"
   username: __madzz__
-  displayname: Madzz
-  useDisplay: true
+  preferredName: Madzz
+  usePreferred: true
 
 - ID: "987003554512384111"
   username: nailed_bread
-  displayname: Danail
-  useDisplay: false
+  preferredName: Danail
+  usePreferred: false
 
 - ID: "343585416206745600"
   username: delts1550
-  displayname: Dimstack
-  useDisplay: false
+  preferredName: Dimstack
+  usePreferred: false
 
 - ID: "721985732167729203"
   username: proerazer
-  displayname: Erazer
-  useDisplay: false
+  preferredName: Erazer
+  usePreferred: false
 
 - ID: "677312422876545085"
   username: calibratorworks
-  displayname: Cali
-  useDisplay: false
+  preferredName: Cali
+  usePreferred: false
 
 - ID: "1156180438977617990"
   username: zek.1612.
-  displayname: Zek
-  useDisplay: false
+  preferredName: Zek
+  usePreferred: false
 
 - ID: "447802131391709194"
   username: everedeck
-  displayname: Evere
-  useDisplay: false
+  preferredName: Evere
+  usePreferred: false
 
 - ID: "1247734980977889422"
   username: intercomprehensible
-  displayname: intercomprehensible
-  useDisplay: false
+  preferredName: intercomprehensible
+  usePreferred: false
 
 - ID: "533404242535514143"
   username: interestex
-  displayname: Interestex
-  useDisplay: true
+  preferredName: Interestex
+  usePreferred: true
 
 - ID: "317252118421700608"
   username: mateussdev
-  displayname: MateussDev
-  useDisplay: true
+  preferredName: MateussDev
+  usePreferred: true
 
 - ID: "1045055155856482315"
   username: mesoionosphere
-  displayname: ionosphere (solidstatedrive)
-  useDisplay: false
+  preferredName: ionosphere (solidstatedrive)
+  usePreferred: false
 
 - ID: "819244122341769237"
   username: xplode09
-  displayname: Xplode
-  useDisplay: false
+  preferredName: Xplode
+  usePreferred: false
 
 - ID: "1193015704027398225"
   username: e.clypse.
-  displayname: Darkness
-  useDisplay: false
+  preferredName: Darkness
+  usePreferred: false
 
 - ID: "672236433859280896"
   username: kbtrains
-  displayname: Kb
-  useDisplay: false
+  preferredName: Kb
+  usePreferred: false
 
 - ID: "1149453781646446694"
   username: styphontv
-  displayname: Style phone television
-  useDisplay: false
+  preferredName: Style phone television
+  usePreferred: false
 
 - ID: "504695344106438666"
   username: joe_white
-  displayname: joe_white
-  useDisplay: false
+  preferredName: joe_white
+  usePreferred: false
 
 - ID: "632229473508655124"
   username: graylasagna
-  displayname: Lasang
-  useDisplay: false
+  preferredName: Lasang
+  usePreferred: false
 
 - ID: "633094374657622035"
   username: kriticsoul
-  displayname: Kritic
-  useDisplay: false
+  preferredName: Kritic
+  usePreferred: false
 
 - ID: "584518125475725314"
   username: leotorol
-  displayname: leotorol
-  useDisplay: false
+  preferredName: leotorol
+  usePreferred: false
 
 - ID: "771610790024839188"
   username: nikobik0
-  displayname: niko
-  useDisplay: false
+  preferredName: niko
+  usePreferred: false
 
 - ID: "302158493589438465"
   username: komatic5
-  displayname: koma5
-  useDisplay: false
+  preferredName: koma5
+  usePreferred: false
 
 - ID: "309104296362901505"
   username: colon
-  displayname: Colon
-  useDisplay: true
+  preferredName: Colon
+  usePreferred: true
 
 - ID: "564513059998007306"
   username: tanhr
-  displayname: tanhR
-  useDisplay: true
+  preferredName: tanhR
+  usePreferred: true
 
 - ID: "402886204036612096"
   username: furorem
-  displayname: Furorem
-  useDisplay: true
+  preferredName: Furorem
+  usePreferred: true

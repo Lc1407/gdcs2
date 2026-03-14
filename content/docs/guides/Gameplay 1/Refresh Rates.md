@@ -3,10 +3,10 @@ title: Refresh Rates
 weight: 421
 date: 2023-03-18
 authors:
-- Unknown
+- unknown
 contributors:
 - graylasagna
-- Unknown
+- unknown
 draft: false
 ---
 
