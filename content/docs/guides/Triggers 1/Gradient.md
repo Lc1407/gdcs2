@@ -1,6 +1,6 @@
 ---
 title: "Gradient"
-weight: 320
+weight: 3200
 date: 2024-01-08T00:00:00.000Z
 authors:
   - "themilkcat_tmc"
@@ -34,7 +34,7 @@ You can change which layer the gradient is rendered - the gradient is always ren
 
 To change the gradient color, you have to change the color of the color channels that the gradient trigger uses. HSV and pulse don't work on gradient triggers.
 
-{{< youtube kY235f8itAI >}}
+{{< youtube kY235f8itAI >}} 
 
 # 2: Vertex Mode
 
@@ -42,11 +42,11 @@ Vertex mode allows you to draw a mesh between 4 points in the editor. *Enabling 
 
 These parameters use one-object groups, just like the center group on a Rotate trigger. This allows you to make 2D meshes, as moving the points changes the gradient's shape. If you want to make a triangle instead of a square, you can use the same group for two parameters, like TL and TR.
 
-{{< youtube hEOZwE7cSSI >}}
+{{< youtube hEOZwE7cSSI >}} 
 
 Let's take an effect and see how it uses the gradient trigger:
 
-{{< youtube kQuh9B64IBE >}}
+{{< youtube kQuh9B64IBE >}} 
 
 This effect is created by using a lot of vertex triggers to make trapezoids. Moving the individual points also moves the mesh. Furthermore, the mesh will stay connected because some of the gradients share the same groups.
 
@@ -54,5 +54,5 @@ The curves here are created by using the Area Move trigger to smoothly move the 
 
 
 
-**Video:** [Geometry Dash 2.2’s OP Gradient Trigger! (Tutorial)](https://youtu.be/jhP4Tt_OpA0?si=VUeBGlPy1806EiqA)
+**Video:** [Geometry Dash 2.2’s OP Gradient Trigger! (Tutorial)](https://youtu.be/jhP4Tt_OpA0 >}} si=VUeBGlPy1806EiqA)
 

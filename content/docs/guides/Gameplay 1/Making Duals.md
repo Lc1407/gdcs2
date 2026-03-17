@@ -1,6 +1,6 @@
 ---
 title: "Making Duals"
-weight: 421
+weight: 4210
 date: 2024-10-14T00:00:00.000Z
 authors:
   - "e.clypse"
@@ -35,13 +35,13 @@ Now, the two icons don’t need to be on the same gamemode necessarily, *each on
 
 **Symmetrical duals** refers to _dual gameplay where both icons follow the same path and are the same gamemode_, meaning that the bottom icon and top icon mirror each other’s movements. An example of this can be seen at 28-43% in Verdant Landscape by Nisha. This is the easiest form of dual gameplay to build, as most of the time you only need to create gameplay for one icon and then copy paste this gameplay for the other one.
 
-{{< youtube dSbox0NKuXs >}}
+{{< youtube dSbox0NKuXs >}} 
 
 ## Asymmetrical Duals
 
 **Asymmetrical duals** refers to _dual gameplay where each icon follows its own path_. You can make this either where both icons are the same gamemode or different ones. It is easier and more common to use different gamemodes, because that way there is more versatility in what you can do. An example of this can be seen at 34-43% in Diligence by Davphla and more. You can see the icons are sometimes different gamemodes and sometimes the same, but follow different paths.
 
-{{< youtube OyWM-uXuuqU >}}
+{{< youtube OyWM-uXuuqU >}} 
 
 ## 2 Player Gameplay
 
@@ -50,13 +50,13 @@ Now, the two icons don’t need to be on the same gamemode necessarily, *each on
 The 2-player mode is mostly used for minigames that require multiple inputs, especially in 2.1. For instance, levels like Floating Outskirts by YoReid, Area Tracer by GDvesuvius, and Geo Kart by Incidius utilize this mechanic.
 You can also use 2 player controls in a more conventional way and make (a)symmetrical duals if you don't fancy yourself a trigger person. An example of a level like this is Codependence by TCTeam, where each icon is controlled individually.
 
-{{< youtube lYswi_4FrcM >}}
+{{< youtube lYswi_4FrcM >}} 
 
-{{< youtube GuDam2WUoNs >}}
+{{< youtube GuDam2WUoNs >}} 
 
-{{< youtube kZzp_QeahS0 >}}
+{{< youtube kZzp_QeahS0 >}} 
 
-{{< youtube ti5G-c3wcM0 >}}
+{{< youtube ti5G-c3wcM0 >}} 
 
 # 4: Building Dual Gameplay
 
@@ -90,7 +90,7 @@ In update 2.1, if you wanted to separate the two icons in a dual across the x ax
 
 Now with the Teleport trigger, unlinked Teleport portals and the Teleport orb, you can create this setup very easily across any speed you want to anywhere in the level. You can also use a spawn loop, where you constantly teleport player 2 to an object using a Teleport trigger. By moving around this object, you are essentially controlling where player 2 goes as well. This is mainly used for visuals though, such as Angel GD’s part in Resonance hosted by Human.
 
-{{< youtube gNeCvicI6CA >}}
+{{< youtube gNeCvicI6CA >}} 
 
 ## How to Build Offset Duals
 
@@ -144,4 +144,4 @@ Working with this gimmick is quite complicated due to them going in different di
 
 Probably the most popular level that uses Arrow trigger duals is Out Of This World by Perox08. Another example but with different gamemodes is [Magic Touch](https://cdn.discordapp.com/attachments/1195352304136749087/1281069228962873416/youtube-KW7tPgRYz0M.mp4?ex=66dc5a71&is=66db08f1&hm=37759352e73db15d5b7fe9696955eba13905b6887f8e825496e2f4be8b01ab68&) by DawuU.
 
-{{< youtube 9AuptH4fElM >}}
+{{< youtube 9AuptH4fElM >}} 

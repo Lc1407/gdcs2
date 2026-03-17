@@ -1,6 +1,6 @@
 ---
 title: "Frame Perfects & Alignment"
-weight: 410
+weight: 4100
 date: 2024-01-01T00:00:00.000Z
 authors:
   - "mateussdev"
@@ -50,7 +50,7 @@ Frame-perfects can be made on any FPS or gamemode. Usually ones involving a snap
 
 People have made many hard levels, meaning there are structures for the common 60, 144 and 240 FPS values. 360+ frame-perfects are rarer due to hardware limitations.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1jtyOjjWAMvQj6rxnxt24p5NQeEHyo54J/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1jtyOjjWAMvQj6rxnxt24p5NQeEHyo54J" >}}
 
 ## The Macrobuff Method
 
@@ -58,19 +58,19 @@ This is a more complex method which can be used with macro recording software to
 
 1. First, create any timing that is close to frame-perfect. A triple-spike will usually do the job nicely. Also make sure to decide which FPS the jump should work on.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1go5minGusmaU0iLlWUWk5jAr9IDWnmTI/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1go5minGusmaU0iLlWUWk5jAr9IDWnmTI" >}}
 
 2. Record a macro of that frame-perfect. To save time you can place a start position, but if you don’t want to risk accidentally making an alignment frame perfect then bot from 0% and make sure to hit anything that misaligns you *(Speed portals, mirror portals, platforms [only for y align], etc.)*. If you don’t have a macro bot, then you can play in the editor with hitbox trail on and continue from there.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1k1aB_V6LQQdR2SUv9cVZEWxMFLusI663/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1k1aB_V6LQQdR2SUv9cVZEWxMFLusI663" >}}
 
 3. After botting, you simply buff the timing to barely touch the hitboxes. Hitbox trail is required here. Take note the ways the game handles collisions to create a unique frame perfect and avoid obvious issues with physical possibility of this timing.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1qUV6qOsxtcMJ6gTBoI4Wq7LK96CGL4Le/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1qUV6qOsxtcMJ6gTBoI4Wq7LK96CGL4Le" >}}
 
 4. Test the frame-perfect. Make sure it’s physically possible by playing the macro you recorded. If it is, place a start position and test the frame-perfect yourself. *(For MHv7, the trajectory tool does not accurately show whether a timing is physically possible, especially at higher[>360] and lower[<144] FPS values)*. Use the frame stepper to accurately test it.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1X8ex5udEEG6X4aGStp8eVrzQp0GEnzC2/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1X8ex5udEEG6X4aGStp8eVrzQp0GEnzC2" >}}
 
 # 3: Extra Details
 
@@ -120,12 +120,12 @@ Alignment is also a term that describes the difference in positions of FPS.
 
 Each colored line represents a frame within the game, and the position represents the player at each frame. 120 FPS has twice the frames as 60 FPS, so the distance the player travels in a frame is half.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1tv1vN6B1wg5qbfYUfGyrp0BRiQ0G9NzL/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1tv1vN6B1wg5qbfYUfGyrp0BRiQ0G9NzL" >}}
 
 Since 120 is a multiple of 60 the positions at certain frames match, you can mathematically assume every frame-perfect on 60 FPS is possible on 60*N or 360+ FPS.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/16nKf7XL1EtmdWicG2MwgkHtMcyQ3-3AJ/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/16nKf7XL1EtmdWicG2MwgkHtMcyQ3-3AJ" >}}
 
 However FPS values that are not multiples have a different outcome: They won’t match, only having certain frames that match the given FPS. This explains why levels are possible on FPS values that are not a multiple of N FPS (eg: VSC is possible both on 60FPS and likely on 144FPS)
 
-<div><iframe src=https://drive.google.com/file/d/1iDNq7WqgACRmhtrCTWJjUp4iOX-g8ixg/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1iDNq7WqgACRmhtrCTWJjUp4iOX-g8ixg" >}}

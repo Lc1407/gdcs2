@@ -1,6 +1,6 @@
 ---
 title: "Choosing a Song"
-weight: 105
+weight: 1050
 date: 2024-01-30T00:00:00.000Z
 authors:
   - "tdp9"
@@ -51,7 +51,7 @@ Newgrounds is the official website RobTop endorses for songs that aren’t in th
 
 6. Copy those numbers into the textbox and click search. After clicking the search, a card for the song should pop up. Click use to use the song in your level.
 
-{{< youtube 06gFmlNyY0g >}}
+{{< youtube 06gFmlNyY0g >}} 
 
 # 2: Music Library
 
@@ -115,7 +115,7 @@ When downloading and using a NONG song, you’re basically tricking GD into thin
 
 6. Close the game, or just move to a place in the game where the song can’t play.
 
-{{< youtube mzXcOG6eVuk >}}
+{{< youtube mzXcOG6eVuk >}} 
 
 ## Mac (On Steam)
 
@@ -139,7 +139,7 @@ Using NONG songs on Android is a bit different than on Windows or Mac. For this 
 
 1. Download the Android Mod Menu from Italian APK Downloader
 
-{{< youtube YNF_wk7uMuA >}}
+{{< youtube YNF_wk7uMuA >}} 
 
 2. Install the APK. On newer phones, locating the file and pressing on it should automatically update GD.
 
@@ -153,7 +153,7 @@ Using NONG songs on Android is a bit different than on Windows or Mac. For this 
 
 7. Go back to the editor, and the song card should have changed to something like the figure below.
 
-{{< youtube 7h6O_v_LN2E >}}
+{{< youtube 7h6O_v_LN2E >}} 
 
 # 4: Changing a Song’s Offset
 
@@ -172,4 +172,4 @@ A song’s **offset** is __where it starts playing in game__. For instance, Bloo
 
 4. The "Fade In" and "Fade Out" buttons at the bottom allow for the song to fade in to the level, and fade out once the last block has been passed respectively.
 
-{{< youtube ZFZiChCyjHA >}}
+{{< youtube ZFZiChCyjHA >}} 

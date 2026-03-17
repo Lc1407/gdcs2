@@ -1,6 +1,6 @@
 ---
 title: "Mechanics 1 (Intro)"
-weight: 701
+weight: 7010
 date: 2023-04-24T00:00:00.000Z
 authors:
   - "komatic5"
@@ -52,7 +52,7 @@ Burnout can occur early in your level; introducing a mechanic but the player nev
 
 Sometimes mechanics can be combined to add to the gameplay flow. For example, spears in Rain World can be used to damage enemies, but it can also be used as a grabbable bar for platforming. Communicating when mechanics are used at the same time is important as well. If you want the player to learn how to apply existing skills they’ve learned, consider telling the player upfront how to combine certain skills together. An example of this is how you can stack orbs and portals together, requiring the player to understand both mechanics to know how the new one works. If you want the player to master your gameplay by learning new combinations of skills, consider leaving the skills as things the player themselves can discover.
 
-You can use a **Skill Chain**, or a __combination of skills which the player learns in a sequence__,  to determine which mechanics will work together. For example, you must know how to pick up a pencil before you can learn how to write.
+You can use a **Skill Chain**, or a __combination of skills which the player learns in a sequence__, to determine which mechanics will work together. For example, you must know how to pick up a pencil before you can learn how to write.
 
 All skill chains start with **pre-existing skills**, which are __skills already mastered by the player__. Within Geometry Dash, you’re safe to assume that the player knows the fundamental mechanics before they play your level. From here, introducing skills and mechanics will make players form connections to their pre-existing skills. You can map out a skill chain to understand the order in which players may learn new skills, such as in this example here.
 

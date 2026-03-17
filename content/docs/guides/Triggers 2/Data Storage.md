@@ -1,6 +1,6 @@
 ---
 title: "Data Storage"
-weight: 614
+weight: 6140
 date: 2024-07-31T00:00:00.000Z
 authors:
   - "v1ewsh0t"
@@ -25,11 +25,11 @@ Here are some levels which use data storage to their benefit:
 - BlockDude by Zejoant
 - Geometry Dash Platformer (Discontinued) by V1ewSh0t
 
-{{< youtube azgK0u-MsNI >}}
+{{< youtube azgK0u-MsNI >}} 
 
-{{< youtube 5Yh-sHc0oQk >}}
+{{< youtube 5Yh-sHc0oQk >}} 
 
-{{< youtube qfMJanunKNc >}}
+{{< youtube qfMJanunKNc >}} 
 
 # 2: Detecting Player Data
 
@@ -39,7 +39,7 @@ You can find out a lot about a player’s game state, just by using properties w
 
 This can be very useful if you need to detect when the player is in Low Detail Mode (LDM). For example, my level Geometry Dash Platformer (Discontinued) uses LDM detection to lock and unlock the ULDM mode.
 
-{{< youtube qfMJanunKNc >}}
+{{< youtube qfMJanunKNc >}} 
 
 This also has a very straightforward setup. All you need is a toggle trigger with the “High Detail” setting enabled.
 
@@ -47,7 +47,7 @@ This also has a very straightforward setup. All you need is a toggle trigger wit
 
 Then, all you need is the toggle trigger to toggle off a group and you should be all set! Here is an example of it working in action:
 
-{{< youtube MH3jwlpy80o >}}
+{{< youtube MH3jwlpy80o >}} 
 
 There are many ways you can use LDM Detection. You can make setups that only show a ULDM option if the LDM has been selected. You can even make sections of your level only accessible through the in-game LDM.
 
@@ -55,7 +55,7 @@ There are many ways you can use LDM Detection. You can make setups that only sho
 
 As before, this is useful if you need to detect when the player is in Practice Mode. In my level Travel to the Sun, I used practice mode detection to blur the end screen.
 
-{{< youtube hEwPLLVLGtA >}}
+{{< youtube hEwPLLVLGtA >}} 
 
 This is also a simple setup, although it’s more involved than LDM detection:
 
@@ -69,7 +69,7 @@ This is also a simple setup, although it’s more involved than LDM detection:
 
 You can then add any objects to Group A and it should work if you set it up correctly. This doesn’t work in Platformer Mode if you use checkpoint objects, but you can circumvent this by using “Spawn Group” in your checkpoint objects to activate another toggle trigger, disabling Group A when respawning from them.
 
-{{< youtube 58sIT6Ytgzc >}}
+{{< youtube 58sIT6Ytgzc >}} 
 
 As before, you can use this for many purposes. You can blur your level’s endscreen while in practice mode, show helpful hints in the mode, or even just add a custom “Practice Mode” label. If your level has collectibles which persist after death, you can also prevent players from picking them up in practice.
 
@@ -97,7 +97,7 @@ Before making an editor detection system, you must understand two things:
 
 If everything was followed correctly, then it should work.
 
-{{< youtube vNhawG8w1gA >}}
+{{< youtube vNhawG8w1gA >}} 
 
 As mentioned before, you can use editor detection to show debug labels and objects only while in the editor. You can also use it to remove obstructing deco while playtesting, or to add In-Editor labels. And if you’re really cheeky, you can hide the entire level to prevent people from figuring out how to solve any puzzles you put into it.
 
@@ -107,7 +107,7 @@ This has a few obvious purposes, like showing an endscreen when the player finis
 
 As you may expect this setup uses the End Trigger, particularly its “Spawn ID” feature, to activate a group when the player completes the level. Here’s a demonstration of the trigger working in action:
 
-{{< youtube myfZjY7qOfA >}}
+{{< youtube myfZjY7qOfA >}} 
 
 As for uses, there are quite a few. You can use this to stop any moving objects when the player finishes the level, to help with optimization or prevent visual bugs. You can also use it to display an endscreen when the level’s complete, or to change the song to something like end credits music.
 
@@ -119,11 +119,11 @@ Save codes solve a major issue I mentioned with level completion detection; they
 
 MasterGame by Serponge is one of the first levels to use save codes, and one of the most well-known. However, other levels do make use of them, like BlockDude by Zejoant and once again, my Geometry Dash Platformer (Discontinued) level.
 
-{{< youtube azgK0u-MsNI >}}
+{{< youtube azgK0u-MsNI >}} 
 
-{{< youtube 5Yh-sHc0oQk >}}
+{{< youtube 5Yh-sHc0oQk >}} 
 
-{{< youtube qfMJanunKNc >}}
+{{< youtube qfMJanunKNc >}} 
 
 This section is the most difficult part of this guide. If you get confused at any point, please take the time to reread the prior sections and analyze the examples.
 
@@ -135,7 +135,7 @@ First, we need a way to input the save code. There are many methods for doing th
 
 This system assigns a Spawn & Multi-Triggered Pickup trigger to increment each Item ID when the player touches their respective State Blocks. However, this has some drawbacks as you can see here:
 
-{{< youtube HpgjGLXqoms >}}
+{{< youtube HpgjGLXqoms >}} 
 
 *If you guessed that the Item ID’s are going above 9, then you would be correct!*
 
@@ -145,7 +145,7 @@ To fix this, I’ll use Item Compare triggers to check when each Item ID is at o
 
 If you have been following so far, this is how it should act:
 
-{{< youtube rQUbTTmS3aI >}}
+{{< youtube rQUbTTmS3aI >}} 
 
 ## Loading Codes
 
@@ -166,7 +166,7 @@ We also need to figure out what constitutes a valid save code. For this example,
 
 As before - you don’t need to follow these exact conditions; just use this as an example of how to build your own system.
 
-To check if the save code entered is valid, you must  check each Item ID for their specific conditions. If it meets those conditions, then you can increment another Item ID (which is ID 8 in this case). We can then use that ID to check if it’s equal to the number of conditions which need to be met; if so, the save code is valid and you can use its value to execute conditions within the level, like enabling certain checkpoints or changing the player’s outfit.
+To check if the save code entered is valid, you must check each Item ID for their specific conditions. If it meets those conditions, then you can increment another Item ID (which is ID 8 in this case). We can then use that ID to check if it’s equal to the number of conditions which need to be met; if so, the save code is valid and you can use its value to execute conditions within the level, like enabling certain checkpoints or changing the player’s outfit.
 
 For example: If I was to check for Lives, I would first check to see if Lives is greater than 0, then if it is less than 4. If it meets those conditions, then I would increment Item ID 8 by 1.
 
@@ -181,13 +181,13 @@ This sequence allows us to compress both Item ID’s into one Item ID, which can
 
 If you combine both of those methods, then you can end up with something like this:
 
-{{< youtube G_WGBtXpDCQ >}}
+{{< youtube G_WGBtXpDCQ >}} 
 
 ## Saving Codes
 
 The rest of this is fairly straightforward. To save this data, all you need is to display the Item IDs to the player when they request it. They can then write the code down somewhere, and input it later to continue playing.
 
-This example uses a fairly simple save & load system, but  you can make it much more complex. You can add letters and use more data cells, but there are pros and cons to everything. A more complex system lets you save more data and potentially encrypt it better, so players can’t easily share codes to bypass most of your level. However, this also results in longer input times and loading speeds, while using more groups.
+This example uses a fairly simple save & load system, but you can make it much more complex. You can add letters and use more data cells, but there are pros and cons to everything. A more complex system lets you save more data and potentially encrypt it better, so players can’t easily share codes to bypass most of your level. However, this also results in longer input times and loading speeds, while using more groups.
 
 # 4: Combining Save Systems
 

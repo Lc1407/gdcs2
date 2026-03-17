@@ -1,6 +1,6 @@
 ---
 title: "Camera Simulation (2.1)"
-weight: 619
+weight: 6190
 date: 2024-04-20T00:00:00.000Z
 contributors:
   - "chunlv1"
@@ -25,33 +25,33 @@ draft: false
 
 Before we go to the meaty part of this guide, let’s take a look at the **camera**. Simply put, __it captures the screen of the device; the rectangular field that constantly follows the player__. Regardless of your device, your screen’s height will remain exactly `10 ⅔` blocks tall. However, your screen’s length depends on your device’s aspect ratio: Standard Aspect Ratio (`22` blocks) vs. Widescreen (`24` blocks). But there are other lengths beyond these two ratios.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/143OLGl-IVvywoqZpSMG44NJStYzA1PF0/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/143OLGl-IVvywoqZpSMG44NJStYzA1PF0" >}}
 
 If you manage to simulate this camera, you can upgrade the parallax in your levels, similar to the mini cube part in `So` by `Neigefeu` , and `YoReid`’s part in `Planet X` . Both horizontal and vertical parallax are considered for this setup. Additionally, if you want to create effects that stick to your screen such as song lyrics or raindrops, this will be useful.
 
 In addition, you’ll notice that most gamemodes have fixed borders at the top and bottom, even the duals. However, only the robot and cube gamemodes are borderless. This will change in 2.2 once Free Fly Mode is introduced for all gamemodes. As of 2.1, there are two ways to set up the camera: with borders and without borders. We need this distinction because the camera’s modules will differ greatly.
 
-{{< youtube 8G_8F2tXYpw >}}
+{{< youtube 8G_8F2tXYpw >}} 
 
-{{< youtube fPXLGli6XGw >}}
+{{< youtube fPXLGli6XGw >}} 
 
 # 2: Camera Simulation with Borders
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1-p29Rjw-yf8K3hhSwzdi6qRRvkFktAGx/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1-p29Rjw-yf8K3hhSwzdi6qRRvkFktAGx" >}}
 
 Search for this level with the ID: `90903111` in order to check the camera simulation with borders.
 
 Gamemode portals with fixed borders can move the camera depending on their Y-position. While locking the visuals in the X-position is simple, the Y-position is where things get tricky.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1VQ3DroGjgLfe679BfHCdt2oFAEHUNlIS/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1VQ3DroGjgLfe679BfHCdt2oFAEHUNlIS" >}}
 
 You can simulate this movement into your objects with the help of a move trigger. From trial and error, the move trigger’s setup needs to have these units so that your objects can match with the camera’s movements, regardless of the Y units you add. Though as a safeguard, keep your Y units below `50` units.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1JckmsuysCNpa0w15u957iQZ8ZIWLtok9/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1JckmsuysCNpa0w15u957iQZ8ZIWLtok9" >}}
 
 However, where should you place this move trigger? Do you snap it in the same grid with the portal? For simple camera locking, yes. This is because the portal’s hitbox and the move trigger’s hitbox would align perfectly.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1zIbh-SLUk0Hu_JhFusYB-BKaF7-6UFAN/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1zIbh-SLUk0Hu_JhFusYB-BKaF7-6UFAN" >}}
 
 However, refresh rates complicate things. Depending on your game’s refresh rate, it detects the timing of your camera differently. This is not really an issue when it comes to simple camera visuals, but with more complexity in parallax, this needs to be taken into account. This will be more taxing for the borderless camera setup later.
 
@@ -85,17 +85,17 @@ None
 
 5. Playtest. Slightly move the triggers in Step 1 if the camera fails to move the whole way. The bordered setup is complete!
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/139Zq-uvq24NhxyFw3n-xweIOXhdM1XjO/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/139Zq-uvq24NhxyFw3n-xweIOXhdM1XjO" >}}
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1X32WKG2c8v_9HzHrK12Hud8fb2sWBPAb/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1X32WKG2c8v_9HzHrK12Hud8fb2sWBPAb" >}}
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1bBp4cVypgzpXzYdcKjngJ6H-azHekODF/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1bBp4cVypgzpXzYdcKjngJ6H-azHekODF" >}}
 
 However, this is not the only camera setup that you can make.
 
 # 3: Borderless Camera Simulation
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1HRzjNHj7d42qaI6HGqaialY8o2WwY2qJ/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1HRzjNHj7d42qaI6HGqaialY8o2WwY2qJ" >}}
 
 Search for this level with the ID: `92313313` in order to check the camera simulation without borders.
 
@@ -111,15 +111,15 @@ None
 
 > **Truth Condition**: Following Pin - A square with a Follow group ID which will move the camera visuals and adjustment area when activated. You’ll want to set the speed of the follow player Y to `0.1`. In this case, there are two truth conditions for the top and bottom areas of the screen. If the player passes either areas, the module will activate.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1FBoPg6nlkzj0M6uB8ws-UgOpjn2vlC3u/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1FBoPg6nlkzj0M6uB8ws-UgOpjn2vlC3u" >}}
 
 As a result, the setup looks like this, where the screen’s height is roughly `10.7` blocks.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1k1mYRoFKFVz9_73yKsVwUgBI3Kjr-i_Z/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1k1mYRoFKFVz9_73yKsVwUgBI3Kjr-i_Z" >}}
 
 Its trigger work will look like this.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1fsZN_rQm1clu6zt59d2rAELP80iL_KyO/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1fsZN_rQm1clu6zt59d2rAELP80iL_KyO" >}}
 
 Referencing the image above, seven groups were used for the Y-lock:
 
@@ -136,19 +136,19 @@ Most importantly, set the spawn-triggered triggers as “Multi-trigger”.
 
 1. Let’s start with making some cube gameplay.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1V4mZVCScPMn7MhTup7USnVwJRy-68L9A/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1V4mZVCScPMn7MhTup7USnVwJRy-68L9A" >}}
 
 2. Identify the initial/starting camera position. As the previous part is a dual, it’ll be easy to pinpoint the exact camera position, and build the module upon.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1_soEHhOqIuBJ-rk1573qUH6K2AglJU9R/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1_soEHhOqIuBJ-rk1573qUH6K2AglJU9R" >}}
 
 3. Roughly measure the initial position to the closest you can get.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1Vap6wI_sE4wc-f1kDZshCsxz5G8DoKK1/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1Vap6wI_sE4wc-f1kDZshCsxz5G8DoKK1" >}}
 
 4. Build the player’s collision hitbox and mark this as a dynamic block. Additionally, set the Follow Player Y’s Speed to `5.000` so that the collision block can follow the player more responsively.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1Jr9YHaZ0u1tWT_cm6_4qERbk3PIt4__l/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1Jr9YHaZ0u1tWT_cm6_4qERbk3PIt4__l" >}}
 
 - If you have scale hack, you can even reduce the collision box’s size to `0.01` for extra accuracy. This is provided in the uploaded level.
 
@@ -156,11 +156,11 @@ None
 
 5. Build the adjustment area and the necessary triggers.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1BhZno2o4bH-0so5JRTfL78g8YJdPbUEu/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1BhZno2o4bH-0so5JRTfL78g8YJdPbUEu" >}}
 
 6. Playtest.
 
-<div><iframe src=https://drive.google.com/file/d/1UQ-1tyktyGsc147Y_ODBvoydoj7FP4WK/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1UQ-1tyktyGsc147Y_ODBvoydoj7FP4WK" >}}
 
 Now that the main part is finished, it should be able to work without gravity changes. If you want gravity changes, however, there are extra steps to go through.
 

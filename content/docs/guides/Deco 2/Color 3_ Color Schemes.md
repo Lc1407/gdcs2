@@ -1,6 +1,6 @@
 ---
 title: "Color 3 (Color Schemes)"
-weight: 803
+weight: 8030
 date: 2023-11-30T00:00:00.000Z
 authors:
   - "skytriz"
@@ -31,11 +31,11 @@ Analogous colors have the lowest contrast because they’re right next to each o
 
 Here are some low contrast color schemes:
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1Ct__HZXGfhLaxuMRaI8JLQL3nHdKLFmF/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1Ct__HZXGfhLaxuMRaI8JLQL3nHdKLFmF" >}}
 
 An example of a low contrasting color work is Early Morning by Alexandre. This painting has lots of warm colours and all of them have a generally low saturation. This gives the piece a very calming and relaxed mood.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1zCNcwLvEMrbJuU0asL2mx5hOlFJbtwE2/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1zCNcwLvEMrbJuU0asL2mx5hOlFJbtwE2" >}}
 
 ## High Contrast
 
@@ -43,11 +43,11 @@ Higher contrast in your colors means higher energy. The most contrasting hues ar
 
 Here are some high-contrasting color schemes:
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1-SuZ-mn1AgeZFWOSeiVWjOBO-DNjd_Q0/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1-SuZ-mn1AgeZFWOSeiVWjOBO-DNjd_Q0" >}}
 
 Consider the second half of Tamatoa’s song in Moana, where the dominant colors are vibrant pink and cyan. The gradual shift of these colors makes it much more dramatic. Near the end, the two colors rapidly flash in Tamatoa's eyes which brings more energy and franticness to it.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1HrLO69ubNNrTKv6qNuq_soUc96wEaGQo/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1HrLO69ubNNrTKv6qNuq_soUc96wEaGQo" >}}
 
 # 2: Color Temperature
 
@@ -67,21 +67,21 @@ This effect is particularly evident when rendering elements such as plants, wher
 
 This example in Ori and the Will of the Wisps uses lots of warm colors and as such, it has a much brighter mood.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1G0mInZIY5l5T8jydC4zrzIK_iexzDqeR/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1G0mInZIY5l5T8jydC4zrzIK_iexzDqeR" >}}
 
 ## Cool Colors
 
 Cooler color palettes often evoke a more dull mood. This is shown in this example of Ori and the Will of the Wisps, where the use of cool colors contributes to a feeling of lifelessness. Notably, the game uses value contrast effectively, adding dynamism to the and instilling a sense of danger, thereby enhancing the player's engagement with the environment.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1Ijr0eFNAA6feMsEOKgxZF2jT1lkmQj_P/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1Ijr0eFNAA6feMsEOKgxZF2jT1lkmQj_P" >}}
 
 *Note that while temperature is an integral part of how we see color, it’s not the full story when it comes to mood; shapes and context are also really important.* The warm colors in the first image could easily become too hot for comfort if the forest was replaced with a volcano, for example.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1U5q6ALtCxB8s6pMXHW1OH0_ZWTHs3h1N/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1U5q6ALtCxB8s6pMXHW1OH0_ZWTHs3h1N" >}}
 
 Similarly, the more menacing cool colors in the second image could become much calmer if the image depicted something like the sky.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1jKYV-_13KE4rxonxfWXDwZicPyQsG_fI/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1jKYV-_13KE4rxonxfWXDwZicPyQsG_fI" >}}
 
 # 3: Color Schemes
 
@@ -131,11 +131,11 @@ Color accents are a nice and easy way to give your work good contrast while not 
 
 A simple way to choose an accent is to take the complementary color, shown in this example by Nine which uses greens as a base, adding magenta afterward.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1e93_Cx1X9jBwt56BqFSYUZcAgv8ab_TM/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1e93_Cx1X9jBwt56BqFSYUZcAgv8ab_TM" >}}
 
 This example by Majacko also has a nice usage of accents; very greyish blues are the main color while red is an accent.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1t50RMgaDn4KwutFtWQFNinbZP5F7Pegj/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1t50RMgaDn4KwutFtWQFNinbZP5F7Pegj" >}}
 
 # 4: Gamut Mapping
 
@@ -147,25 +147,25 @@ Kgamut is a software that allows you to see the gamut mapping of whatever image 
 
 Here's an example of an explosion by skytrizz:
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1PRv0GaAmXFSF8GKwMHb81ZnIsQq_7nrl/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1PRv0GaAmXFSF8GKwMHb81ZnIsQq_7nrl" >}}
 
 You can see that the shape it makes is not very chaotic as well as showing the map with the values in it.
 
 Here are 2 examples of Ori and the Will of the Wisps:
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1qzO7vfmaUhTD3lwQTkWhjDePll1Fci8-/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1qzO7vfmaUhTD3lwQTkWhjDePll1Fci8-" >}}
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1lFwp4Ny8duo_O3tEYCvoIO3h2mgPwB96/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1lFwp4Ny8duo_O3tEYCvoIO3h2mgPwB96" >}}
 
 You can see that the shapes they make are quite clean with lots of hard edges and no arm-like projections sticking out, which is exactly what you want a gamut map to look like.
 
 Here is an example of Ghostrunner 2 where the gamut map goes across the color wheel from blue to red, making a neat line:
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1GKtxF2fzvHXj3nMuDbj4IULSw1dcvOz7/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1GKtxF2fzvHXj3nMuDbj4IULSw1dcvOz7" >}}
 
 This is an example of what you don’t want your gamut maps to look like. There are a lot of random areas of color that can be seen in the gamut by all the arms sticking out of the main shape.
 
-<div><iframe src=https://drive.google.com/file/d/1NAv-Hu9bHZjX9NKbuHBsYagWvKI7i-6K/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1NAv-Hu9bHZjX9NKbuHBsYagWvKI7i-6K" >}}
 
 
 # Sources

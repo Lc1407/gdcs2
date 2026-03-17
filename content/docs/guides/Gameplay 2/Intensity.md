@@ -1,6 +1,6 @@
 ---
 title: "Intensity"
-weight: 711
+weight: 7110
 date: 2024-03-11T00:00:00.000Z
 authors:
   - "tdp9"
@@ -36,7 +36,7 @@ Intense levels can also be more memorable to the player. With emotional and inte
 
 Kinesiophobia by TheJosiahTurner meets these principles extraordinarily well, with an intense song, fast gameplay, and many fast movements from the layout and the player.
 
-{{< youtube cUtPnX_wtgk >}}
+{{< youtube cUtPnX_wtgk >}} 
 
 # 3: Balancing and Implementing Intensity
 
@@ -52,7 +52,7 @@ WOW by Trusta and more slowly leads to intense spam in the first half of the lev
 
 Nhelv by SirGuillester, Notlsa, and Dienid constantly switches between intense and calm sections. The calm sections are used to build up into intense parts, while also serving to provide a quick break to the player.
 
-{{< youtube O5Oug4mthTU >}}
+{{< youtube O5Oug4mthTU >}} 
 
-{{< youtube WmqyZP4VP00 >}}
+{{< youtube WmqyZP4VP00 >}} 
 

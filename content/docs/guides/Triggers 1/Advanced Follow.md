@@ -1,6 +1,6 @@
 ---
 title: "Advanced Follow"
-weight: 312
+weight: 3120
 date: 2024-01-08T00:00:00.000Z
 authors:
   - "naem.less"
@@ -21,7 +21,7 @@ draft: false
 ** **
 # 1: Basics
 
-Advanced Follow is split into three triggers:  **Advanced Follow**, **Edit Adv Follow**, and **Re-Target Adv Follow**. *Note that the last two triggers require an active advanced follow in the level to function.*
+Advanced Follow is split into three triggers: **Advanced Follow**, **Edit Adv Follow**, and **Re-Target Adv Follow**. *Note that the last two triggers require an active advanced follow in the level to function.*
 
 Active Advanced Follow triggers persist even when toggled off. To stop them, you need to use a Stop or Pause trigger. This also applies to Edit Advanced Follow and Re-target Advanced Follow triggers targeting an active Advanced Follow trigger.
 
@@ -42,7 +42,7 @@ P1, P2, and C are special centers which are respectively assigned to Player 1, P
 
 The video below demonstrates how Exclusive works. To start off, you can see that the first advanced follow trigger has exclusive turned off. When I touch the second trigger, the spike moves faster due to MaxSpeed stacking. However, when Exclusive is enabled, activating the second trigger doesn't stack the movements.
 
-{{< youtube FVoTbm1j5lo >}}
+{{< youtube FVoTbm1j5lo >}} 
 
 - **X Only/Y Only**: The objects will only consider the X or Y position of the Follow GID.
 - **Rotation Offset:** Offsets the object rotation in degrees. Positive values rotate to the right and negative to the left. Zero is upwards.
@@ -71,7 +71,7 @@ You can see what mode you're currently on and change the modes by selecting the 
 
 The box next to the max range is the **Range Center ID**. Normally, when you set a MaxRange the target GID(s) will use their own center or the structure’s center. Entering a group into this box will set the group as the range center. *This is also a one-object group.*
 
-{{< youtube 5WRY1AA2AG8 >}}
+{{< youtube 5WRY1AA2AG8 >}} 
 
 ## Mode 2: Accelerated Follow
 
@@ -83,10 +83,10 @@ The box beside this option allows you to input a singular object's group. The ta
 - **Acceleration:** Sets the objects’ acceleration. They will continue to accelerate until the max speed is reached.
 - **Friction**: The friction applied to the objects as they move.
 - **NearDist:** Sets the distance for which objects are considered near the target. *Note that one block is equal to 30 units.*
-- **NearFriction**: The object’s friction when it  near the target. What counts as near is configured by the NearDist value.
+- **NearFriction**: The object’s friction when it near the target. What counts as near is configured by the NearDist value.
 - **NearAccel**: The object’s acceleration when it moves near the target. What counts as near is configured by the NearDist value.
 
-{{< youtube 5Gp9EL9s-ZI >}}
+{{< youtube 5Gp9EL9s-ZI >}} 
 
 ## Mode 3: Complex follow
 
@@ -107,7 +107,7 @@ Unlike the previous modes, this follow mode has 2 pages of settings and is much 
 
 The upper checkbox on page 3 is to enable the SteerForceLow and SpeedRangeLow sliders, while the one on the bottom is to enable SteerForceHigh and SpeedRange High. If you don't enable these checkboxes, their respective options won't apply their settings.
 
-{{< youtube m-c9a53mRvU >}}
+{{< youtube m-c9a53mRvU >}} 
 
 # 3: Edit Advanced Follow
 
@@ -122,13 +122,13 @@ This trigger lets you edit certain properties of an active advanced follow trigg
 *Note that Control ID may not appear in Extra 2 due to a possible bug, but this may be fixed in the future.*
 - **Redirect Dir**: Redirects the direction towards a reference object, whose group you input in an input box towards the bottom right.
 
-In this video, there are 3 edit advanced follow triggers. The first one accelerates  the spike toward the top of the screen. This can be changed by setting an angle in “Dir”.
+In this video, there are 3 edit advanced follow triggers. The first one accelerates the spike toward the top of the screen. This can be changed by setting an angle in “Dir”.
 
 The second trigger does the same as the first, but now a small triangle is set as the reference object. You can see the spike move towards it instead of the top of the screen. You can still offset this by using “Dir”.
 
 The third trigger modifies the XY movement of the spike by flipping its direction using the X and Y mods.
 
-{{< youtube 6GJu6CpBBsU >}}
+{{< youtube 6GJu6CpBBsU >}} 
 
 # 4: Re-Target Advanced Follow
 
@@ -140,7 +140,7 @@ The third and final trigger allows you to change the Target GID of an active adv
 
 In this video, you can see the particle trails collide with the player, re-target themselves, and move toward a stationary particle object near the beginning of the level. Upon colliding with that particle they get re-targeted again and move toward the player.
 
-{{< youtube Zfd4fDdxDdI >}}
+{{< youtube Zfd4fDdxDdI >}} 
 
 # 5: Stacking
 

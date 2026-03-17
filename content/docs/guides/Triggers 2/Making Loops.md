@@ -1,6 +1,6 @@
 ---
 title: "Making Loops"
-weight: 607
+weight: 6070
 date: 2024-11-30T00:00:00.000Z
 authors:
   - "tdp9"
@@ -23,11 +23,11 @@ A spawn loop is the most well-known and common loop. It uses a sequence of spawn
 
 The setup consists of three main parts: the activator, the steppers, and the looper. The **activator** is the __spawn trigger that initially activates the loop__. The **steppers** are the __spawn triggers that activate the next “steps” or sets of triggers in the loop__. The **looper** __reactivates the first set in the loop so that the loop can repeat__. If the loop only contains one set of triggers that activates itself, that set acts as both the stepper and the looper.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1tE4WH1JBi8gy1HdeXRUOEzr7zpM1sNNp/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1tE4WH1JBi8gy1HdeXRUOEzr7zpM1sNNp" >}}
 
 Each spawn trigger within the loop has a delay, which is the time it takes to activate the next step in the loop. You can add or remove steps by putting the necessary number of steppers needed for the loop.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/14-EiHzIWbwQ8Vth39YeLZaSmJMYwn6lO/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/14-EiHzIWbwQ8Vth39YeLZaSmJMYwn6lO" >}}
 
 ## Setup
 1. Place down a spawn trigger (or any other condition trigger) and have it target a new group. This is the activator.
@@ -43,7 +43,7 @@ The Create Loop function is a button that can be found in the pause menu of the 
 
 If some selected triggers have the same x-position, they will be combined as part of a single stepper. This function determines the delay between each step based on the time it takes for the editor line when playing music to reach each stepper. This means the delay can be affected by speed portals. The best way to see this is by enabling the “Duration Lines” option.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/19yffJNR1QgBc7cg0Bf3X0qjRLXCAZy8M/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/19yffJNR1QgBc7cg0Bf3X0qjRLXCAZy8M" >}}
 
 Because of this, if you were to try to create a loop with only a single stepper, the function would get confused and have no delay as there isn’t another stepper to use as a reference. In this case, you would have to manually set a delay for the setup to work.
 
@@ -67,7 +67,7 @@ This loop is similar to the regular spawn loop, except it makes use of the “Sp
 
 This saves both groups and time, with a drawback being accuracy. The looper also needs to have spawn ordered enabled to keep the loop going, which means the delay timer won’t work. This also means the loop *must* be activated with a spawn trigger.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/17SrVANy69xlq-klK2dIh1ee7ObXb4sri/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/17SrVANy69xlq-klK2dIh1ee7ObXb4sri" >}}
 
 ## Setup
 1. Place down a spawn trigger and have it target the next free group. Make sure the “Spawn Ordered” option is enabled.
@@ -93,7 +93,7 @@ Video: https://cdn.discordapp.com/attachments/827766936762056705/128801240473469
 
 This loop uses the spawn remap feature to remap the groups within the steppers. This gives you all the benefits of using spawn remap while also maintaining a loop.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1T0F-JEGbVdj6Id4mHS-1rPjI4yoAtFCG/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1T0F-JEGbVdj6Id4mHS-1rPjI4yoAtFCG" >}}
 
 The above example uses spawn ordered to activate the loop, but any other looping method can work as long as the looper uses a spawn trigger with spawn remap. Keep this in mind throughout the explanation.
 
@@ -103,27 +103,27 @@ The loop works by having the looper triggers remap two kinds of values:
 
 The first step is to add a buffer trigger, which will be a spawn trigger. It will be the first trigger to be activated in the loop.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1FssVPQezFswVyAWXc01gn_m4EbhMZJTj/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1FssVPQezFswVyAWXc01gn_m4EbhMZJTj" >}}
 
 This will target the steppers in the loop. This allows the loop to be remapped to a different group that will target a different looper on each iteration. Within the spawn trigger, there will be a remap that will change the values in the steppers. **This remap is crucial, as without it the loop will crash.**
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1x1ZgZu7kNm-vjL_8GC4PJ7xBjFSBRo5w/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1x1ZgZu7kNm-vjL_8GC4PJ7xBjFSBRo5w" >}}
 
 The OriginalID is a placeholder value that will not be used, so make sure to keep an unused group to place there. This is the value that needs to be put in your stepper triggers and will be remapped. The NewID is the ID that will be remapped every loop; the one shown here will be the group activated on the first iteration.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1OH8vWiFm35_7xowjp_lGUDdU-EB4zrSV/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1OH8vWiFm35_7xowjp_lGUDdU-EB4zrSV" >}}
 
 The looper will spawn the buffer trigger again, this time remapping the values within that spawn trigger. **The loopers must have “Reset Remap” enabled so previous remaps do not carry over, otherwise the game will crash.**
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1IJJlWUqk9z0VIen2kYUUN00Qo_u5ST1b/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1IJJlWUqk9z0VIen2kYUUN00Qo_u5ST1b" >}}
 
 The first pair of remaps will change which group the final stepper spawns (or if you use spawn ordered, it remaps which group the buffer trigger spawns). This will change which looper is activated next iteration. This also means that **the steppers activated by the OriginalID must have the NewID as well.**
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1lBnvb0UdwQx3MfgP4-nmUOmZzw-D_Yp_/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1lBnvb0UdwQx3MfgP4-nmUOmZzw-D_Yp_" >}}
 
 From then on, keep adding as many loopers as necessary for your setup, creating unique remaps for each of them and assigning the appropriate groups. The final looper will have no remaps on it, allowing the loop to go back to the first looper.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1veuEo198qkCb4oSTde6AhZ3_7wxtTchv/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1veuEo198qkCb4oSTde6AhZ3_7wxtTchv" >}}
 
 ## Setup
 1. Place down your activator to start the loop. Have it target a new GroupID.
@@ -150,7 +150,7 @@ Use the method for breaking and resetting the loop for whichever loop you used f
 
 A collision loop is made up of collision blocks. A main collision block moves through a line of other collision blocks via a move trigger (the activator), each one acting as a stepper that activates a group of triggers. The final collision block in the line acts as the looper as it will activate a move trigger that moves the main block back, resetting the loop.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1mFXtX0SrLqzYNfehMWXG0NLCbg3mpgcC/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1mFXtX0SrLqzYNfehMWXG0NLCbg3mpgcC" >}}
 
 ## Setup
 1. Place down your main block with a unique Collision ID and have it set as a Dynamic Block. Give it a new group.
@@ -207,7 +207,7 @@ Video: https://cdn.discordapp.com/attachments/827766936762056705/128801808955998
 
 The time event loop makes use of the time and time event triggers. Time triggers will act as the activator (starting the timer) and the looper (resetting the timer), while the time event triggers will activate steppers when the timer hits your desired time.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1Zy50nY61xprmHg4i1GZSjF72YlebhgAD/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1Zy50nY61xprmHg4i1GZSjF72YlebhgAD" >}}
 
 ## Setup
 1. Place down a time trigger to start the timer. Assign it to a unique Item ID. This is the activator.
@@ -221,7 +221,7 @@ Video: https://cdn.discordapp.com/attachments/827766936762056705/128357481940910
 ## Using “Stop Time”
 If only one stepper is needed in the loop, the time trigger’s “Stop Time” feature can be used.
 
-<div><iframe src=https://drive.google.com/file/d/1BJQ10Fp9WAEjkiMZWQqnsqGZSPnBqxuw/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1BJQ10Fp9WAEjkiMZWQqnsqGZSPnBqxuw" >}}
 
 1. Have your desired activator spawn a new Group ID.
 2. Place down a time trigger and give it the Group ID. Make sure it’s spawn and multi-triggered.

@@ -1,6 +1,6 @@
 ---
 title: "Making Structures"
-weight: 418
+weight: 4180
 date: 2023-07-12T00:00:00.000Z
 authors:
   - "komatic5"
@@ -27,29 +27,29 @@ Additionally, they can help prevent bugs by making it hard for people to skip se
 
 Structures have **essential points**. __These contain the areas the player will interact with, and the hazards they will avoid__. Some examples of essential points are the tops of platforms and any spikes the player can die to, as they guide a majority of the player’s actions.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1NY5lx7VEcdsCii4T7OAFgeYan6NBYo0T/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1NY5lx7VEcdsCii4T7OAFgeYan6NBYo0T" >}}
 
 The rest of your structures should be oriented so they point towards your essential points. This will clarify what the player should aim for and avoid. In this example, a player can easily identify where the platforms are, and where they *shouldn’t* click if they want to make it to the right ones.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/10LUsXZam7B8pW21q9UWFy0Oc_yjAePSu/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/10LUsXZam7B8pW21q9UWFy0Oc_yjAePSu" >}}
 
 Be wary about where you place your essential points, as you can easily mislead players if you’re not careful. For example, since platforms are a major essential point, you can easily trick a player into not jumping when they’re supposed to, like in this example.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1-rZNOaciaUlohb-WOxXrvzVEUmtVPtod/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1-rZNOaciaUlohb-WOxXrvzVEUmtVPtod" >}}
 
 You can fix this by adding hazards to show that the player will die if they don’t jump.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1FHn6fGP-On5TCs4OtpZQ6LkERDo2DR5B/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1FHn6fGP-On5TCs4OtpZQ6LkERDo2DR5B" >}}
 
 # 3: Preventing Skips
 
 Structures are also very good for preventing skips in gameplay. This is quite obvious; the sides of blocks simply kill players who try to cheese segments. You’ll have to do playtesting to identify where skips are in your level, then you can modify your structure shapes and add hazards accordingly.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/11Pp3ksdMEG7mseYXOCfhYOBmpKxwTlns/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/11Pp3ksdMEG7mseYXOCfhYOBmpKxwTlns" >}}
 
 If all else fails, put a wall of spikes at the floor and ceiling of your level. You can also put this contraption in your level to stop people from using Noclip.
 
-<div><iframe src=https://drive.google.com/file/d/1bmYcjtpVUFxdjJh0zhmBrW_X2HQFUqle/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1bmYcjtpVUFxdjJh0zhmBrW_X2HQFUqle" >}}
 
 # 4: Tips for Decoration
 

@@ -1,6 +1,6 @@
 ---
 title: "Toggle"
-weight: 306
+weight: 3060
 date: 2024-01-08T00:00:00.000Z
 authors:
   - "komatic5"
@@ -19,4 +19,4 @@ draft: false
 
 The toggle trigger uses groups to toggle objects on and off. Static objects – that is, ones with hitboxes – can’t be interacted with when they’re toggled off. This means that the player will pass through blocks and spikes, nor will they see them.
 
-{{< youtube -Q8QEo5ogxM >}}
+{{< youtube -Q8QEo5ogxM >}} 

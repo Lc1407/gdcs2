@@ -1,6 +1,6 @@
 ---
 title: "Solving Problems"
-weight: 205
+weight: 2050
 date: 2024-07-31T00:00:00.000Z
 authors:
   - "komatic5"
@@ -75,15 +75,15 @@ For our example, here are some answers to the prior questions:
 
 **“How can I find which object is stopping the Static camera?”**
 
-> - Check Trigger Order and Channels, and ensure the Arrow trigger doesn’t interfere with this
-> - Remove individual objects to see if the system keeps breaking
-> - Make sure our object is compatible with the Static trigger (portals won’t work, neither will objects that are toggled off)
-> - Double-check each group – our camera object must be in a unique group, or our static cam trigger may be getting stopped by a Stop trigger or another Static trigger
+- Check Trigger Order and Channels, and ensure the Arrow trigger doesn’t interfere with this
+- Remove individual objects to see if the system keeps breaking
+- Make sure our object is compatible with the Static trigger (portals won’t work, neither will objects that are toggled off)
+- Double-check each group – our camera object must be in a unique group, or our static cam trigger may be getting stopped by a Stop trigger or another Static trigger
 
 **“How can I remake this system without using Static triggers?”**
 
-> - Use Camera Edge triggers to restrict the horizontal camera movement
-> - Use Move triggers to simulate the camera moving around
+- Use Camera Edge triggers to restrict the horizontal camera movement
+- Use Move triggers to simulate the camera moving around
 
 ## 5: Choose the Best Solutions
 

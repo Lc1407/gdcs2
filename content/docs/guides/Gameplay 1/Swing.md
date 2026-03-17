@@ -1,6 +1,6 @@
 ---
 title: "Swing"
-weight: 421
+weight: 4210
 date: 2024-10-31T00:00:00.000Z
 authors:
   - "kriticsoul"
@@ -47,9 +47,9 @@ None
 
 On the other hand, Dash and Cosmic Dolphin by **DeeperSpace** both provide a good example of a wide area that allows the Swing to fly with no strict path. The gameplay is built in an intuitive way, without using any indicators; the player knows when to change gravity to go as the path shows. This type of gameplay gives freedom to the player, but normally this would be reserved for easier levels that let such gameplay sections work in the first place.
 
-{{< youtube LELzrqozNpI >}}
+{{< youtube LELzrqozNpI >}} 
 
-{{< youtube PKkXkHQsOIk >}}
+{{< youtube PKkXkHQsOIk >}} 
 
 # Relation to Other Gamemodes
 
@@ -74,15 +74,15 @@ However, there are a lot of song’s sections where the gamemode not only fits g
 
 - Calm sections that don't require a lot of inputs but still need a flying sensation. See Golden Hour by **Zoroa**.
 
-{{< youtube ZraYSyCNer0 >}}
+{{< youtube ZraYSyCNer0 >}} 
 
 - Sections with quick, separated notes that let the Swing’s function to go in sync, while making the change in gravity noticeable. See Placid Ivy Grove.
 
-{{< youtube m2hIWrhwEnE >}}
+{{< youtube m2hIWrhwEnE >}} 
 
 - Sections with several few notes and separated notes, that allow you to mix in with Portals, Orbs, and Swing’s function. See the following example I made.
 
-{{< youtube jjrmibWqk3g >}}
+{{< youtube jjrmibWqk3g >}} 
 
 # Side Notes and Applications
 

@@ -1,6 +1,6 @@
 ---
 title: "Mechanics 2 (Gameplay Loops)"
-weight: 702
+weight: 7020
 date: 2023-12-26T00:00:00.000Z
 authors:
   - "komatic5"
@@ -38,13 +38,13 @@ VEIL by neigefeu:
 
 - The gameplay loop here revolves around the orbs tracking the player’s position - a custom mechanic in the level. Think of learning the level as the following steps: “Look at the next section, determine where I’ll need to click on the orbs, move properly to position the orbs now, repeat”. The mechanic is intuitive and can be seen from the first few seconds of the gameplay.
 
-{{< youtube 0mYIK9zp5eI >}}
+{{< youtube 0mYIK9zp5eI >}} 
 
 DAYA by WerewolfGD:
 
 - The gameplay loop in this section revolves around controlling the player’s position using the 2-player mode. This is how you’d learn the section: “Look at the next section, determine where I need to move properly to avoid dying, repeat”. Unfortunately, this mechanic is introduced halfway through the level which gives the player less time to get used to it. Additionally, the mechanic suffered from bugs which made it harder to understand.
 
-{{< youtube 0XdeZ9zlyg8 >}}
+{{< youtube 0XdeZ9zlyg8 >}} 
 
 # 2: Good Gameplay Loops
 

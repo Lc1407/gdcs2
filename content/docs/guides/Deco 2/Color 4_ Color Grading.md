@@ -1,6 +1,6 @@
 ---
 title: "Color 4 (Color Grading)"
-weight: 804
+weight: 8040
 date: 2024-08-15T00:00:00.000Z
 authors:
   - "galofuf"
@@ -57,7 +57,7 @@ While most color symbolism depends on things like culture (as evidenced by Black
 
 APEIROPHOBIA by Ph4lip focuses on a very ominous and threatening mood, using dark and dull colors to increase the level’s immersion.
 
-{{< youtube p-BUROO_-z0 >}}
+{{< youtube p-BUROO_-z0 >}} 
 
 ## Finding Your Color Palette
 The most effective way to do this is by creating the decoration using its normal colors, then altering them later to match the mood you want to convey, through trial and error. You can also browse reference images based on your theme, and examine the color palettes that they use, utilizing them when making your level.
@@ -66,17 +66,17 @@ The first part in Postbluane, created by Deovise, invokes a very calm, yet adven
 
 Anarchy Road by Komatic5 enhances the destruction of the city by using red tints to invoke a more violent feel.
 
-{{< youtube QHe2vLYCvSQ >}}
+{{< youtube QHe2vLYCvSQ >}} 
 
-{{< youtube kY_iLItMdWw >}}
+{{< youtube kY_iLItMdWw >}} 
 
 One way to learn how different colors work together is by altering the color palette of an existing artwork. In the following example, I will use mine.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1oW8Z7ideTpePacI3WN3MLp7fxCP77_9w/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1oW8Z7ideTpePacI3WN3MLp7fxCP77_9w" >}}
 
 I have made 5 other versions, each with a different color scheme.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1UuodsuVmJ5peI3CLkHvqxxxF4yBGZRJ3/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1UuodsuVmJ5peI3CLkHvqxxxF4yBGZRJ3" >}}
 
 Although every version depict the same set of clouds and scenery, each artwork invokes a different mood (e.g. Time of day, Temperature), due to the change in color palettes. This activity allows you to understand how specific color combinations can lead you to specific atmospheres.
 
@@ -96,12 +96,12 @@ Pulses are generally used to show intensity. However, when sticking to a theme, 
 
 An example of mine shows strong pulses that don’t necessarily disrupt the mood of the level. To stick to a cold atmosphere, I stuck with pulses around the blue range, to allow the cold mood to maintain itself throughout the level.
 
-{{< youtube Njg8nLXN4-M >}}
+{{< youtube Njg8nLXN4-M >}} 
 
 ## Tools of the Trade: Edit Color Trigger
 When you open the **Edit Color** shader trigger, you will be greeted with this menu.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1NPELig6bZgiHzCXV7zm3pJrvX1Y_i9eE/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1NPELig6bZgiHzCXV7zm3pJrvX1Y_i9eE" >}}
 
 The top row (CR, CG, CB) affects the tints of each corresponding color (Red, Green, Blue). A value of 1.00 implies no tint. A value **greater than 1.00** __strengthens__ the tint of the color, while a value **lower than 1.00** __uses up the colour__ more instead.
 
@@ -111,19 +111,19 @@ Here’s an example on using the Edit Color trigger to alter color schemes, usin
 
 Here is what the original looks like:
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1xaYLHxINWGZ6BzYH7y5CQYwMI6hS0Tea/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1xaYLHxINWGZ6BzYH7y5CQYwMI6hS0Tea" >}}
 
 Here is an example where I was trying to get a cooler, blue mood, but the colors needed to be corrected:
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1tehI42JAsomZG1rKfoAdKXFOK4CMKibO/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1tehI42JAsomZG1rKfoAdKXFOK4CMKibO" >}}
 
 Although a blue tint helps with a cooler mood, too much of it may just make it look more “blue” than “cool”. We can take a look at several images of cooler nature, and try to take inspiration.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1vvoXwmfDWC8zDjYOx4LNE6c5CQXVNCk9/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1vvoXwmfDWC8zDjYOx4LNE6c5CQXVNCk9" >}}
 
 We can see that most of the green colors are visible, and that the blue is slightly grayed out. On our Edit Color trigger, we can try to reduce the blue colors, and keep most of the green present like how the image depicts it. We can also resort to altering the colors themselves if we can’t get our desired color scheme with just the Edit Color Trigger alone.
 
-<div><iframe src=https://drive.google.com/file/d/1YVhchkq_Cnb94GMrVqu2v_zP-IgImIiM/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1YVhchkq_Cnb94GMrVqu2v_zP-IgImIiM" >}}
 
 Though still not the best, this definitely looks a lot more reasonable than the earlier example.
 

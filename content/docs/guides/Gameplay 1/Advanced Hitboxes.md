@@ -1,6 +1,6 @@
 ---
 title: "Advanced Hitboxes"
-weight: 409
+weight: 4090
 date: 2023-11-01T00:00:00.000Z
 authors:
   - "mateussdev"
@@ -22,7 +22,7 @@ To preface things: Geometry Dash uses multiple **hitboxes** to register collisio
 
 These hitboxes, from a game design standpoint, do not need to be accurate to the object’s texture, hence you get hitboxes like this:
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/12rLUgwsms6AQZVJp51PdN34McN8R1kA2/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/12rLUgwsms6AQZVJp51PdN34McN8R1kA2" >}}
 
 You most likely know that hitboxes in GD are not perfect, however you may be interested to know how the player behaves, and in what cases will the player die.
 
@@ -40,7 +40,7 @@ This is the largest hitbox and the one that is most often used. It is exactly 30
 
 This hitbox is also sometimes called the AABB hitbox (Axis Aligned Bounding Box) because the game performs a different mathematical formula to calculate the position, unlike most other hitboxes.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1qUG96e1Pm4w-fWefKFTXvY52rhpD_n2S/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1qUG96e1Pm4w-fWefKFTXvY52rhpD_n2S" >}}
 
 ## Collisions
 
@@ -49,7 +49,7 @@ This hitbox is also sometimes called the AABB hitbox (Axis Aligned Bounding Box)
 - This hitbox will not collide with anything rotated, meaning that if you rotate a spike by a small degree it will no longer collide with the main hitbox. It will instead collide with the Rotated hitbox, which will be gone over later.
 - This hitbox is used as an anchor on collisions with solid blocks, allowing the player to stay on top of structures.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1e3bGwPqGYHWb_S487Vzf_E_vA5pRQGKS/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1e3bGwPqGYHWb_S487Vzf_E_vA5pRQGKS" >}}
 
 ## Properties
 
@@ -63,7 +63,7 @@ This hitbox is also sometimes called the AABB hitbox (Axis Aligned Bounding Box)
 
 This hitbox resides inside of the main one that is exclusively for **checking collisions between itself and solid blocks**. It’s there to prevent the player from simply crashing into a structure and moving through it. This hitbox is smaller so that you have more time to react to collisions with solid objects.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1IprS3loJGUmIdhW2BCnwzAgJtsTle-U0/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1IprS3loJGUmIdhW2BCnwzAgJtsTle-U0" >}}
 
 ## Collisions
 
@@ -74,7 +74,7 @@ This hitbox resides inside of the main one that is exclusively for **checking co
 
 This hitbox is an interesting one, as it uses the Oriented Bounding Box formula (OBB for short) compared to other mentioned hitboxes.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1pTEqOmICFH2Y2JG-fB_-wT7kpN6K-XCw/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1pTEqOmICFH2Y2JG-fB_-wT7kpN6K-XCw" >}}
 
 ## Collisions
 
@@ -90,7 +90,7 @@ This hitbox is an interesting one, as it uses the Oriented Bounding Box formula 
 
 This hitbox is usually not noticed by the player, which determines collisions with slopes on their diagonal side. It takes form as a circle that is inscribed within the main hitbox of the wave.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1dlMO_fyATvm8bNgrJ4i0DKSvdToJYwqt/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1dlMO_fyATvm8bNgrJ4i0DKSvdToJYwqt" >}}
 
 This hitbox is most noticeable during the wave gamemode, where the cause of death is usually not known, as the other hitboxes mentioned above don’t match the conditions for collision and/or death. From a game design standpoint, this may not be a true hitbox, and may be only used to enable collision for the other hitboxes in select cases.
 
@@ -102,7 +102,7 @@ This hitbox is most noticeable during the wave gamemode, where the cause of deat
 
 - This hitbox cannot be used to add difficulty, only to ensure that potential gaps like these are physically impossible.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1VCZI3rY1Pnl4MzufBratHEsgJbHNHc-N/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1VCZI3rY1Pnl4MzufBratHEsgJbHNHc-N" >}}
 
 - This hitbox has no subframes.
 
@@ -114,11 +114,11 @@ Subframes are __4 additional checks between every 2 frames__ of the game. They a
 
 In most cases the collisions are not the same as running the game on your frame rate multiplied by 4 due to some notable inaccuracies.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1jgDYiRQFQ0CpDdosYWymEST8lZVe_X7A/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1jgDYiRQFQ0CpDdosYWymEST8lZVe_X7A" >}}
 
 In this diagram we are running the game on a low frame rate. Red squares are hitboxes that are placed during physics frames and the Pink boxes represent subframes. Subframes do not move in a parabolic motion, but are instead linear across each frame of physics.
 
-<div><iframe src=https://drive.google.com/file/d/1jJn7a3ZUjf-m9oI9GNx_ij1-ZLc0SdkR/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1jJn7a3ZUjf-m9oI9GNx_ij1-ZLc0SdkR" >}}
 
 This mechanic was mainly created to prevent the player from phasing through structures on low FPS, hence this mechanic isn’t applicable for levels that are above 240 fps since the distance is minuscule.
 

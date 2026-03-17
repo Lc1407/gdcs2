@@ -1,6 +1,6 @@
 ---
 title: "Planning a Level"
-weight: 202
+weight: 2020
 date: 2025-03-25T00:00:00.000Z
 authors:
   - "komatic5"
@@ -29,7 +29,7 @@ If you just finished generating ideas, you'll have extras which can work as seco
 
 Usually secondary ideas come in two forms: a specific idea which is used in an **entire part** of a level, or a **general idea** used throughout the whole level (but less important than the main idea). In Robtop's level Dash, the second swingcopter *solely* uses electricity objects and fireballs which counts as a secondary idea to the primary "fire & brimstone" aesthetic. Conversely, the pixel objects used throughout the level count as a general secondary idea - he could've made the whole level without using them, after all. You can connect these ideas together with a graphical tool such as a **mind map** - here's an example made by Chunlv1 for the Space Gauntlet.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1ssR184kI4heQiuR_5synWYg1wnzxOKdC/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1ssR184kI4heQiuR_5synWYg1wnzxOKdC" >}}
 
 This idea of secondary ideas *can be applied recursively*, too; you can have tertiary ideas, quaternary ones, and so on - each with a smaller and smaller impact on the level at large. Usually these less impactful ideas don't need to be as relevant to the total level, such as **easter eggs**. Ultimately though, breaking your main ideas into smaller steps helps to flesh them out enough to establish specific things for your level, which is a massive time-saver for executing these ideas.
 
@@ -53,7 +53,7 @@ The first section of the document shows my *main idea* and the *part breakdown* 
 
 By this point *your main idea should be fairly specific*, as discussed in the last guide. You can also get more specific with your smaller ideas & incorporate them into your plan. In my case, an example of this is the *asset list* I included in the document. I also included sections for small & minute details as well - most of these were ideas which came to mind when I was away from the level, but I wanted to document for later.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1qlNQhiJfUmu_ntZWuxh9qrsm3pnN0sVR/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1qlNQhiJfUmu_ntZWuxh9qrsm3pnN0sVR" >}}
 
 ## Resource Allocation
 Resources answer the "how" of planning a level. On a road trip you might bring a GPS, food & drink, and enough gasoline in your car to make it to your destination. In GD, these resources are **IDs**, **layers**, and **objects**.
@@ -62,7 +62,7 @@ Usually you don't need to explicitly plan these to the same extent as your ideas
 
 Depending on how complex your level plan is, you'll need to set aside more groups and color channels for specific, universal purposes. You may also need to *document your resource uses* within the level, or in a separate space. The more documentation you have, the slower the actual building process can become, but the easier it gets to take breaks from your level and resume work quickly. This is especially true of complex levels with hundreds or thousands of moving parts.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1A6PAhuatLUTNnjNyVqTE-RXlEknoH1DK/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1A6PAhuatLUTNnjNyVqTE-RXlEknoH1DK" >}}
 
 ## Level Scope
 Levels can be as short as 10 seconds or as long as 3 minutes or more. As a result, you may not have enough space, resources, or time to fully communicate your main idea or secondary ideas. It's important to *set your scope* appropriately as a result.
@@ -72,7 +72,7 @@ The **Tradeoff Triangle** is a good representation of how tradeoffs work. With i
 - **High quality** levels which are **finished quickly**, but are **poorly optimized**
 - **Well optimized** levels which are **finished quickly**, but have **poor quality**
 
-<div><iframe src=https://drive.google.com/file/d/1J1FDsdiuBol5-nQ6Le3Z1pc-RZgYs2eX/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1J1FDsdiuBol5-nQ6Le3Z1pc-RZgYs2eX" >}}
 
 More broadly, you can describe tradeoffs in the same way as a scale. If you put too much weight on one part, the other parts will suffer. You can emphasize multiple parts at once, and that'll hurt whichever qualities remain. But at the same time, if you try to make everything completely balanced, you end up with a mid level.
 

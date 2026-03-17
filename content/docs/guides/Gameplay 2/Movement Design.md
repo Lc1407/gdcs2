@@ -1,6 +1,6 @@
 ---
 title: "Movement Design"
-weight: 719
+weight: 7190
 date: 2024-11-30T00:00:00.000Z
 authors:
   - "interestex"
@@ -32,7 +32,7 @@ If you want your player to feel like their inputs are WORKING in your game, you�
 
 -# *When swapping directions, you don’t immediately reverse which can lead to unintended results like falling off the platform at the end.*
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1wCsCU9JSutEoJEvGRiDxjAYUOUp5Oysk/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1wCsCU9JSutEoJEvGRiDxjAYUOUp5Oysk" >}}
 
 This can be incredibly important depending on the game you’re making. For instance, if you want to make a precise platformer, you need your controls to be responsive to the point where the action happens *immediately* after the button is pressed. Input delay would make the game seem extremely unfair and annoying (which probably isn't fun). It isn’t a be all end all though, because unresponsive controls can feel more limiting which will need to new forms of gameplay as mentioned later on in the guide and also in [Mechanics 5](/docs/guides/gameplay-2/mechanics-5-limitations-strategy/), as long as it feels intended and still fun to use.
 
@@ -41,7 +41,7 @@ This can be incredibly important depending on the game you’re making. For inst
 
 -# *Small differences can lead to different results, even though the player did almost all of the inputs correctly. This is an example of a small part from Zip Lash by GD Colon*
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1I-RfBmkkp8kv6X_L84J3iHyHwh-2CqnQ/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1I-RfBmkkp8kv6X_L84J3iHyHwh-2CqnQ" >}}
 
 This might seem easy to do, but it really depends on how your mechanics are made. Having a movement that’s heavily influenced by other subtle aspects can feel inconsistent, even though you still generally get the same movement, because small things like the timing and the direction you’re moving can change a lot.
 
@@ -55,7 +55,7 @@ There are plenty more layers to level design, but that’s outside the scope of 
 
 -# *The movement feels much more substantial and satisfying after the visuals and sound effects.*
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/14pIqcMEaQ7dlxPZPdq_hcRqbvHBEVGjD/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/14pIqcMEaQ7dlxPZPdq_hcRqbvHBEVGjD" >}}
 
 Here are also some more complex, but important ideas that should be thought about:
 
@@ -75,11 +75,11 @@ It is also pretty important to balance the player’s freedom’s and limits in 
 
 ## Bad Movement System 1 (Dash)
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1iEdcQ5wbtVvOK2AJBa0KgNFkLWoSs6Iw/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1iEdcQ5wbtVvOK2AJBa0KgNFkLWoSs6Iw" >}}
 
 This is an example of a bad movement system. For starters, the dash feels WAY too inconsistent and unresponsive, making it hard to use it in the right way when it’s needed. Also, there’s no feedback for the player to know that a dash was used, apart from the movement alone.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1JayiH2lnkK4pU5nVVRauuddc9fuoBN97/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1JayiH2lnkK4pU5nVVRauuddc9fuoBN97" >}}
 
 ** **
 
@@ -87,11 +87,11 @@ How do we fix this? We can try making the dash more consistent by using two tele
 
 ## Bad Movement System 2 (Wall Jump)
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1BUNk82LoHKGpHUhVYSgtunjZzf0xcFzV/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1BUNk82LoHKGpHUhVYSgtunjZzf0xcFzV" >}}
 
 Here’s another example; a basic wall jump that you see in lots of levels. It gets the job done, but not only does it lack player feedback (which is extra annoying in this example as it just looks like weird sliding), but the weird bouncing makes the wall jump feel uncontrollable and inconsistent, making it less dynamic and harder to manage.
 
-<div><iframe src=https://drive.google.com/file/d/1pWA8zpVtUKALnuj8BHd5zU0GtbwTAoty/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1pWA8zpVtUKALnuj8BHd5zU0GtbwTAoty" >}}
 
 ** **
 

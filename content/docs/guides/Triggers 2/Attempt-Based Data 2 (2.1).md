@@ -1,6 +1,6 @@
 ---
 title: "Attempt-Based Data 2 (2.1)"
-weight: 618
+weight: 6180
 date: 2024-04-19T00:00:00.000Z
 authors:
   - "typexleta"
@@ -19,17 +19,17 @@ draft: false
 {{< /callout >}}
 
 ** **
-**1: Binary Numbers**
+# 1: Binary Numbers**
 
 When we refer to the base of a counting system, we mean the maximum number of values we can put into a single column of digits. For **binary**, that base is 2, and the __only values that numbers can use are 0 and 1__. Counting in binary would go like 0, 1, 10, 11, 100, 101, 110, 111 and so on. Counting in **decimal**, or __base-10, is what we’re used to; 0, 1, 2, 3, 4, 5, and so on__.
 
-> • **Binary numbers**
+- **Binary numbers**
 
 Numbers in binary are made of binary digits (bits for short). __Each bit represents a power of 2, starting with 2⁰ (or 1), and this value can increase indefinitely__. You can work out the maximum value you can store in a given number of bits with the formula 2ⁿ - 1, where n is the number of bits you have. With 7 bits, for example, the maximum number you can store is 2⁷ - 1, or 127.
 
 None
 
-> • **Converting Binary to Decimal**
+- **Converting Binary to Decimal**
 
 Converting from binary to decimal is a rather straightforward process. You simply need to add the value of every bit with a 1 in it to a decimal total. For example, here’s how we convert the binary number 0010110 into decimal to achieve a result of 22.
 
@@ -43,21 +43,21 @@ For example, here’s the process of converting the number 22 back into binary:
 
 None
 
-**2: Setup**
+# 2: Setup**
 
 The setup for the save consists of four modules: the binary saves that save and load the actual binary data, a module to convert the binary values to decimal, a module to reset the saves, and a final module to convert from decimal to binary and save that. They'll need to be in that specific order within the level.
 
-> • **Binary saves**
+- **Binary saves**
 
 To save decimal values, you’ll need to have a clear maximum value in mind, because you can’t do it without making binary saves (and you can’t save infinite binary values). Once you choose your maximum value, convert it to binary and keep the number of bits in mind.
 
->  **1. **Begin by creating a binary save system (refer to **Attempt-Based Data 1** for instructions), but make sure you leave out the four Move triggers that save the value. If you want, you can assign the Pickup trigger and Collision Block `C` to the same Group; this saves one Group per digit and make future steps easier._
->  **2. **Make both of the Collision triggers Spawn-triggered and assign them to a new Group `A`.
->  **3. **Place down a Spawn trigger at the very start of the level and make it target Group `A`.
->  **4. **Copy-paste the entire system, excluding the new Spawn trigger. Move it at least four grid spaces away on the X-axis (as the Y-axis is irrelevant to the Blocks’ priority order) and use Build Helper to update all the Groups.
->  **5. **Select the Pickup trigger and open the Edit Object menu. There, click the :BluePlus: icon next to the Item ID field to target the next free Item ID.
->  **6. **Do the same for all of the Collision blocks’ Block ID fields, and update the Collision triggers accordingly.
->  **7. **Repeat steps `4` to `6` until the number of binary saves matches the number of bits for your maximum value.
+> **1. **Begin by creating a binary save system (refer to **Attempt-Based Data 1** for instructions), but make sure you leave out the four Move triggers that save the value. If you want, you can assign the Pickup trigger and Collision Block `C` to the same Group; this saves one Group per digit and make future steps easier._
+> **2. **Make both of the Collision triggers Spawn-triggered and assign them to a new Group `A`.
+> **3. **Place down a Spawn trigger at the very start of the level and make it target Group `A`.
+> **4. **Copy-paste the entire system, excluding the new Spawn trigger. Move it at least four grid spaces away on the X-axis (as the Y-axis is irrelevant to the Blocks’ priority order) and use Build Helper to update all the Groups.
+> **5. **Select the Pickup trigger and open the Edit Object menu. There, click the :BluePlus: icon next to the Item ID field to target the next free Item ID.
+> **6. **Do the same for all of the Collision blocks’ Block ID fields, and update the Collision triggers accordingly.
+> **7. **Repeat steps `4` to `6` until the number of binary saves matches the number of bits for your maximum value.
 
 None
 
@@ -65,7 +65,7 @@ You should end up with something like this.
 
 None
 
-> • **Converting Binary to Decimal**
+- **Converting Binary to Decimal**
 
 This step is the same inside and outside GD. We simply need to test for bits that have a value of 1, and add those bits’ values together. This can be achieved with a simple Instant Count and Pickup trigger-based setup.
 
@@ -81,9 +81,9 @@ None
 
 Your result should resemble this (but potentially expanded to include however many values you would like, of course).
 
-<div><iframe src=https://drive.google.com/file/d/14VxhFcRjmb-qdxILZztlmkMVRDlQAlgF/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/14VxhFcRjmb-qdxILZztlmkMVRDlQAlgF" >}}
 
-> • **Resetting Binary Saves**
+- **Resetting Binary Saves**
 
 This part of the system will reset all saved binary digits to 0. We’re doing this so that we can save new values every attempt without interference from the previous attempts.
 
@@ -99,7 +99,7 @@ What you end up with should look something like this.
 
 None
 
-> • **Converting Decimal to Binary**
+- **Converting Decimal to Binary**
 
 Finally, we'll convert our decimal value to binary and send it forward to the next attempt. Similar to how we did this conversion the other way round, we can do it the same way we’d do it outside GD with a simple Instant Count and Pickup trigger-based setup. However, we’ll need to add something extra to make this work smoothly with our binary save systems.
 
@@ -113,7 +113,7 @@ Finally, we'll convert our decimal value to binary and send it forward to the ne
 > **5. **Duplicate this trigger, set the new trigger’s Move Time to 0.03, and set its Move X value to -40.
 > **6. **Add both Move triggers and the Pickup trigger from step `3` to Group `F`.
 
-> • _These triggers will subtract the bit’s value from the decimal number and set the bit itself to 1_.
+- _These triggers will subtract the bit’s value from the decimal number and set the bit itself to 1_.
 
 > **7. **Duplicate the triggers from steps `2` to `6` and use Build Helper. Next, ensure that the new Instant Count trigger is placed _at least one grid space to the right of the previous one_.
 > **8. ** Set the Instant Count trigger’s Target Count to *one less* than the value of the next bit (63, 31, 15, etc.), and update the Pickup trigger accordingly. You’ll also need to update the Move triggers’ Target Group IDs to match the corresponding block in the next binary save.

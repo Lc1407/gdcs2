@@ -1,6 +1,6 @@
 ---
 title: "Using Channels"
-weight: 118
+weight: 1180
 date: 2024-01-15T00:00:00.000Z
 authors:
   - "illusion2"
@@ -100,7 +100,7 @@ The “ORD” counter refers to the trigger order. The number in the counter dic
 
 Keep in mind that reversed orbs and teleport orbs all affect the music line but are heavily player-dependent, which might desync your gameplay despite being ordered.
 
-{{< youtube 0soHKShq800 >}}
+{{< youtube 0soHKShq800 >}} 
 
 > **IMPORTANT**: Using trigger order on :ArrowTrigger: arrow triggers only works if you enable “Change Channel.” Select the arrow trigger, click :EditObject:, and check the corresponding box. We don’t know why you need to enable this, but the level will break otherwise.
 
@@ -114,7 +114,7 @@ To change the level’s channel, open the menu of the arrow trigger, enable “C
 
 You can set the channel of triggers with the “CH” counter in the :EditGroup: menu, next to the “ORD” counter. If you ever wonder why your triggers aren’t activating, check to make sure they’re on the correct channel. *Only arrow triggers can change the level’s channel*, not reverse triggers or reversed orbs.
 
-{{< youtube OZnDpqJ8T0M >}}
+{{< youtube OZnDpqJ8T0M >}} 
 
 > Note: Both orders and channels require the “EDP” or "Playtest" box checked in the :EditGroup: menu.
 

@@ -1,6 +1,6 @@
 ---
 title: "Player Snap Bug"
-weight: 412
+weight: 4120
 date: 2023-11-30T00:00:00.000Z
 authors:
   - "joe_white"
@@ -27,7 +27,7 @@ The **Snap bug** is an obscure mechanic that RobTop implemented for jumping stai
 
 This mechanic __moves the player based on how they land on a platform after jumping or sliding off another one__, tweaking the position of the player by moving it 1 or 2 units forwards or backwards, allowing the player to climb staircases shown below without falling off from them.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1P5s0WTkfyun-2HB7ytsGegfw89fvWp03/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1P5s0WTkfyun-2HB7ytsGegfw89fvWp03" >}}
 
 # 2: Conditions
 
@@ -39,7 +39,7 @@ The interaction may include standing on a block or hitting a ceiling. In the dia
 
 This interaction must not be obstructed by touching another solid hitbox – note that clipping through a block is not considered a solid interaction. This will cause the player to displace by 1 or 2 units, depending on the player’s speed (labeled in the diagram below).
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1nQn12HJ5RSfLPmutMVGFGwnudmmhJFVk/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1nQn12HJ5RSfLPmutMVGFGwnudmmhJFVk" >}}
 
 # 3: Type of Snaps
 
@@ -59,7 +59,7 @@ There are four common types of snaps: +1 snap, +2 snaps, -1 snap and -2 snaps. T
 
 The diagram below shows an example of a snap.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1vOOxSbLCNCfe5lvXToJCIYMRUMwMbGh0/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1vOOxSbLCNCfe5lvXToJCIYMRUMwMbGh0" >}}
 
 # 4: Setups
 
@@ -69,7 +69,7 @@ This is the simplest snap setup because if `old_x` is past the center of the blo
 
 2. Place a 1x block on the top right corner of the 5x block if the cube you want to move is in normal gravity, or on the bottom right corner if the cube’s gravity is upside-down. It should look like the image below.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1kG8rWYcpMMQ4cLQsUn09AohAmwClZ8Xq/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1kG8rWYcpMMQ4cLQsUn09AohAmwClZ8Xq" >}}
 
 3. Now Copy+Paste this and move it right by one block.
  - If the cube you want to move is in normal gravity, move the blocks down using the smallest arrow in the edit tab.
@@ -79,19 +79,19 @@ This is the simplest snap setup because if `old_x` is past the center of the blo
 
 Normal gravity:
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1h5tGVYbrcc31IEAMWy7whiYHLpBGq7xi/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1h5tGVYbrcc31IEAMWy7whiYHLpBGq7xi" >}}
 
 Upside down gravity:
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1q8lnflgI9nGDz491xYYI7rYAlHwOcC23/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1q8lnflgI9nGDz491xYYI7rYAlHwOcC23" >}}
 
 **NOTE:** This setup above is highly FPS dependent, meaning the player will move forward on a larger distance on higher FPS than on lower FPS due to the fact that more FPS has more subframes. Tax Evasion by Skub uses a more stable but inconsistent setup that is not FPS dependent.
 
-{{< youtube oeIzV2SgZFY >}}
+{{< youtube oeIzV2SgZFY >}} 
 
 The setup is shown below.
 
-<div><iframe src=https://drive.google.com/file/d/1wJZGf03brHXm2Nx9yNxT73O7pf6Gch66/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1wJZGf03brHXm2Nx9yNxT73O7pf6Gch66" >}}
 
 ## Additional Resources
 If you don’t want to bother calculating everything by hand, MateussDev has created a [convenient calculator](https://www.geogebra.org/calculator/nzeyrb27) that calculates snaps like shown above, and has the ability to tweak values very fast.

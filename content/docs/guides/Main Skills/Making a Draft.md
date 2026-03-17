@@ -1,6 +1,6 @@
 ---
 title: "Making a Draft"
-weight: 203
+weight: 2030
 date: 2025-03-25T00:00:00.000Z
 authors:
   - "komatic5"
@@ -63,8 +63,8 @@ In short, make something playable, really. **Visuals and glamor are secondary**.
 
 # Sources
 
-- [Game Maker's Toolkit: Why is it so hard to make game design decisions?](<https://youtu.be/eE05LjNNenQ>)
+- [Game Maker's Toolkit: Why is it so hard to make game design decisions?](<https://youtu.be/eE05LjNNenQ >}} )
 - [Gamedeveloper: Making Lean Startup Tactics Work for Games](<https://www.gamedeveloper.com/business/making-lean-startup-tactics-work-for-games>)
 - [Gamingshift: Build MVPs for games](<https://gamingshift.com/build-mvp-for-games/>)
-- [Mental Checkpoint: The Last Game Dev Advice You Need](<https://youtu.be/L-zKm6c8_IE>)
+- [Mental Checkpoint: The Last Game Dev Advice You Need](<https://youtu.be/L-zKm6c8_IE >}} )
 

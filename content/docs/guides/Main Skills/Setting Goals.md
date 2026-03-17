@@ -1,6 +1,6 @@
 ---
 title: "Setting Goals"
-weight: 207
+weight: 2070
 date: 2023-09-30T00:00:00.000Z
 authors:
   - "nikobik0"

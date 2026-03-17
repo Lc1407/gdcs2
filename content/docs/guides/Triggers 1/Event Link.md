@@ -1,6 +1,6 @@
 ---
 title: "Event Link"
-weight: 338
+weight: 3380
 date: 2024-01-25T00:00:00.000Z
 authors:
   - "eyz"
@@ -42,6 +42,6 @@ Now that we know how the Event Link Trigger works, we can make some contraptions
 
 Here is an example of what you can make with this trigger:
 
-{{< youtube q_29LgSGSM4 >}}
+{{< youtube q_29LgSGSM4 >}} 
 
 In this particular level, the player always moves forward at a certain speed. By pressing a corresponding key we either turn left or right. Upon pressing W or ^ we dash forward. This trigger is also used at a start to choose between different set of controls: **A W D** or **< ^ >**.

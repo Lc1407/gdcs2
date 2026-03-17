@@ -1,6 +1,6 @@
 ---
 title: "Time, Time Event, & Time Control"
-weight: 346
+weight: 3460
 date: 2024-02-11T00:00:00.000Z
 authors:
   - "naem.less"
@@ -31,7 +31,7 @@ The **Time** trigger {{< img src="images/GDEmotes/Triggers/Timer.png" class="emo
 - **Start Paused**: Makes the timer start off paused at the StartTime value until it’s re-triggered by another Time trigger or Time Control trigger.
 - **Don’t Override**: If 2 Time triggers target the same ID, the trigger activated second will override any settings the first one had. This option prevents the second trigger from overriding the first unless the timer is at 0, was stopped by a Time Control trigger, or has Start Paused enabled.
 
-{{< youtube gN_J7T2wc2I >}}
+{{< youtube gN_J7T2wc2I >}} 
 
 # 2: Time Event
 
@@ -42,7 +42,7 @@ The **Time Event** trigger looks like a cyan clock and spawns groups based on ce
 - **TargetTime**: The target time, specifying when to spawn the group.
 - **Multi Activate**: Allows the TargetID to spawn more than once if TargetTime is reached multiple times, like the “Multi Activate” feature in the Count trigger.
 
-{{< youtube zsE4T-U-wQA >}}
+{{< youtube zsE4T-U-wQA >}} 
 
 # 3: Time Control
 

@@ -1,6 +1,6 @@
 ---
 title: "Getting Ideas"
-weight: 201
+weight: 2010
 date: 2023-03-09T00:00:00.000Z
 authors:
   - "sparktwee"
@@ -115,4 +115,4 @@ As long as someone can think and imagine, they have ideas, which constitutes mos
 - [Lifehacker: Why Your Memory Sucks, and What You Can Do About It](<https://lifehacker.com/why-your-memory-sucks-and-what-you-can-do-about-it-596782066>)
 
 
-**Video:** [How To Make UNIQUE LEVELS in Geometry Dash](https://youtu.be/s8DIK6qT8TM)
+**Video:** [How To Make UNIQUE LEVELS in Geometry Dash](https://youtu.be/s8DIK6qT8TM >}} 

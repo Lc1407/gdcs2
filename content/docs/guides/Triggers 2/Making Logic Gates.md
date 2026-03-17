@@ -1,6 +1,6 @@
 ---
 title: "Making Logic Gates"
-weight: 608
+weight: 6080
 date: 2024-09-16T00:00:00.000Z
 authors:
   - "tanhr"

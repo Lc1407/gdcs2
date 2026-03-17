@@ -1,6 +1,6 @@
 ---
 title: "Making Slow Gameplay"
-weight: 417
+weight: 4170
 date: 2023-07-25T00:00:00.000Z
 authors:
   - "komatic5"
@@ -45,19 +45,19 @@ In this gameplay, I aimed to make the first half a bit more straightforward and 
 
 The second half mixes things up by including pads and orbs which you must avoid to complete the part. This forces the player to make some strategic decisions for how to play the part – at least, during the process of learning it. When making this gameplay I made the correct path first then added extra obstacles later.
 
-<div><iframe src=https://drive.google.com/file/d/1siYhNVkA6XillqiLl2TAkxk4Pj8iL9ke/preview?usp=drivesdk></iframe></div>
+https://lh3.googleusercontent.com/d/1siYhNVkA6XillqiLl2TAkxk4Pj8iL9ke >}} 
 
 Besides this, here are some other examples of slow gameplay.
 
-One good example of slow gameplay is `ISO` by `Mzero` and `Xzer`  at 89 seconds. The slow part here uses a variety of moving objects that fade in and out to keep the player on their toes. There’s enough happening to eliminate the “boring” aspect of slow gameplay.
+One good example of slow gameplay is `ISO` by `Mzero` and `Xzer` at 89 seconds. The slow part here uses a variety of moving objects that fade in and out to keep the player on their toes. There’s enough happening to eliminate the “boring” aspect of slow gameplay.
 
-{{< youtube EBh8YLYSFcA >}}
+{{< youtube EBh8YLYSFcA >}} 
 
 Another good example is the beginning part of `Soft Melody` by `Zoroa` . The toggle orb gimmick used is very easy to grasp, yet it adds a layer of complexity without adding much difficulty. The usage of minimal clicks in this part allows the player to focus on other aspects of the level, without drawing too much attention to keeping their icon alive.
 
-{{< youtube PjvF_x5nA-Y >}}
+{{< youtube PjvF_x5nA-Y >}} 
 
 One last example of slow gameplay is `Gloom` by `Optical` . The gameplay here includes a couple of fake portals, along with well placed black glow, forcing the player to think about the gameplay a little more.
 
-{{< youtube GqhQ0Uq1s4Y >}}
+{{< youtube GqhQ0Uq1s4Y >}} 
 

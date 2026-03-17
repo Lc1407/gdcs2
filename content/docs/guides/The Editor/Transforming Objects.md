@@ -1,6 +1,6 @@
 ---
 title: "Transforming Objects"
-weight: 115
+weight: 1150
 date: 2024-01-07T00:00:00.000Z
 authors:
   - "komatic5"
@@ -41,11 +41,11 @@ A **grid space** is __the size of one square on the editor grid__. By default, m
 
 > PC: While selecting any objects, go to the Build tab, select an object with a different grid size, and use the arrows to move your selected objects on the new grid space. Some useful objects for this are the small spike in the Spike tab, and the small pixel in the Glow tab.
 
-{{< youtube GfWHfvJ1tY4 >}}
+{{< youtube GfWHfvJ1tY4 >}} 
 
 > Mobile: Place down an object with the appropriate grid, select it *first*, then select your entire set of objects and use the arrow buttons. This no longer works in Update 2.2, but may still be useful for older GDPS servers or modded clients. Alternatively, you can try placing a Move trigger with an X or Y value of 5, playtest for a bit, then pause the playtest and copy-paste your objects.
 
-{{< youtube zJbnKt9sw4Q >}}
+{{< youtube zJbnKt9sw4Q >}} 
 
 Here are some other grid size conversions using only the arrow buttons:
 - 0.5x grid: 7 single arrows, 2 small arrows
@@ -53,7 +53,7 @@ Here are some other grid size conversions using only the arrow buttons:
 
 If you need any grid spaces more precise than the smallest arrows, you can use Align X/Y with an extra copy of the object.
 
-{{< youtube cRBaqR85y9M >}}
+{{< youtube cRBaqR85y9M >}} 
 
 # 2: :Flip: Flip Buttons
 
@@ -76,11 +76,11 @@ The rotation buttons are all labeled with large circular arrows, some with text 
 
 Rotation can be very helpful for decoration if you want a shape to face a certain angle.
 
-{{< youtube zjjOIOAmeLE >}}
+{{< youtube zjjOIOAmeLE >}} 
 
 It is also helpful for trigger setups if you want a group of triggers to activate at an equal distance, without needing to use Align X to get them in the right place.
 
-{{< youtube pqCcrWItEzc >}}
+{{< youtube pqCcrWItEzc >}} 
 
 # 4: :Scale: Warp & Scale Buttons
 
@@ -90,4 +90,4 @@ It is also helpful for trigger setups if you want a group of triggers to activat
 The scale buttons have a lock above their sliders, as of Update 2.203. Enabling this lock will keep the objects' positions in place as they scale, instead of moving them while they change size. This only works from sizes 0.5 to 2x, even if you enable increased scaling.
 - The “Warp” button (Ctrl+T) lets you transform an object to infinite size as well as skewing. Drag the circle in the middle to set the center for scaling and skewing. Then, use the side buttons to scale your object horizontally or vertically, the corners to scale both at once, and the side rectangles to skew. The lock button retains the object’s aspect ratio when using the corner buttons, and the circle outside the warp UI rotates it just like Free Rotate.
 
-{{< youtube raqA0Goipr4 >}}
+{{< youtube raqA0Goipr4 >}} 

@@ -1,6 +1,6 @@
 ---
 title: "Spawn Particle"
-weight: 321
+weight: 3210
 date: 2024-01-21T00:00:00.000Z
 authors:
   - "naem.less"
@@ -29,5 +29,5 @@ draft: false
 
 The +/- sliders next to “Scale” and “Rotation” is variance and will randomize their respective options’ values each attempt.
 
-{{< youtube rv8ACa8Km5I >}}
+{{< youtube rv8ACa8Km5I >}} 
 

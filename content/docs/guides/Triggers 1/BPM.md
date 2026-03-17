@@ -1,6 +1,6 @@
 ---
 title: "BPM"
-weight: 316
+weight: 3160
 date: 2024-01-21T00:00:00.000Z
 authors:
   - "myceliumdev"

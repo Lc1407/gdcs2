@@ -1,6 +1,6 @@
 ---
 title: "Reception"
-weight: 217
+weight: 2170
 date: 2024-08-30T00:00:00.000Z
 authors:
   - "sparktwee"
@@ -36,7 +36,7 @@ On average, most of your audience tend to be practical, skeptical, and risk-aver
 
 Keep in mind that attention is also scarce. With one day consisting of 24 hours, I hope you’ve spent 8 of these hours sleeping. That leaves 16 disposable hours where your mind can wander and explore and focus on whatever the world has to offer. Watch a movie? Read a book? Listen to a podcast? Play games? Scroll through another Instagram post? Chat in Discord? Regardless of the medium, others will be just as stingy and careful with their limited attention as you are with yours.
 
-__The general response after something has garnered attention__ is what we know as **reception**. Positive reception tends to garner critical acclaim and praise like that given to the entries in the [GD Awards](<https://youtu.be/Gu40YPKrd_I?si=hJ4AYSIDS7MBH4FO>) and the [GD10 anniversary video](<https://youtu.be/mWi_zuXBECw?si=K6KfYsiLmG6358AN>) while negative reception tends to lead to infamy such as map packs, content farming, and hate tracks. While others' attention is beyond your control, that doesn't mean you can’t influence it to an extent. This influence lies in how you set up your level's marketing mix.
+__The general response after something has garnered attention__ is what we know as **reception**. Positive reception tends to garner critical acclaim and praise like that given to the entries in the [GD Awards](<https://youtu.be/Gu40YPKrd_I >}} si=hJ4AYSIDS7MBH4FO>) and the [GD10 anniversary video](<https://youtu.be/mWi_zuXBECw >}} si=K6KfYsiLmG6358AN>) while negative reception tends to lead to infamy such as map packs, content farming, and hate tracks. While others' attention is beyond your control, that doesn't mean you can’t influence it to an extent. This influence lies in how you set up your level's marketing mix.
 
 # 2: Your Level’s Marketing Mix
 
@@ -67,11 +67,11 @@ Promotion comes in two categories depending on when you upload the level: pre-pr
 
 **Pre-promotion** is when __you promote the level before it is completed and uploaded publicly__.
 
-This usually comes in the form of [previews](<https://youtu.be/xuyFDEJjmMQ?si=Up3zxurFWz_usMAO>), [trailers](<https://youtu.be/UgW7Rm99DuQ?si=76IWzRzB9EDCHrZI>), [building streams](<https://www.youtube.com/live/ekaiCOwOBfI?si=UaG87Q5TETdOXD7L>), and [progress logs](<https://youtu.be/7D6qhrAlsG8?si=W_nnXZAzw2fs7FcP>). This is excellent for generating hype for your level. It gives players something to look forward to which inevitably hooks them until the level’s eventual release; ask Robtop regarding his pre-promotion for Update 2.2. HOWEVER, be aware that once you make a pre-promotion, there’s now an expectation from others for you to finish what you started, so if you want to hype your level in this manner, make sure you finish it and follow through with your words.
+This usually comes in the form of [previews](<https://youtu.be/xuyFDEJjmMQ >}} si=Up3zxurFWz_usMAO>), [trailers](<https://youtu.be/UgW7Rm99DuQ >}} si=76IWzRzB9EDCHrZI>), [building streams](<https://www.youtube.com/live/ekaiCOwOBfI?si=UaG87Q5TETdOXD7L>), and [progress logs](<https://youtu.be/7D6qhrAlsG8 >}} si=W_nnXZAzw2fs7FcP>). This is excellent for generating hype for your level. It gives players something to look forward to which inevitably hooks them until the level’s eventual release; ask Robtop regarding his pre-promotion for Update 2.2. HOWEVER, be aware that once you make a pre-promotion, there’s now an expectation from others for you to finish what you started, so if you want to hype your level in this manner, make sure you finish it and follow through with your words.
 
 Meanwhile, **post-promotion** is when __you promote a level that is already uploaded publicly__.
 
-This comes in the form of [full showcases](<https://youtu.be/Dlclr2FAEwM?si=UoOQAEsyCjus4bOb>), [creator commentaries](<https://youtu.be/Bm28Y1ZOpLk?si=gZNQIoAzIWuWFyGG>), and [retrospectives](<https://youtu.be/ZXDsODvWEic?si=euus1lHQywutjssz>). If you're a beginner and just starting, your main focus is to practice building and get used to the editor. This means you're better off using post-promotion than pre-promotion to avoid disappointing the hype you've set up and relieve yourself of public pressure to finish your level. *The last thing you want to show to an audience is desperation*.
+This comes in the form of [full showcases](<https://youtu.be/Dlclr2FAEwM >}} si=UoOQAEsyCjus4bOb>), [creator commentaries](<https://youtu.be/Bm28Y1ZOpLk >}} si=gZNQIoAzIWuWFyGG>), and [retrospectives](<https://youtu.be/ZXDsODvWEic >}} si=euus1lHQywutjssz>). If you're a beginner and just starting, your main focus is to practice building and get used to the editor. This means you're better off using post-promotion than pre-promotion to avoid disappointing the hype you've set up and relieve yourself of public pressure to finish your level. *The last thing you want to show to an audience is desperation*.
 
 With that said, sometimes you don’t need to promote at all and let the level be found naturally.
 
@@ -91,7 +91,7 @@ Within the eyes of Robtop, collecting your first creator points will be your har
 
 The game itself also contains its own distribution channels that affects a level’s reception through the game’s quick search tab:
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1GdjfeloaUvXEdaQs3MCMompi4zM31LbW/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1GdjfeloaUvXEdaQs3MCMompi4zM31LbW" >}}
 
 - **Downloads Tab:** Levels get sorted in descending order from most downloaded to least downloaded. This does not affect the reception of new levels.
 - **Likes Tab:** Levels get sorted from the most liked levels to the most disliked levels. Similarly to the downloads tab, this does not affect new levels.
@@ -103,7 +103,7 @@ The game itself also contains its own distribution channels that affects a level
 - **Followed Tab:** If you decide to follow a creator by pressing the heart button at the bottom left corner of the player’s profile, their level uploads will be shown here.
 - **Dailies:** A daily level endorsed by Robtop with difficulty between 2 and 9 stars. Once a new daily level gets added, the previous one gets vaulted into the safe where all the previous daily levels are archived. This is an excellent way to get a quality level to as many players as possible, but this can also come with severe criticism for any shortcomings.
 
-- **Weeklies:** Provides one demon level per week. Difficulty ranges between Easy to Medium demon, but there are a few exceptions such as [Bloodbath](<https://youtu.be/twTw4fjT0ik?si=tTd38a6iZ9uCArUn>) & [Congregation](<https://youtu.be/fAjYmeY11sY?si=3ZuSCzz5XmpIVJqt>). Once a new weekly demon gets added, the previous one gets vaulted into the safe where all the previous weekly demons are archived. This has similar effects to the daily level.
+- **Weeklies:** Provides one demon level per week. Difficulty ranges between Easy to Medium demon, but there are a few exceptions such as [Bloodbath](<https://youtu.be/twTw4fjT0ik >}} si=tTd38a6iZ9uCArUn>) & [Congregation](<https://youtu.be/fAjYmeY11sY >}} si=3ZuSCzz5XmpIVJqt>). Once a new weekly demon gets added, the previous one gets vaulted into the safe where all the previous weekly demons are archived. This has similar effects to the daily level.
 - **Map Packs:** These levels need to be beaten in order to collect secret coins and achievements.
 - **Gauntlets:** These levels need to be beaten to collect gauntlet-specific chests.
 
@@ -147,17 +147,17 @@ If performance is below set expectations, that results in a letdown. Let’s see
 
 ## 1. Overhype
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1ZmH96ZL-Q-uryvJnfMcuS8CkCTfqEt3P/preview?usp=drivesdk></iframe></div>
+https://lh3.googleusercontent.com/d/1ZmH96ZL-Q-uryvJnfMcuS8CkCTfqEt3P >}} 
 
 > LET ME TELL YOU ABOUT MY UPCOMING TOP 1 MASTERPIECE THAT IS GUARANTEED TO HAVE A MYTHIC RATING BECAUSE I AM GOING TO MAKE THE BEST LEVEL IN EXISTENCE. YOU ALL WILL BOW DOWN TO ME BECAUSE UNDER 40K OBJECTS, I AM GONNA BLOW… YOUR… MIND!
 >
 > I WILL PERSONALLY VERIFY THIS LEVEL ON MOBILE, AND ON STREAM. IT WILL BE A LEGENDARY MASTERPIECE OF A STREAM WHERE THOUSANDS OF VIEWERS WILL SHOW UP TO SEE HISTORY BEING MADE. IF YOU LIKE WHAT YOU’RE READING, SHOW YOUR APPRECIATION BY SUBSCRIBING TO MY CHANNEL, *OR ELSE…*
 
-<div><iframe src=https://drive.google.com/file/d/1G5oBwEz5XGcDIMY1yGyia3frWdlznkS-/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1G5oBwEz5XGcDIMY1yGyia3frWdlznkS-" >}}
 
 If you felt annoyed by what you just read, then you’ve just been on the receiving end of **overhype**. You can promote so much that it comes off as annoying, or you can give such lofty, vague expectations like “perfect masterpiece” that it’ll look like a flop no matter how much polish is given.
 
-One notable example is [Emerald Realm](<https://youtu.be/MCXTkGU30pc?si=XrIHyNHGhYquLZJb>). After [Culuc’s part](<https://youtu.be/fMAYifajDac?si=GGVHC_hLSdf0Lnxw>) was uploaded publicly, it got a showcase from Viprin, and then still didn’t come out for months after. It effectively died out because the community moved on from the hype before the level could even make an appearance.
+One notable example is [Emerald Realm](<https://youtu.be/MCXTkGU30pc >}} si=XrIHyNHGhYquLZJb>). After [Culuc’s part](<https://youtu.be/fMAYifajDac >}} si=GGVHC_hLSdf0Lnxw>) was uploaded publicly, it got a showcase from Viprin, and then still didn’t come out for months after. It effectively died out because the community moved on from the hype before the level could even make an appearance.
 
 > “Hold It! White Space also had that same behavior where a Viprin showcase was made before the level itself came out months later and yet that did not die out.”
 
@@ -252,6 +252,6 @@ With all of this said thus far, I’d like to conclude with three points:
 - [The Economics of Getting Attention](<https://explorewhatworks.com/economics-getting-paying-attention/>)
 - [Diffusion of Innovations Theory](<https://sphweb.bumc.bu.edu/otlt/mph-modules/sb/behavioralchangetheories/behavioralchangetheories4.html>)
 - [Marketing Mix](<https://squareup.com/au/en/the-bottom-line/reaching-customers/how-to-use-7ps-of-marketing>)
-- [What Happened to Easy Geometry Dash Levels?](<https://youtu.be/OrEeeVzs67w?si=anNzirIG6kl51cIL>)
-- [How does a Steam game get the OVERWHELMINGLY NEGATIVE rating?](<https://youtu.be/afsRCBhLVZc?si=qQ_z4vewfoJOET_F>)
+- [What Happened to Easy Geometry Dash Levels?](<https://youtu.be/OrEeeVzs67w >}} si=anNzirIG6kl51cIL>)
+- [How does a Steam game get the OVERWHELMINGLY NEGATIVE rating?](<https://youtu.be/afsRCBhLVZc >}} si=qQ_z4vewfoJOET_F>)
 

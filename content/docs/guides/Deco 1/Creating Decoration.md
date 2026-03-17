@@ -1,6 +1,6 @@
 ---
 title: "Creating Decoration"
-weight: 507
+weight: 5070
 date: 2024-07-19T00:00:00.000Z
 authors:
   - "komatic5"
@@ -39,25 +39,25 @@ Explaining with words only will likely not paint the full picture, hence I will 
 
 For the first example, let’s suppose I appreciate this block from Azimuth by Knots, and want to make a block inspired by it. That is **Step 1** of the process, and I already have a reference image.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1fqw0nfPsjA4A_i4hmJ-yIDbBueSvCJA7/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1fqw0nfPsjA4A_i4hmJ-yIDbBueSvCJA7" >}}
 
 The block is mostly made of rectangles, so I'll use some rectangle objects and make them various shades of blue.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1vXxHqBff0NX59R2OZ3DehPk2r1Wcauf_/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1vXxHqBff0NX59R2OZ3DehPk2r1Wcauf_" >}}
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1Ic1gsaww1OHriOFQxsBp5iLyI4x0l77k/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1Ic1gsaww1OHriOFQxsBp5iLyI4x0l77k" >}}
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1BWEAPLJ5LVklUoMMasEPpeBaKnGHykzv/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1BWEAPLJ5LVklUoMMasEPpeBaKnGHykzv" >}}
 
 Next, I'll add some more complexity by including some brighter sections. As per the reference, this will be made of rectangles.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1AgIyP3vu7MQxIviqlTNIszn_LmwILybj/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1AgIyP3vu7MQxIviqlTNIszn_LmwILybj" >}}
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1b2xOtOMAHIWMS5-QzptJ87lEVArPCi_C/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1b2xOtOMAHIWMS5-QzptJ87lEVArPCi_C" >}}
 
 The end product looks like this. I had the idea to include some glow on the corner block, which I implemented fairly quickly via the same process.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1w7PI5_TZm8q97tWc5HK4fG7eRq7G5fUl/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1w7PI5_TZm8q97tWc5HK4fG7eRq7G5fUl" >}}
 
 ## Adding Complexity
 
@@ -73,9 +73,9 @@ None
 
 With this idea in mind, I can quickly undergo the Creative Process to implement this on my block. Here are some objects I used, and the final product.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1V77BL0d4LbhMzfagfJInRaWRsQTHgrrh/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1V77BL0d4LbhMzfagfJInRaWRsQTHgrrh" >}}
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1c5X6FL8Ef6TdtlA4SNBhJNwmYgeuuPpc/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1c5X6FL8Ef6TdtlA4SNBhJNwmYgeuuPpc" >}}
 
 # 2: Organizing Deco
 
@@ -91,7 +91,7 @@ As you get more comfortable with layers, you may want to document which editor l
 
 Here is an example video from And Ever by Galofuf, showing how he organized his objects into layers.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1Wfw-i7zMnpVEKohvsCRvSus_LlUJqajC/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1Wfw-i7zMnpVEKohvsCRvSus_LlUJqajC" >}}
 
 ## Z Layers
 
@@ -103,7 +103,7 @@ Z Order is also important to note. While your Z ordering will depend on what you
 
 Editor and Z layers are best seen in the actual editor, so I strongly recommend opening up actual levels to see how other creators use these. In addition, here is another example from Galofuf's work where the objects are on T1.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1Gca5UsozBUx-Ujaw7ArsCCU-H_RtjflI/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1Gca5UsozBUx-Ujaw7ArsCCU-H_RtjflI" >}}
 
 ## Base & Detail Colors
 
@@ -119,7 +119,7 @@ The final thing to note for this guide is what types of decoration exist. As you
 
 Here’s an image which has all the common elements of decoration in it.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1c8u9pnQlu5KntIbLQbPwHhMOsYWguSHq/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1c8u9pnQlu5KntIbLQbPwHhMOsYWguSHq" >}}
 
 - Block Designs decorate structures and hazards related to a level’s gameplay. This is often the most time-consuming part of decoration, but you can make your own *assets* to copy-paste throughout your blocks and save time. They’re described in more detail [here](/docs/guides/deco-1/making-blocks/).
 
@@ -148,17 +148,17 @@ On the other hand, there are only two practical ways to make your workflow when 
 
 This method makes it easier to tell what’s finished which is good for feedback, but it’s harder to make everything fit together because you’re focusing on each part before thinking about the whole product. Here's an example from Uriun's part in Reckless when it was still a work in progress.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1IbDgxH3QRiY6FbnoDDnmEpKZvXpcjJXV/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1IbDgxH3QRiY6FbnoDDnmEpKZvXpcjJXV" >}}
 
-{{< youtube Za5W0WdmPz0 >}}
+{{< youtube Za5W0WdmPz0 >}} 
 
 Conversely, you can build **vertically** __ where everything is built simultaneously__. For example, you would make drafts for the blocks, background, and air deco before fleshing everything out at the same time. This method works well for complex work, as you can focus on the whole product before refining everything later. However, it can be worse for feedback as people often fail to identify when a part is finished with this method.
 
 Here's an example from the second part in my level Anarchy Road, when the second part was a WIP.
 
-<div><iframe src=https://drive.google.com/file/d/1uiV54Wa5JBFP1w8U4dr2UK5gSCU9lq0k/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1uiV54Wa5JBFP1w8U4dr2UK5gSCU9lq0k" >}}
 
-{{< youtube tRXA8FqUCds >}}
+{{< youtube tRXA8FqUCds >}} 
 
 ## Cohesion
 
@@ -166,9 +166,11 @@ Regardless of if you build horizontally or vertically, all of your deco types �
 
 The level of **cohesion** in your work is __how much each deco element works with everything else__. When you have a cohesive level, nothing contrasts too much with everything else. It may be difficult to tell when something is cohesive, as it’s effectively an invisible thing - however, it is noticeable when something stands out in a bad way. You may not notice cohesion issues in NEWER horizons by Aimbotter2123, but you may feel like the backgrounds in Adrone's part in Scattered Faith are drowned out by the flashy block designs.
 
-{{< youtube h9Q84QVkKYk >}}
+{{< youtube h9Q84QVkKYk >}} 
 
-{{< youtube ufrg38442gw >}}
+{{< youtube ufrg38442gw >}} 
 
 
-**Video:** https://youtu.be/3ofZI82lKQ8?si=a5bXL1ilq24c9C_N
+**Video:**
+
+{{< youtube 3ofZI82lKQ8 >}}

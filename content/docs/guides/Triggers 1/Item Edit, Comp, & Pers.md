@@ -1,6 +1,6 @@
 ---
 title: "Item Edit, Comp, & Pers"
-weight: 345
+weight: 3450
 date: 2023-12-30T00:00:00.000Z
 authors:
   - "komatic5"
@@ -71,13 +71,13 @@ The “NA” options allow for rounding:
 
 > Note: Be careful when taking the floor or ceiling of negative numbers, as they may not do what you would expect. For example, the floor of `2.5` is `2`, but the floor of `-2.5` is `-3` because `-3` is less than `-2.5`.
 
-{{< youtube SG0LNJ_Omvw>}}
+{{< youtube SG0LNJ_Omvw >}} }}
 
 Item Edit also allows you to do complex algorithms like the Fibonacci Sequence and Recursion.
 
-{{< youtube rupPPGXXYos>}}
+{{< youtube rupPPGXXYos >}} }}
 
-{{< youtube O8doXySQH9A>}}
+{{< youtube O8doXySQH9A >}} }}
 
 # 2: Item Compare (Item Comp)
 
@@ -100,7 +100,7 @@ The modification options and ID types are the same as well, but the differences 
 - Greater than or equal to (>=) - I1 must be greater than or equal to I2.
 - Not equals (!=) - I1 must not equal I2.
 
-{{< youtube FSBUYABrU4w >}}
+{{< youtube FSBUYABrU4w >}} 
 
 # 3: Persistent Item (Item Pers)
 
@@ -114,8 +114,8 @@ The checkboxes provide options for the Item ID:
 - Target All - targets every persistent item at once.
 - Reset - reset the Item ID’s value.
 
-{{< youtube Hwx1Q1-nGzI >}}
+{{< youtube Hwx1Q1-nGzI >}} 
 
 **Video:**
-{{< youtube BT8PyW4iG0s >}}
+{{< youtube BT8PyW4iG0s >}} 
 

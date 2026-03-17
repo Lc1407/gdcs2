@@ -1,6 +1,6 @@
 ---
 title: "Random & Advanced Random"
-weight: 340
+weight: 3400
 date: 2023-04-07T00:00:00.000Z
 authors:
   - "themilkcat_tmc"
@@ -25,7 +25,7 @@ The default random trigger uses two groups and a single slider. This Chance slid
 
 You can use the Activate Group checkbox to toggle the groups on. This can also double as a Spawn trigger.
 
-{{< youtube PIv5aok5Sz4 >}}
+{{< youtube PIv5aok5Sz4 >}} 
 
 # 2: Advanced Random
 
@@ -35,7 +35,7 @@ Chance is not percentage, although it is similar; a group with a larger chance n
 
 Once again, the Activate Group checkbox lets you toggle groups on.
 
-{{< youtube vHYw1ZPgDAo >}}
+{{< youtube vHYw1ZPgDAo >}} 
 
 Selecting multiple AdvRand triggers may change the color of each group, just like in the Edit Group menu. A blue button means not all the triggers target that group. Orange ??? text means the group is targeted by multiple triggers, but with different chance values.
 

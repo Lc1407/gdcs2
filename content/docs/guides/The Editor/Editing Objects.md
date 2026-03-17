@@ -1,6 +1,6 @@
 ---
 title: "Editing Objects"
-weight: 102
+weight: 1020
 date: 2024-02-25T00:00:00.000Z
 authors:
   - "komatic5"
@@ -40,7 +40,7 @@ If you wish to change an object’s Z layer, select an object, and go to {{< img
 
 T Layers (T1, T2, etc) render above the player’s icon. B Layers render below T Layers and the player’s icons.
 
-{{< youtube 4ZP7TfRC1wU>}}
+{{< youtube 4ZP7TfRC1wU >}} }}
 
 Z Order can be found in the Edit Group menu as well, just at the top right. You can either click on the buttons or type a specific number to set an object’s Z Order. This is a more "specialized" version of Z Layer; objects with a higher Z Order number will render in front of the ones with a lower Z Order.
 
@@ -63,7 +63,7 @@ Here’s how to add groups:
 4. Alternatively, click P to make the object the Parent Group, which will once again be covered in the Groups guide.
 5. To delete a group, click its number in the Group Box. To remove an object from Parent Group, click its number once.
 
-{{< youtube 6gg-KokRk54>}}
+{{< youtube 6gg-KokRk54 >}} }}
 
 # 3: Extra Tabs
 
@@ -113,7 +113,7 @@ If you give some objects a group, and have only one object as the "parent group"
 
 Keep in mind that **this ONLY WORKS if you have a parent group**. Check out the Keyframes.md for more information.
 
-{{< youtube d0TATu-MdOI>}}
+{{< youtube d0TATu-MdOI >}} }}
 
 # 4: Edit Object
 
@@ -123,9 +123,9 @@ Objects will either have a "Base" color, a "Detail" color, or both. This doesn�
 
 To change an object's color, choose its "Base" or "Detail" tab, then click on one of the buttons. Each numbered button, along with the "P-Col 1", "P-Col 2", "Light BG", and "Default" buttons, are color channels. You can change their color by clicking on the color square in the bottom right.
 
-You can use the "Next Free" button to select the next unused color channel, the "HSV" button to modify an object's colors independent of its color channel, and the {{< img src="images/GDEmotes/Buttons/RGB.png" class="emote">}} button to adjust a color channel in real-time. Clicking the {{< img src="images/GDEmotes/Buttons/RGB.png" class="emote">}}  button a second time adjusts an object's HSV as well in real-time.
+You can use the "Next Free" button to select the next unused color channel, the "HSV" button to modify an object's colors independent of its color channel, and the {{< img src="images/GDEmotes/Buttons/RGB.png" class="emote">}} button to adjust a color channel in real-time. Clicking the {{< img src="images/GDEmotes/Buttons/RGB.png" class="emote">}} button a second time adjusts an object's HSV as well in real-time.
 
-{{< youtube H1qWm5d2xCc>}}
+{{< youtube H1qWm5d2xCc >}} }}
 
 # 5: Copying & Pasting Values
 
@@ -133,7 +133,7 @@ You can use the "Next Free" button to select the next unused color channel, the 
 {{< img src="images/GDEmotes/Buttons/PasteState.png" class="emote" >}} To paste Z layer to another object, press the Paste State button. This button will also paste groups from one object to another unless "Disable Paste State Groups" is enabled in editor settings.
 {{< img src="images/GDEmotes/Buttons/PasteColor.png" class="emote">}} You can use Paste Color to paste an object’s colors to another object.
 
-{{<youtube fGDM86UWd6A>}}
+{{<youtube fGDM86UWd6A >}} }}
 
 # 6: Edit Special
 

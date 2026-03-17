@@ -1,6 +1,6 @@
 ---
 title: "Creating Gameplay"
-weight: 406
+weight: 4060
 date: 2024-11-30T00:00:00.000Z
 authors:
   - "mesoionosphere"
@@ -32,7 +32,7 @@ As for me, I’m going for an atmospheric layout, made to stand alone, with a ha
 ## Choose a Fitting Song
 Whatever your layout’s purpose is, take time in choosing a fitting song that you won’t get sick of. Make sure that it’s one of those songs where you “see” the gameplay in your head. Of course, your layout’s vision could come from a song you heard, then in that case, you use that song.
 
-In my case, I will be choosing [Check Out](<https://www.newgrounds.com/audio/listen/588452>)  by **MadhouseDUDE**.
+In my case, I will be choosing [Check Out](<https://www.newgrounds.com/audio/listen/588452>) by **MadhouseDUDE**.
 ## Sectioning Your Song
 Section your song into predrop, and drop, maybe even a post-drop. Decide your layout’s length, it could be under 50 seconds (mini layout), between 50 seconds and 1 minute 59 seconds (standard length), or more than 2 minutes (XL).
 
@@ -136,5 +136,5 @@ Gameplay is about having fun, visualizing what you have in your head, and puttin
 
 With that said, have fun, and happy layouting!
 
-**Video:** https://youtu.be/Se2KWB1XgfE?si=tkpneccEJD-VfMcv
+**Video:** https://youtu.be/Se2KWB1XgfE >}} si=tkpneccEJD-VfMcv
 

@@ -1,6 +1,6 @@
 ---
 title: "Testing Levels"
-weight: 116
+weight: 1160
 date: 2024-03-11T00:00:00.000Z
 authors:
   - "illusion2"
@@ -38,14 +38,14 @@ This button lets you quickly play your level from your latest StartPos, and mark
 
 When playtesting, you can pause the level by clicking the button on the left hand side, and you can stop playtesting by clicking the button.
 
-{{< youtube SrveoQuJfCs >}}
+{{< youtube SrveoQuJfCs >}} 
 
 ## :MusicPlaytest: Music Playtest
 The Music Playtest button is right above the Editor Playtest button, and below the Undo/Redo buttons, once again on the left of the screen.
 
 This button plays a green line, starting from the very left of your screen. It also plays the music of the level, following along with the green line. The green line is affected by the arrow triggers, speed changes, and other gameplay altering features.
 
-{{< youtube 0YBbfBrUYBk >}}
+{{< youtube 0YBbfBrUYBk >}} 
 
 # 2: Pause/Options Features
 
@@ -62,8 +62,8 @@ These are the playtesting-related features that you’ll find by pausing the edi
 
 {{< img src="https://lh3.googleusercontent.com/d/1S2qGHyKBozXaYJ-03X7tjOj7Q6nCgCBe" >}}
 
-- **Playtest Music:**  Plays the music whenever you playtest.
-- **Playtest No Grid:**  Removes the grid when playtesting.
+- **Playtest Music:** Plays the music whenever you playtest.
+- **Playtest No Grid:** Removes the grid when playtesting.
 - **Playtest No UI:** Removes the editor's user interface (UI) when playtesting.
 ## Options Menu (Page 2)
 
@@ -98,7 +98,7 @@ You can enable it in the in-game pause menu in the gear icon at the top right. T
 
 - **Level ID:** Displays the ID of the level that you are playing. If it’s not yet uploaded, it will have an ID of `0`.
 
--  **Time:** Shows how long you've been playing the level. It resets when you die or restart, and keeps on going even when you stay in the “Level Complete” screen.
+- **Time:** Shows how long you've been playing the level. It resets when you die or restart, and keeps on going even when you stay in the “Level Complete” screen.
 
 - **Attempts:** Displays how many times you’ve died. The attempt count resets if you leave or complete the level.
 

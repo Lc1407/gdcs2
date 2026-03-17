@@ -1,6 +1,6 @@
 ---
 title: "Mechanics 3 (Feedback)"
-weight: 703
+weight: 7030
 date: 2025-03-01T00:00:00.000Z
 authors:
   - "illusion2"
@@ -26,7 +26,7 @@ By this point, you would have a mechanic and its gameplay loop for the player to
 
 Let’s start off by defining feedback. At a glance, you can say that feedback tells the player that they’ve used a mechanic, usually through visuals. However, there’s more to this as the key point here is *information*. **Feedback** shows *how the game/level conveys any information to the player*. Any tangible thing that the player can see, hear, or interact is a form of feedback, acting as a teacher for your mechanics. Take this video for example and compare these two dashes: notice how the second dash’s visuals conveyed the mechanic more clearly.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1zlUyfRrdjo69DV8iXLyqSob2U8oWK6X2/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1zlUyfRrdjo69DV8iXLyqSob2U8oWK6X2" >}}
 
 As the player needs to click to activate this dashing mechanic, responsiveness becomes a factor; they help with the way players perceive the mechanic. You can influence the player’s experience if you can help them understand and sense your game’s mechanics.
 
@@ -48,17 +48,17 @@ Gameplay is rarely fun if the mechanics are obscure or inconsistent, so you shou
 
 Let’s take a look at the earlier example. Because players can freely rotate the dash, a moving arrow is placed to show its direction, followed by a small trail to emphasize the player’s path. The player can use the dash to break fragile walls in the actual level; the “shield” in front of the icon further conveys the dash’s strength. All of these little details teach the player about what the mechanic does visually.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1s32wu189FfSYJtMI9EHMYn_v6uBLmTyM/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1s32wu189FfSYJtMI9EHMYn_v6uBLmTyM" >}}
 
 Generally, the more visual effects and sound effects you put on a mechanic, the more important it feels. While there's a balance to this, you can use visuals to convey the hierarchy of a mechanic; some mechanics will be more powerful than others after all. While this extends into animation territory, it’s still good to know that you can use visuals to show importance.
 
 In the video below, you can see a big explosion when the player dives into the ground and bounces. This doesn’t actually explain the dive’s functionality, but it does show the dive’s strength.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1MqAxh4zJxdOJZC7uRtLNdHlTamM6ZCsp/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1MqAxh4zJxdOJZC7uRtLNdHlTamM6ZCsp" >}}
 
 Aside from visuals, you can also influence what the player hears to convey your mechanics. Listen to how all these mechanics below have different sounds, giving them each a unique identity. However, this guide won’t be talking as much about how to make SFX themselves as that’s for the Sound Design guides.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1KdVv0L00pGjA1UXk9CxxC7NmqDkfab0X/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1KdVv0L00pGjA1UXk9CxxC7NmqDkfab0X" >}}
 
 Another form of feedback is how soon an action is performed after a player input - the responsiveness of an action. For a rhythm-based game such as Geometry Dash, players expect an immediate response after an input, especially for extreme demon levels; it’s why you can see many extreme demon players discuss about input delay.
 
@@ -72,17 +72,17 @@ Feedback conveys information, and you can manipulate this information to guide t
 
 Of course, a lack of information may be useful at times too. Not giving a clear “right” or “wrong” outcome will leave the player to do what they want and *figure out what to do themselves*. This creates puzzles and strategy; you need to think about how you’re going to approach an obstacle on your own. Strategy will be further covered in [Mechanics 5](/docs/guides/gameplay-2/mechanics-5-limitations-strategy/). For example, Minecraft has a unique system called redstone, which you use to make various contraptions in the game such as farms, doors, computers, flying machines, etc. When a piece of redstone dust - the most basic component - activates, it lights up, which acts as basic visual feedback.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1HCAAfjOY30R6H7OSxx8T_wiY_NEIQGkA/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1HCAAfjOY30R6H7OSxx8T_wiY_NEIQGkA" >}}
 
 Running dust into the side of a repeater, a different type of redstone component, will do nothing, teaching that repeaters work from the front and back.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1Y8jCwgxcEgvGl5hd377ypAqYMWFJ9MdN/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1Y8jCwgxcEgvGl5hd377ypAqYMWFJ9MdN" >}}
 
 Minecraft uses feedback to teach basic things like that, but it’s different on larger scale contraptions like a redstone door. When something goes wrong, the player has no idea where and has to go through their contraption to find the error, making them rethink their logic and promoting more strategy (apart from the logic to make the contraption in the first place).
 
 While on the subject of Minecraft, let’s cover a sneaky feedback mistake that you have to look out for. I mentioned how redstone dust can’t go into the sides of repeaters, reinforcing the idea that they only work from the front and back, but this isn’t always true. Running the front of a repeater into the side of another repeater can lock the second one, which is a unique mechanic that is really niche due to it contradicting the “assumptions” of redstone dust. When using feedback to teach a mechanic, make sure it aligns rather than contradicts with other mechanics.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1qWm3On7LNkjT_koQKI_x1ccus_lvq8Sq/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1qWm3On7LNkjT_koQKI_x1ccus_lvq8Sq" >}}
 
 ## Feedback Loops
 
@@ -92,11 +92,11 @@ You message your friend → Your friend responds with their message → You resp
 
 As you hear the message notification or popup, this will make you want to text back as you wouldn’t want to leave your friend hanging (hopefully), and then your friend messages you back and the cycle continues.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1cTJW4yY1Twq76Ii7xDoDQ4I2kBML78kr/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1cTJW4yY1Twq76Ii7xDoDQ4I2kBML78kr" >}}
 
 When designing feedback loops, you need to decide on an action that the player will take and its results. The result should further engage the player and incentivize them to repeat said action. Upgrades are another example, because you get a small boost regularly that makes it easier to continue getting boosts and continuing the cycle. Feedback loops are fundamentally similar to gameplay loops and progression but are simply smaller in scale. Breath of the Wild and Tears of the Kingdom involve exploring big regions to defeat their local divine beast/temple, but there are also shrines all over the world which fulfill the same purpose on a smaller scale; explore a small area, complete the local shrine, continue on. It’s a small dopamine rush that’s easy to continue, while slowly building up the bigger gameplay loop.
 
-<div><iframe src=https://drive.google.com/file/d/14FqslFZVBLHbgChP3pPLfliFlZRtCwnj/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/14FqslFZVBLHbgChP3pPLfliFlZRtCwnj" >}}
 
 ## Know Your Game First
 

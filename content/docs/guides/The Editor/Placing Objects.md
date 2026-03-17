@@ -1,7 +1,7 @@
 ---
 title: "Placing Objects"
 description: "A basic guide to the most important features in the GD Editor."
-weight: 101
+weight: 1010
 date: 2023-03-20T00:00:00.000Z
 authors:
   - "komatic5"
@@ -30,17 +30,17 @@ seo:
 
 {{< img src="images/GDEmotes/Buttons/ZoomIn.png" class="emote">}} Use the **Zoom** buttons to zoom in and out.
 
-{{< youtube 7KmBdg82Y94 >}}
+{{< youtube 7KmBdg82Y94 >}} 
 
 # 2: The Build Tab
 
 {{< img src="images/GDEmotes/Objects/Block.png" class="emote">}} This is where you can find objects to place. Objects are organized into lots of different tabs, which you’ll learn more about in [later guides](/docs/guides/the-editor/object-types). To place an object, *click on its button* in the Build tab, then *click* anywhere in the editor space.
 
-{{< youtube v9PjLdzX3Vw >}}
+{{< youtube v9PjLdzX3Vw >}} 
 <br>
 {{< img src="images/GDEmotes/Buttons/Swipe.png" class="emote">}} To place lots of objects at once, click on the **Swip**e button to the right. You can now click and drag to place lots of objects. Note that this’ll stop you from moving around in the editor.
 
-{{< youtube PpLad3Hj5aE >}}
+{{< youtube PpLad3Hj5aE >}} 
 
 # 3: The Edit Tab
 
@@ -59,7 +59,7 @@ This is where you can change an object’s location. Click on any object to **se
 
 {{< img src="images/GDEmotes/Buttons/Warp.png" class="emote">}} Use the **warp button** to change an object's size and skew. Unlike scaling, there is no size limit here. This is explained more in the [Transforming Objects](/docs/guides/the-editor/transforming-objects) guide.
 
-{{< youtube lGJ7G-StnZ8>}}
+{{< youtube lGJ7G-StnZ8 >}} }}
 <br>
 {{< img src="images/GDEmotes/Buttons/Swipe.png" class="emote">}} If you want to select lots of objects at once, click on the **Swipe** button.
 
@@ -69,7 +69,7 @@ This is where you can change an object’s location. Click on any object to **se
 
 {{< img src="images/GDEmotes/Buttons/DeSelect.png" class="emote">}} If you want to stop selecting every object, click on the **De-Select** button.
 
-{{< youtube PxovKuvUsYI>}}
+{{< youtube PxovKuvUsYI >}} }}
 
 # 4: The Delete Tab
 
@@ -77,4 +77,4 @@ This is where you can remove objects you don’t want. **Click on any object** t
 
 {{< img src="images/GDEmotes/Buttons/Delete.png" class="emote">}} You can use the **trash** button to delete any objects you have selected.
 
-{{< youtube FijgIgJH20c>}}
+{{< youtube FijgIgJH20c >}} }}

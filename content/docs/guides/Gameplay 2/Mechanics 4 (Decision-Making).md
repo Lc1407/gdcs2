@@ -1,6 +1,6 @@
 ---
 title: "Mechanics 4 (Decision-Making)"
-weight: 704
+weight: 7040
 date: 2025-03-01T00:00:00.000Z
 authors:
   - "intercomprehensible"
@@ -71,13 +71,13 @@ To solidify the concept of tradeoffs, we’ll go through two broader examples.
 
 GD itself has a lot of tradeoffs, and here’s an example shown in one of our GDCS videos:
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1TVHYbdUi2Bw-jMDD1L6k7dX_v97p6eEE/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1TVHYbdUi2Bw-jMDD1L6k7dX_v97p6eEE" >}}
 
 When creating a level, you’ll have to sacrifice a specific aspect of the level in order to benefit the others.
 
 - If you focus on adding more details and optimizing them, it’ll take longer to finish building your level.
 - If you spend more time adding details, you won’t have a very optimized level.
-- If you focus on optimizing the level and spend your time there, you won’t have as  detailed of a level.
+- If you focus on optimizing the level and spend your time there, you won’t have as detailed of a level.
 
 As a more complex example, we can look at chess. Even with its simple rules, it comes with very rich and complex strategies. We’ll be focusing mainly on the many styles of play people can choose from. They usually fall into either the “aggressive” or “defensive” styles of play.
 
@@ -89,7 +89,7 @@ The key tradeoff here is **choosing to open defensively or aggressively**. Aggre
 
 As a more technical example (for those more familiar with chess), the Queen’s Gambit (1. d4 d5 2. f4) usually plays more aggressively, putting pressure on black’s queen-side pawn and fighting for the center. Here, black has many options to respond to the opening, either by opting to play e6 (a more defensive move) or taking the f4 pawn (usually more aggressive).
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1zfxK_8xmc2C1DxmOIPSWf-WwgJbF3UUt/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1zfxK_8xmc2C1DxmOIPSWf-WwgJbF3UUt" >}}
 
 The point here is, choosing an aggressive option is risky but offers positional momentum, while choosing a defensive option can provide more solid formations, while running into the possibility of attacks from the enemy.
 
@@ -101,7 +101,7 @@ Another thing that’s worth considering when making tradeoffs is that they don�
 
 An example of this is given in the roguelike game *Hades*.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1Q4jZEN8VJ3U8JuSZUcclXtMiuviv5TWn/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1Q4jZEN8VJ3U8JuSZUcclXtMiuviv5TWn" >}}
 
 - The “Splitting Headache” ability gives a powerful damage boost, but it relies on critical hits. Critical hits are reliant on your playstyle and gear, and are luck based as well, which may fit some playstyles better than others.
 - “Bad Influence” is another good damage boost, but it relies on the amount of AOE attacks you have which are able to inflict the Hangover effect. Again, this depends on your playstyle and gear.
@@ -123,11 +123,11 @@ As an example, many RPGs, such as the Xenoblade Chronicles series, almost *force
 
 Hollow Knight also implements risk and reward in a neat way. Players unlock trinkets called charms. Charms act like extra skills/accessories which need notches (kind of like slots) to use. Another thing to note is that stronger charms use more notches, which creates an interesting tradeoff. You can’t use as many stronger charms as weaker charms, as they’ll take up more notches. However, you wouldn’t really want to use weaker charms, would you? This forces players to find the right balance of charms that fit.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1RqGB-S9ikffapmKNH_xuuNCbebF7wGaB/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1RqGB-S9ikffapmKNH_xuuNCbebF7wGaB" >}}
 
 -# Less powerful charms take up less notches. Note that there are less charms and notches than there otherwise would’ve been, because they’re not unlocked yet.
 
-<div><iframe src=https://drive.google.com/file/d/1VWsTUP9AODh2urG0r9Jf_cp-9b5xCT0j/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1VWsTUP9AODh2urG0r9Jf_cp-9b5xCT0j" >}}
 
 ** **
 

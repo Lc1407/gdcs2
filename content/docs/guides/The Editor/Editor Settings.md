@@ -1,6 +1,6 @@
 ---
 title: "Editor Settings"
-weight: 104
+weight: 1040
 date: 2024-05-15T00:00:00.000Z
 authors:
   - "tdp9"
@@ -63,28 +63,28 @@ Gives extra options for the level, which includes the following:
 - **No Time Penalty**: An option that only affects platformer mode. As you play a level in platformer mode, you lose 1,000 points per second. __This option removes this point loss.__
 - **Spawn Group**: __Spawns the player at the position of an object with the selected group.__ If multiple objects have the same group, one will be chosen at random. In normal mode, only the object’s y-value is relevant for spawning.
 
-{{< youtube pGwNAlpqrOc>}}
+{{< youtube pGwNAlpqrOc >}} }}
 
 ## Legacy Options
 Within the options menu is another gear icon which leads to the legacy options menu. These options make it so that levels before recent updates can work like they did before the update. For the new 2.2 levels, it’s recommended to leave these options alone:
 - **Allow Multi-Rotation**: __Objects that are being rotated by 2 or more different rotate triggers will rotate properly.__
 
-{{< youtube WXTGlvQTBRg>}}
+{{< youtube WXTGlvQTBRg >}} }}
 
 - **Enable 2.2 Changes**: __Changes progression in the level from being based on player position to being based on the verification completion time.__
 - **Allow Static-Rotate**: __Makes it so that static objects can visually rotate properly.__ Hitboxes are not rotated. This only works in the editor.
 
-{{< youtube O28Ru0-MghQ>}}
+{{< youtube O28Ru0-MghQ >}} }}
 
 - **Enable Player Squeeze**: __Fixes a bug that allows a player to “squeeze” into an object when it shouldn’t.__
 
-{{< youtube njNbKLisV5w>}}
+{{< youtube njNbKLisV5w >}} }}
 
 - **Fix Gravity Bug**: __Fixes a bug where upside down gravity had different physics than normal gravity.__
 - **Fix Negative Scale**: __Fixes a bug where scaling an object into the negatives using scale hacks would remove or massively shrink a hitbox for an object.__
 - **Fix Robot Jump**: __Fixes moments where jumping at the right time on a slope or before a pad as a robot would give a massive jump height boost.__
 
-{{< youtube Y9qBZxjDCK8>}}
+{{< youtube Y9qBZxjDCK8 >}} }}
 
 - **Dynamic Level Height**: __Increases the level height as you build higher.__ This is similar to how a level’s length increases as you build further.
 - **Sort Groups**: __Makes it so that spawned groups are spawned from left to right.__
@@ -95,7 +95,7 @@ Within the options menu is another gear icon which leads to the legacy options m
 - **Reverse Sync**: __Speeds up or slows down the player so that the music can stay in sync whenever a direction change occurs.__
 - **Decrease Boost Slide**: __Lessens how much the player slides after being launched by a dash orb or moving objects.__
 
-{{< youtube uT4GVrRlYfk>}}
+{{< youtube uT4GVrRlYfk >}} }}
 
 # 2: Editor Settings
 
@@ -159,13 +159,13 @@ These settings can be found by clicking the button with a gear on it in the top 
 - **Hide Background**: __Removes the background in the editor, leaving a black, empty one instead.__
 - **Enable Link Controls**: __Allows you to link objects together, which means they will be selected and deleted together when one object in the link is selected/deleted__. Linking objects and combining it with an “Area Parent” object can allow object movement to be linked in Area triggers.
 
-{{< youtube DN7-4_8FgA8>}}
+{{< youtube DN7-4_8FgA8 >}} }}
 
 - **Hold To Swipe**: __Enables swiping after holding down for a while.__
 - **Buttons Per Row/Button Rows**: Allows you to __customize how many buttons are displayed in the build, edit, and delete tabs.__ There is a minimum of 6 columns and 2 rows, and a maximum of 12 columns and 3 rows.
 - **Swipe Cycle Mode**: When using swipe, you are able to select multiple objects. However, if you try to click on an object that is with or near other objects, you might select the wrong one. Swipe Cycle __allows you to cycle between objects before you keep a selection__. Click on an object in very close proximity and within a close window of time from the last selection and it will deselect the last object and select a new object.
 
-{{< youtube fpQ2H4lGHeo>}}
+{{< youtube fpQ2H4lGHeo >}} }}
 
 - **Layer Locking**: __Allows you to lock layers by clicking the layer number in the editor.__ Makes it so you cannot build or select objects in them. This is explained more in the [Organizing Objects](/docs/guides/the-editor/organizing-objects/#locking-editor-layers) guide.
 - **Show Clicks**: __Places down small, orange squares at points you click during playtesting.__
@@ -183,8 +183,8 @@ These settings can be found by clicking the button with a gear on it in the top 
 **Keybinds** allow you to __input certain key combinations to perform actions in the editor__. As of Update 2.205, none of these can be binded to different keys. They can be found in the pause menu of the editor or the main options menu of the game. Most are self explanatory, but these keybinds need more explaining.
 - **Lock/Unlock Preview**: __Locks the visuals of the editor preview to a specific point in the editor.__
 
-{{< youtube mftxAmNIlLQ>}}
+{{< youtube mftxAmNIlLQ >}} }}
 
 - **Save/Load Editor Pos**: __Saves the screen position of the editor camera which can be loaded to go to later.__ You can save a position using using Ctrl+[0-9], and load it using Alt+[0-9].
 
-{{< youtube tLYwWL07GMo>}}
+{{< youtube tLYwWL07GMo >}} }}

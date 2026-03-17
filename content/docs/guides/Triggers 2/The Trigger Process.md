@@ -1,6 +1,6 @@
 ---
 title: "The Trigger Process"
-weight: 347
+weight: 3470
 date: 2023-03-14T00:00:00.000Z
 authors:
   - "komatic5"
@@ -72,7 +72,7 @@ This can also be combined with other modules: by using collision triggers as a t
 
 {{< img src="https://lh3.googleusercontent.com/d/1gjNV3CpV0Zj7c-0EE5XeWAdRYR_aQPpE" >}}
 <br>
-{{< youtube rzmGvBvObUE >}}
+{{< youtube rzmGvBvObUE >}} 
 
 ## Example 2: Double Click
 
@@ -98,7 +98,7 @@ To detect when the player’s only clicked once, we use a spawn trigger with 0.2
 
 {{< img src="https://lh3.googleusercontent.com/d/1p1t21UMEuQ6iFzDy2JMy7AK70shgmRyq" >}}
 <br>
-{{< youtube YhsjDK-tu18 >}}
+{{< youtube YhsjDK-tu18 >}} 
 
 You can see when the triggers activate thanks to the BetterEdit mod.
 

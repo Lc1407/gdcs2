@@ -1,6 +1,6 @@
 ---
 title: "Randomizers (2.1)"
-weight: 620
+weight: 6200
 date: 2024-04-19T00:00:00.000Z
 authors:
   - "infernuz_bunni"
@@ -15,9 +15,9 @@ draft: false
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 
-   - Randomizers can be used to change a level every attempt, from simple color changes to randomizing the layout every few seconds.
-   - Most randomizers require player input, with the exception of the Shake Trigger randomizer.
-   - No randomizer is truly random, as most of them can be "cheated" through specific click patterns. The exception to this is once again, the Shake Trigger randomizer.
+  - Randomizers can be used to change a level every attempt, from simple color changes to randomizing the layout every few seconds.
+  - Most randomizers require player input, with the exception of the Shake Trigger randomizer.
+  - No randomizer is truly random, as most of them can be "cheated" through specific click patterns. The exception to this is once again, the Shake Trigger randomizer.
 
 {{< /callout >}}
 
@@ -30,11 +30,11 @@ A green orb's hitbox rotates with its texture. Using this odd property, it's pos
 
 1. Place a green orb in a way where the player has to buffer-click it, and then scale it past 4.00x. *Note that you can scale it up to 2.00x if Scale Hack isn't available.*
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1BV40hpxTV3hwl0n-L7pm-SStAcaEXyIM/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1BV40hpxTV3hwl0n-L7pm-SStAcaEXyIM" >}}
 
 2. Place a lot of pickup triggers in a dense cluster at the exact position where the player will land, which increase the count by random values.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1vxGd6F9YHKvf7MyD0trQnVfCA4Zxo2FV/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1vxGd6F9YHKvf7MyD0trQnVfCA4Zxo2FV" >}}
 
 3. Place a count trigger which activates a group when the target value is reached. This can be repeated multiple times for however many variants you want, as long as each count trigger has a unique target value and activates a unique group.
 
@@ -47,11 +47,11 @@ This method uses a circle of collision blocks to randomize the group toggled on.
 
 1. Create a circle made out of collision blocks. As a rule of thumb, a bigger circle generally means you'll be having more things to randomize.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1Atg0JmB8OYFuN-x7o2XeaZr78ffFj7V-/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1Atg0JmB8OYFuN-x7o2XeaZr78ffFj7V-" >}}
 
 2. Assign unique collision IDs to each of these blocks.
 3. Place another collision block with a new group on the circumference of this circle. Make sure it has a unique collision ID and is a Dynamic Block. We'll call this collision block `` A.``
-4. Place a Rotate trigger which rotates  collision block ``A`` on the circumference. which means it needs the same center point as the circle, just with a different group. There's no specific parameters for this trigger, but large rotations or even multiple loops are preferable. Give this trigger a new group and enable Spawn Triggered and Multi-Triggered.
+4. Place a Rotate trigger which rotates collision block ``A`` on the circumference. which means it needs the same center point as the circle, just with a different group. There's no specific parameters for this trigger, but large rotations or even multiple loops are preferable. Give this trigger a new group and enable Spawn Triggered and Multi-Triggered.
 5. Place a touch trigger which toggles the group with the rotate trigger. Enable Hold Mode.
 6. Assign each collision block on the circle their own unique collisions that toggle their variant ON and toggle all other variants OFF.
 
@@ -78,8 +78,7 @@ The Target ID is the group you want to activate. Make sure each trigger has a di
 
 Noam's randomizer is the closest you can get to full randomization in GD. It's also fairly simple, and can be placed anywhere. However, just like the Collision Roulette, it needs player input to activate.
 
-Here's a video of the setup as well: https://youtu.be/tbzdZJQWaAc
-
+Here's a video of the setup as well: https://youtu.be/tbzdZJQWaAc >}} 
 # 4: Shake Trigger Randomizer
 
 This randomizer abuses an interaction between the shake trigger and dual mode in order to create randomness, and requires no player input.
@@ -94,12 +93,12 @@ This randomizer abuses an interaction between the shake trigger and dual mode in
 
 Here's what it should look like.
 
-<div><iframe src=https://drive.google.com/file/d/1kOGzNoGNk4BxdJhh9IYYx9P5HQldqlPy/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1kOGzNoGNk4BxdJhh9IYYx9P5HQldqlPy" >}}
 
 This randomizer does not require any player input, and is fully random. However, it only supports 2 outcomes, requires Shake to be enabled, and cannot be playtested in the editor.
 
 # Sources
 
-> • <https://youtu.be/LbPYygtpxJk>
-> • <https://youtu.be/guOzs1aU_Us>
-> • <https://youtu.be/tbzdZJQWaAc>
+- <https://youtu.be/LbPYygtpxJk >}} 
+- <https://youtu.be/guOzs1aU_Us >}} 
+- <https://youtu.be/tbzdZJQWaAc >}} 

@@ -1,6 +1,6 @@
 ---
 title: "Pathfinding"
-weight: 911
+weight: 9110
 date: 2024-09-30T00:00:00.000Z
 authors:
   - "furorem"
@@ -142,13 +142,13 @@ let discovered: Array<bool> = Array[graph.nb_nodes()] - Array of boolean (true/f
 let stack: Stack = Stack::with_capacity(graph.nb_nodes())
 stack.push(root_node) - Push the root node onto the stack.
 while NOT stack.is_empty() {
-    let next: Node = stack.pop() - The next node is popped from the stack.
-    if not discovered[next.id()] { - “next” is not part of the “discovered” array.
-        discovered[next.id()] = true - “next” is marked as a node we’ve traversed.
-        for n in node.neighbours() {
-            stack.push(n) - Add all of the node’s neighbors onto the stack, and repeat the while loop.
-        }
-    }
+  let next: Node = stack.pop() - The next node is popped from the stack.
+  if not discovered[next.id()] { - “next” is not part of the “discovered” array.
+  discovered[next.id()] = true - “next” is marked as a node we’ve traversed.
+  for n in node.neighbours() {
+  stack.push(n) - Add all of the node’s neighbors onto the stack, and repeat the while loop.
+  }
+  }
 }
 }
 ```
@@ -165,17 +165,17 @@ let stack: Stack = Stack::with_capacity(x * y)
 let discovered: Array<bool> = Array[graph.nb_nodes()]
 stack.push(start_node)
 while not stack.is_empty() {
-    let node: Node = stack.pop(node)
-    visited[node.id()] = true
-    while all neighbors of node are visited {
-        if stack.is_empty() {
-            stop algorithm
+  let node: Node = stack.pop(node)
+  visited[node.id()] = true
+  while all neighbors of node are visited {
+  if stack.is_empty() {
+  stop algorithm
 }
-        node = stack.pop()
-    }
-    let random_neighbor = choose_random_neighbor_of(node)
-    stack.push(random_neighbor)
-    remove_wall_between(node, random_neighbor)
+  node = stack.pop()
+  }
+  let random_neighbor = choose_random_neighbor_of(node)
+  stack.push(random_neighbor)
+  remove_wall_between(node, random_neighbor)
 }
 ```
 
@@ -199,13 +199,13 @@ let discovered: Array<bool> = Array[graph.nb_nodes()] - Array of boolean (true/f
 let queue: Queue = Queue::with_capacity(graph.nb_nodes())
 stack.push(root_node) - Push the root node onto the queue.
 while NOT queue.is_empty() {
-    let next: Node = queue.pop() - The next node is popped from the queue.
-    if not discovered[next.id()] { - “next” is not part of the “discovered” array.
-        discovered[next.id()] = true - “next” is marked as a node we’ve traversed.
-        for n in node.neighbours() {
-            queue.push(n) - Add all of the node’s neighbors onto the queue, and repeat the while loop.
-        }
-    }
+  let next: Node = queue.pop() - The next node is popped from the queue.
+  if not discovered[next.id()] { - “next” is not part of the “discovered” array.
+  discovered[next.id()] = true - “next” is marked as a node we’ve traversed.
+  for n in node.neighbours() {
+  queue.push(n) - Add all of the node’s neighbors onto the queue, and repeat the while loop.
+  }
+  }
 }
 }
 ```
@@ -223,25 +223,25 @@ Dijkstra’s algorithm is used to find the shortest path between two nodes. It w
 ```js
 // Here, we attach the cost to reach a node and its predecessor in the path with it
 fn dijkstra(g: Graph, start: Node, end: Node) {
-    let queue = PriorityQueue(comparator = cost)
-    let visited = Array<bool> = Array::with_capacity(g.nb_nodes())
-    let predecessors = Array<Node> = Array::with_capacity(g.nb_nodes())
-    queue.push(start)
-    while NOT queue.is_empty() {
-        candidate = queue.pop()
-        if candidate == end {
-            // Reconstruct the path
-            END
-        }
-        visited[candidate] = true
-        predecessors[candidate] = candidate.predecessor
-        for n in graph.neighbours_of(candidate) {
+  let queue = PriorityQueue(comparator = cost)
+  let visited = Array<bool> = Array::with_capacity(g.nb_nodes())
+  let predecessors = Array<Node> = Array::with_capacity(g.nb_nodes())
+  queue.push(start)
+  while NOT queue.is_empty() {
+  candidate = queue.pop()
+  if candidate == end {
+  // Reconstruct the path
+  END
+  }
+  visited[candidate] = true
+  predecessors[candidate] = candidate.predecessor
+  for n in graph.neighbours_of(candidate) {
 queue.push(n,
 cost = candidate.cost +
 graph.weight_of_link_between(n, candidate),
-                predecessor = candidate)
-        }
-    }
+  predecessor = candidate)
+  }
+  }
 }
 ```
 
@@ -257,33 +257,33 @@ A* is widely used because it skips large parts of the graph you know will not be
 
 ```js
 fn heuristic(n: Node, g: Graph) -> number {
-    // Whatever you want here
+  // Whatever you want here
 }
 
 fn A*(g: Graph, start: Node, end: Node) {
-    let openQueue = PriorityQueue(comparator = heuristic)
-    let visited = Array<bool> = Array::with_capacity(g.nb_nodes())
-    let predecessors = Array<Node> = Array::with_capacity(g.nb_nodes())
-    openList.add(start)
-    while NOT openList.is_empty() {
-        node `n` = openQueue.pop()
-        if n == end {
-            // the path has been found, you can reconstruct it from the predecessors array
-            END
-        }
-        if visited[n] {
-            continue - go on the next node
-        }
-        for n2 in graph.neighbours_of(n) {
-            if NOT visited[n2] {
-                openQueue.push(n2, predecessor = n);
-            }
-        }
-        visited[n] = true
-        predecessors[n] = n.predecessor //definitive predecessor
-    }
-    // no path exists
-    END
+  let openQueue = PriorityQueue(comparator = heuristic)
+  let visited = Array<bool> = Array::with_capacity(g.nb_nodes())
+  let predecessors = Array<Node> = Array::with_capacity(g.nb_nodes())
+  openList.add(start)
+  while NOT openList.is_empty() {
+  node `n` = openQueue.pop()
+  if n == end {
+  // the path has been found, you can reconstruct it from the predecessors array
+  END
+  }
+  if visited[n] {
+  continue - go on the next node
+  }
+  for n2 in graph.neighbours_of(n) {
+  if NOT visited[n2] {
+  openQueue.push(n2, predecessor = n);
+  }
+  }
+  visited[n] = true
+  predecessors[n] = n.predecessor //definitive predecessor
+  }
+  // no path exists
+  END
 }
 ```
 

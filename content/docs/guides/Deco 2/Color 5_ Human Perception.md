@@ -1,6 +1,6 @@
 ---
 title: "Color 5 (Human Perception)"
-weight: 805
+weight: 8050
 date: 2024-05-31T00:00:00.000Z
 authors:
   - "skytriz"
@@ -21,7 +21,7 @@ draft: false
 
 Before diving into color blindness and tetrachromacy, let’s talk about how the human eye normally functions and how we perceive color and light.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/14jh3U5iDf6Z5CdOEYj1jXBq5RNNbfWKI/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/14jh3U5iDf6Z5CdOEYj1jXBq5RNNbfWKI" >}}
 
 This is a diagram of an eyeball and how it takes in the visual information of an object.
 
@@ -33,7 +33,7 @@ The cones are the photoreceptors that allow us to perceive colors. They’re con
 
 Humans typically have 3 different kinds of cones - red, green and blue - and as such are called ‘Trichromats’. These different cones are what let us see colors. Any kind of color blindness is the result of a malfunctioning cone.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1wF8NtT1ZbRWDZqSdfe3mLRBszAXsR3U7/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1wF8NtT1ZbRWDZqSdfe3mLRBszAXsR3U7" >}}
 
 There are 3 different kinds of color blindness. Abnormal green or red cones result in Deuteranopia and Protanopia, while an abnormal blue cone results in Tritanopia. Hence, people affected by color blindness are called dichromats, due to having 2 functioning cone cells.
 
@@ -41,9 +41,9 @@ There are some rare mutations which may result in people having 4 cones. However
 
 Let's try to visualize tetrachromacy. We'll look at the work of a fine artist named Concetta Antico, who is a tetrachromat. It's important to note that a fourth cone isn't a prerequisite for being skilled with colors, nor is Antico's talent solely due to her tetrachromacy. There are numerous visually impaired artists and GD creators who can produce brilliant works.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1zscz85_miC6sklLQau9tNdReff8OJ6FX/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1zscz85_miC6sklLQau9tNdReff8OJ6FX" >}}
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1cLxUV2VHIksgXY_QdIbsB7ISZ3kEb3fN/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1cLxUV2VHIksgXY_QdIbsB7ISZ3kEb3fN" >}}
 
 # 2: Color Relativity
 
@@ -52,32 +52,32 @@ While the human brain is quite skilled at processing colors, it's not perfect. T
 ## Color Constancy
 **Color constancy** is __when our eyes see a color as staying the same, even if the lighting changes__. For example, we still see red strawberries as red, even if there's a blue light shining on them.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1J-VV6siF_BNwtlThzqU2ykuJCGr2HRec/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1J-VV6siF_BNwtlThzqU2ykuJCGr2HRec" >}}
 
 Our brain perceives everything in this image as cyan, but it's compensating for the cyan overlay, making us think we see the strawberries as red.
 
 This is a very famous example of color constancy. In fact, all you have to do to find it on the internet is to search “gold and white”.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/12jQW7qqFnlld_VlMVaEeN5SmsKX-z7vV/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/12jQW7qqFnlld_VlMVaEeN5SmsKX-z7vV" >}}
 
 This dress has sparked debates online over whether it's gold and white, or black and blue. Initially, people perceive it as gold and white due to the perception of being in a shadow. This image illustrates it well.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1NYGjI6OhuILPnvDSBk913tpiShlO_l9Q/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1NYGjI6OhuILPnvDSBk913tpiShlO_l9Q" >}}
 
 However, this is incorrect, and the dress is actually black and blue. Color constancy tricks our brains into thinking it's under a shadow when it's actually brightened. This becomes apparent when observing the bright, washed-out background.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1UOB9Q2pvGnbxOZ_J1Yqp81DAD3Vo_IwJ/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1UOB9Q2pvGnbxOZ_J1Yqp81DAD3Vo_IwJ" >}}
 
 ## Simultaneous Contrast
 **Simultaneous Contrast** is one of the most well known aspects of color relativity. It is __the effect on our eyes when 2 of the same colors are perceived differently based on the surrounding colors.__
 
 There are many demonstrations of this; for example, this famous checkered board with a cylinder casting a shadow on it. In this image, we think square A is a dark square and square B is lighter, as they follow the same pattern as the light squares, and you can see there is a darker square next to them.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1btrSEAzXRHOi8MZzoiqAkEeceYPIs1vL/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1btrSEAzXRHOi8MZzoiqAkEeceYPIs1vL" >}}
 
 However, in reality, square A and square B are the exact same color.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1QsFyhiveMje3c1hMCICeydIGKvN2OIHz/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1QsFyhiveMje3c1hMCICeydIGKvN2OIHz" >}}
 
 ## Successive Contrast
 
@@ -85,7 +85,7 @@ However, in reality, square A and square B are the exact same color.
 
 Pause this video when it's on the red and green circles, and stare at the black dots in the center for about 30 seconds. Afterwards, unpause the video. You’ll notice that you perceive the 2 orange circles to be slightly different colors.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1y1jn0ZrpcZTnW3UxiBddXgNMgkI5XE_r/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1y1jn0ZrpcZTnW3UxiBddXgNMgkI5XE_r" >}}
 
 When staring at the green circle for a while, the following orange circle will appear to be more saturated. When staring at the red circle, the orange circle that appears afterwards will look brighter than the more saturated circle. *This is because successive contrast uses the complementary color of the initial color.*
 
@@ -103,7 +103,7 @@ The next type of impossible colors are called **chimerical colors**. They happen
 
 Stare at the crosses in the circles for about 1 minute and then afterwards, stare at the crosses in the next square. You will briefly see an after-image appear above the other square.
 
-<div><iframe src=https://drive.google.com/file/d/1lgPISDX-LfLHCOzVQLcvBwgOOLhExzRS/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1lgPISDX-LfLHCOzVQLcvBwgOOLhExzRS" >}}
 
 Staring at the yellow circle and then looking at the black square, you will end up seeing a blue color called Stygian Blue.
 **Stygian colors** are types of color that are __both impossibly dark and saturated__.

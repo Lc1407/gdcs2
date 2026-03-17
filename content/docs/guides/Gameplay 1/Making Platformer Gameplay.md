@@ -1,6 +1,6 @@
 ---
 title: "Making Platformer Gameplay"
-weight: 419
+weight: 4190
 date: 2025-03-31T00:00:00.000Z
 authors:
   - "styphontv"
@@ -68,9 +68,9 @@ Artificial difficulty is an inefficient way to make a level hard, as it makes th
 ## Gameplay Tips
 One tip that can improve the overall experience of your gameplay is by not making gameplay that could otherwise be possible in classic mode. This is not engaging for the player and can bore them fairly quickly. Instead, opt for gameplay that involves a sizable amount of horizontal displacement.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1xGrUg6fOkDVPdv4lYAJukPJbivYQbmjo/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1xGrUg6fOkDVPdv4lYAJukPJbivYQbmjo" >}}
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1rTcwF_xdr8ZssAdfvE_Z8TP0P9KBVlu6/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1rTcwF_xdr8ZssAdfvE_Z8TP0P9KBVlu6" >}}
 
 ## How is this achievable?
 When making the level you’ll likely have the bias that nothing is wrong because you believe the gameplay you made is better than anyone else and you will have flaws that are less serious, but people will think differently, leading to varying opinions. Getting playtesters will help with this greatly.
@@ -85,59 +85,59 @@ This is usually the most common gameplay type for levels. It’s known for being
 
 Levels such as The Sewers, Platmosphere and Over the City by Robtop, Gabbs, and PAHC respectively are clear examples of this level type. The images show the levels listed in order.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1_CpdW94UeAhxkspt50y5pyy4K79-YsuN/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1_CpdW94UeAhxkspt50y5pyy4K79-YsuN" >}}
 
 ## Rooms
 
 This is also a common type of gameplay in GD. This usually involves each part being separated by the use of boxing off the gameplay in different rooms. Some examples are Gateway by vyp, Twenty Trials by morpe, and Die to Win by ReyRU.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1Jox6b6ihw0D2pOpCUke-rlsP4kE5CHiJ/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1Jox6b6ihw0D2pOpCUke-rlsP4kE5CHiJ" >}}
 
 ## Momentum Tech
 This type of gameplay utilizes the player's momentum in unique ways. It often uses dash orbs to boost the player, but is not limited to just that. Slopes and platform movements are also used. Some examples are SpeedTek by G4lv4tron, Zip Lash by Colon, and SpiderTek by OWOSI. SpiderTek is an exceptional example of this gameplay type.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1FfEwZkJswkPk-5Rltzu0sG_9b-J6IUzt/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1FfEwZkJswkPk-5Rltzu0sG_9b-J6IUzt" >}}
 
 ## Autoscroll Gameplay
 This type consists of gameplay where the camera is locked to a center point and moves to the left or right until the end. This kind of gameplay can also be seen in games such as Super Mario Bros. 3 with its airship levels, along with many levels in Mario Maker. GD levels that use this type of gameplay are Maximum Security by Buziris, Crerro Kaizo I by Crerro, and The Lightning Road by KingEggplant987.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1Xa3F7yG4zv3Ozhm1v3UyYb9ewgQ2Ju7u/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1Xa3F7yG4zv3Ozhm1v3UyYb9ewgQ2Ju7u" >}}
 
 ## Speedrun Gameplay
 
 This gameplay type limits the amount of time that the player can beat the level. Some examples are Decaying Silo by LunarLeo77, Loco Motive by Subwoofer, Fast N Accuracy by lplmal, and Calamitous Fortune by Xyraphella.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1ANhXkbTFDoz9DhwHJF-5lfZM3qys_tTo/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1ANhXkbTFDoz9DhwHJF-5lfZM3qys_tTo" >}}
 
 ## Needle Gameplay
 
 This type of gameplay is popular among insane/extreme demons in general. It usually takes inspiration from “I Wanna be the Guy” and is known for having tight and precise timings that abuse hitboxes. This gameplay includes but is not limited to the robot gamemode. Some examples are I wanna be the guy by Orelu & Aless50, The Abyss and Tower of infinity by zYuko, and Arachnid Tetris by spark.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1F1fvQnvdR6WWZN7Q67IZMF43zuBUws3S/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1F1fvQnvdR6WWZN7Q67IZMF43zuBUws3S" >}}
 
 ## Bossfight Gameplay
 
 This type of gameplay involves battling a boss, usually in the format of a Terraria boss. Some examples of this type are Logodomy by TheMilkCat, Stella Infection by LopyLuna, and Flame Arena I by ilovefreddy123.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1HHVk_IWl_2p-YG5ogOzl8QvzYdOh4VnH/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1HHVk_IWl_2p-YG5ogOzl8QvzYdOh4VnH" >}}
 
 ## Other Gameplay Types
 Many other gameplay types exist that weren’t listed previously, which are either branches of what was listed or new types completely.
 
 - Quarion by Zejoant is a Metroidvania-style level, taking concepts from games such as Super Metroid and Celeste.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1qfLPRunkNYgEjWMpqJ1cFOipZHhU92od/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1qfLPRunkNYgEjWMpqJ1cFOipZHhU92od" >}}
 
 - Only Upwards by OWOSI is an example of a puzzle level, using gimmicks to have the player think critically to get to the solution.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1Yss0Lv_0zpyNMvEiXVixZ_Kcel5shqtA/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1Yss0Lv_0zpyNMvEiXVixZ_Kcel5shqtA" >}}
 
 - Blink Block Blitz by Codex is an example of a Blinking Block level, which is a concept used by games such as Super Mario Galaxy in some stages and Super Mario Maker 2.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1hdftb4Ihz_39DjmuBx5RFjoq2cUvlj6K/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1hdftb4Ihz_39DjmuBx5RFjoq2cUvlj6K" >}}
 
 - Vacuum Tank by FakeHATETAG is a Slope Boost level, which by itself is a gimmick seen in SpeedTek, where you jump up a steep slope using the player’s momentum.
 
-<div><iframe src=https://drive.google.com/file/d/1DglwQWnoLvo4nnaT2-1OXgNaBifuHiUa/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1DglwQWnoLvo4nnaT2-1OXgNaBifuHiUa" >}}
 
 These are only a few examples of platformer gameplay you may see or use in your own levels, which should give you a better understanding of how you can structure your gameplay.

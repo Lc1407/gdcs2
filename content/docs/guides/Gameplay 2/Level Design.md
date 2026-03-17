@@ -1,6 +1,6 @@
 ---
 title: "Level Design"
-weight: 718
+weight: 7180
 date: 2025-01-14T00:00:00.000Z
 authors:
   - "intercomprehensible"
@@ -50,13 +50,13 @@ Feedback is key when designing rooms; it lets the player determine certain thing
 
 **Sense of progression**: This helps the player feel like they’re making progress or going in the right direction. You might not realize this, but designers do this constantly; often with quest objectives, showing progress bars, or other visual changes. For example in the game *Spore*, the planets you terraform change their appearance over time.
 
-{{< youtube KptAkGOMi48 >}}
+{{< youtube KptAkGOMi48 >}} 
 
 **Shape language**: This is how different shapes convey different things to the player. Round shapes usually give a feeling of safety, sharp shapes convey danger and make the player avoid them, and square shapes represent utility. This usually gives the player a general idea of what to do when first entering a room, which is great for introducing new mechanics. You’ll learn more about this in the advanced decoration guides as well.
 
 **Limitations and Strategy**: How different elements restrict the player or present them with opportunities. Using Limitations and Strategy correctly can inspire creative strategies from the player, while still being limited to a certain direction of play. A fun example is this Celeste room, where the player must reach every switch to progress (limitation), but can access them in any order thanks to the dream block and springs (strategy) in the middle.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/172wJOSFiFolV8SKmkzOL4yK-ar-WGjQV/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/172wJOSFiFolV8SKmkzOL4yK-ar-WGjQV" >}}
 
 You won’t usually need *all* of these methods at once in your gameplay, or you may overwhelm players. This is especially true of Sense of Progression and Limitations & Strategy; throwing every mechanic at the player just overwhelms them and will likely prevent them from actually learning. On the other hand, giving the player every pointer possible will likely make them feel babied.
 
@@ -107,7 +107,7 @@ The **Central Mechanic** in a room is the main one used within that room. This h
 
 If your rooms use random mechanics instead of sticking to a few central ones, they could feel inconsistent and hard to learn, like the final room in The Core C-Side in *Celeste*. This room uses almost every mechanic available at this point, at the cost of being one of the least fun rooms in the game.
 
-{{< youtube etbgXCe8zuU >}}
+{{< youtube etbgXCe8zuU >}} 
 
 Once you’ve chosen a central mechanic for your room, you must also decide what the player will do with it: how they will get from point A to point B. This is what the **Critical Path** is: the intended path through a room. Having critical paths helps you predict where the player will go when designing a room, so you know what enemies and items they’ll likely encounter when playing.
 
@@ -152,19 +152,19 @@ As with Player Perception, there are many design patterns you can use, such as t
 
 Less centralized areas can feel less artificial and more vast, but they’ll often still use important areas like landmarks. As a result, it’s still useful to practice designing areas around landmarks. In this example, all of the buildings are centered around a singular landmark in the center, marked in red.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1kHuf3UPXDr9SAnQV6MfMi7WmINtjsqSC/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1kHuf3UPXDr9SAnQV6MfMi7WmINtjsqSC" >}}
 
 **Symmetrical:** Elements are organized around at least one axis of symmetry. This lets you place elements more evenly around the area or make the space feel more man-made, but can also result in repetition if overdone.
 
 You can mask some symmetry by slightly changing one side of the area, or by covering the symmetry with other features like importing landmarks or decorative elements that differ from one side to the other. In this example, the buildings are roughly symmetrical; however, some of them are slightly varied so the map isn’t dull.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1SrV7o4e4O4UlgUNCcbZHubd1FbzLj5cH/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1SrV7o4e4O4UlgUNCcbZHubd1FbzLj5cH" >}}
 
 **Environmental**: Elements are placed depending on the terrain around them. For instance, in this example the buildings are arranged so some fit the cliffside marked in red, and others fit the bridge on the left side.
 
 This can make your area feel more realistic, and it greatly changes how players will approach the area. However, it also depends on the specific environment you’re creating *and* your understanding of that environment in the real world. You’ll likely need to use references when planning out your area.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/144iXhc8DK57-7btPub6jCbkAyrVqpKLO/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/144iXhc8DK57-7btPub6jCbkAyrVqpKLO" >}}
 
 Regardless of the design patterns you use, it’s important to get feedback and playtesters for your areas when designing your gameplay. These decisions can have major impacts on how your gameplay is experienced, so it’s important to use them with purpose.
 ## Exploration & Incentives
@@ -182,11 +182,11 @@ As always, make sure you don’t overwhelm the player with these tactics. Make s
 
 Once the player starts exploring, it’s important that they know where they are on the map. This is where **Paths** come in, as ways for players to know their location. For instance, you can use unique landmarks so players can recognize where they came from, like spacing out some rocks so each path in and out is distinguishable.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1AvuXujrVzvvNpV5SBX1Bz6b3L_StmGDT/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1AvuXujrVzvvNpV5SBX1Bz6b3L_StmGDT" >}}
 
 Alternatively, you can intentionally confuse the player if need be, and space out the objects so every path in and out is indistinguishable. This can be very effective for things such as horror gameplay where you want the player to feel lost. In the example below, if you rotated the scene randomly, there would be no way to tell what direction you came from.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/18Z0QbSZNhSf4ejnjN3v1nJ1IdUBAMrRq/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/18Z0QbSZNhSf4ejnjN3v1nJ1IdUBAMrRq" >}}
 
 ## Cognitive Mapping
 Paths and entry points are crucial for world design because of **Cognitive Mapping** - the way people make sense of unknown spaces. Cognitive mapping usually follows a general sequence like this:
@@ -218,14 +218,14 @@ Use these factors intentionally to alter flow. You’ll want high speed and abru
 
 Keep your critical path in mind when controlling these factors. As with room design, the critical path here is just the most direct path through an area, so altering that path will alter the area’s flow. In addition to the concepts mentioned in Room Design, you’ll also need to consider the player’s “desired path” through your area. If the critical path is very convoluted compared to a straight path from one place to another, it may hurt your pacing and be frustrating. Some developers accommodate this by adding difficult skips that save time, like in Flipswap Factory by zejoant.
 
-{{< youtube YRlBAXQTrzM >}}
+{{< youtube YRlBAXQTrzM >}} 
 
 ## Pacing
 As you should know from the Pacing guide, this is how you control the gameplay’s tempo and order of events. Pacing will affect the difficulty you choose for the rooms in an area, as well as the area’s difficulty relative to the whole level. Each room in an area is equivalent to a pacing beat, or an event the player experiences.
 
 When designing your gameplay areas, you’ll need to design high-intensity rooms and lower intensity rooms depending on how you plan your pacing. You can arrange these rooms however you wish, although there are a few conventional ways to do so. You can use a **Pile of Beats**, where you make a large amount of rooms separately and connect them afterwards, or you can **Teach, Test, & Twist** where you introduce a technique in one room, test it in the next, and add a twist in a third.
 
-Regardless of how you organize your gameplay beats, make sure the gameplay at the start is simple, and switch up the intensity every so often. Starting simple sets the mood for the introduction and  lets the player get used to your gameplay. If you have story elements like characters, it’s also a good place to get players invested. Switching up the intensity every so often also helps to keep players engaged, instead of giving them more of the same.
+Regardless of how you organize your gameplay beats, make sure the gameplay at the start is simple, and switch up the intensity every so often. Starting simple sets the mood for the introduction and lets the player get used to your gameplay. If you have story elements like characters, it’s also a good place to get players invested. Switching up the intensity every so often also helps to keep players engaged, instead of giving them more of the same.
 
 # 4: Advanced Techniques
 
@@ -245,7 +245,7 @@ Think of Node Based Mapping as creating the paths for one or many areas. When de
 
 Here’s an example map which uses the nodes mentioned above, grouped into spatial clusters for better organization. This graph is a top-down view of a cave entrance, and the most important nodes are larger as mentioned before. You can plan areas much faster this way, and it’s useful even before you start grayboxing.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1vaVUrHINjTk9-8mWk8511gLnKCd9Yc_L/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1vaVUrHINjTk9-8mWk8511gLnKCd9Yc_L" >}}
 
 ## Environmental Storytelling
 This is how you tell a story using elements in the environment. Environmental storytelling has major ties to your decoration, but it has a place in gameplay so it’s worth mentioning here.
@@ -262,7 +262,7 @@ In addition to tangibility, be aware of how you present your environment and the
 
 When decorating, we suggest learning about color theory via the Deco 2 guides. Different color schemes can greatly impact the emotions an area gives off, and provide info about things like the climate at play. As an example, the first panel below feels boring and dull compared to the ones next to it.
 
-<div><iframe src=https://drive.google.com/file/d/12sNCw9o67Oh_4vRW40qYXeFXGfHZtnXf/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/12sNCw9o67Oh_4vRW40qYXeFXGfHZtnXf" >}}
 
 Finally, it’s helpful to keep **dynamism** in mind when making environments. Just because environments should feel tangible doesn’t mean the player’s actions aren’t impactful. For instance, an area may look ruined after an intense fight with an enemy, or a building may look renovated after completing a quest. This can even occur on a small scale; in *Hollow Knight* some decoration elements can be destroyed by the player, changing the environment in small but noticeable ways.
 
@@ -273,5 +273,5 @@ Finally, it’s helpful to keep **dynamism** in mind when making environments. J
 - [Josh Bycer: A Study Into Puzzle Design](https://www.gamedeveloper.com/design/a-study-into-puzzle-design)
 - Staffs Games Institute: Introduction to Puzzle Design (Basic Principles, Player Knowledge Considerations, and Setting Gameplay Objectives)
 
-{{< youtube dVjibdYG4bs >}}
+{{< youtube dVjibdYG4bs >}} 
 

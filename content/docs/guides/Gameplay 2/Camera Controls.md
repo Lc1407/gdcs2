@@ -1,6 +1,6 @@
 ---
 title: "Camera Controls"
-weight: 722
+weight: 7220
 date: 2026-02-27T00:00:00.000Z
 authors:
   - "zek.1612"
@@ -31,7 +31,7 @@ Lookahead is a __technique that focuses on upcoming motion or intent__, where th
 Another technique to focus on an aspect is **framing**: what kind of things you __bring and draw attention from __
 In all creative projects, whether it is paintings, games, or Geometry Dash levels, there are different aspects that vary in visual importance. This is usually due to their size or the context around the piece. As described in the Game Maker’s Toolkit video How to Make a Good 2D Camera, it can be a good idea to draw attention to both the player and the key aspect we want to frame. For this we will use a **sphere of influence**. In this case, a sphere of influence is __a specific area, which upon entering makes the camera lock onto an object__. This can be a structure, key item, or aesthetic element.
 
-{{< youtube TdWFzpgnljs >}}
+{{< youtube TdWFzpgnljs >}} 
 
 Another method shown in the mentioned video is **temporary framing**. This consists of __showing a scene that is important to the story, context...__ For this, it is less important to show the player when framing, since it is temporary. This lets the camera go back to showing the player whenever decided upon convenience.
 ## Potential dangers

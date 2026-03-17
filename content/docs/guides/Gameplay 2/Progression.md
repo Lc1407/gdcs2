@@ -1,6 +1,6 @@
 ---
 title: "Progression"
-weight: 722
+weight: 7220
 date: 2023-06-26T00:00:00.000Z
 authors:
   - "komatic5"
@@ -18,7 +18,7 @@ draft: true
 {{< /callout >}}
 
 ** **
-**1: Macro Flow**
+# 1: Macro Flow**
 
 Macro flow is a part of pacing that covers the long-term ways to make your level engaging. In order to keep the player's focus, the level should make larger changes that develop a central theme or idea. The idea of macro flow explains why some levels feel underwhelming at the drop, or why certain game modes or speed portals "fit" better than others.
 
@@ -28,7 +28,7 @@ In short, keeping the player interested means giving the player new obstacles. T
 
 The main factors you use to develop muscle memory are more long-term than the specific clicks in a level. Rather, they’re based on the level’s difficulty and how intense it is. You’ll want to make the level’s difficulty and intensity change over time as a result; keeping them constant will bore the player very quickly.
 
-**2: Adapting To the Player**
+# 2: Adapting To the Player**
 
 While keeping the player focused seems like a highly abstract concept, progression and macro flow can be achieved using difficulty and intensity. When used correctly, difficulty and intensity can add depth to gameplay.
 
@@ -47,7 +47,7 @@ As player skill increases, so can the difficulty. Good levels should be able to 
 
 *This means you need to do a bit of planning before you start making your level.* Planning can involve a target difficulty and a general audience for the level. Using a chart to plan out your level’s difficulty and intensity on a part-by-part basis can be extremely beneficial. You can also use this when playtesting to match these factors to your level plans, but make sure to keep the amount of change in mind. Too much change can lead to a disorienting feel to the level.
 
-**3: Applying Progression**
+# 3: Applying Progression**
 
 If you look at the graph in the prior section, you’ll notice that it’s organized from lower skill to higher skill. This applies generally to the target audience for your level, but it also applies to players who are learning the level. Remember that people will learn more about your level as they play it, so their skill will increase over time.
 
@@ -58,7 +58,6 @@ This process isn’t limited to just teaching the player mechanics, although tha
 If you’re working with a song that remains calm throughout, your level should also be calm. If your song is intense throughout, you should make your level similarly intense. You can deviate from this structure sometimes, but that takes more experience to do well. These changes in long-term flow reflect how the song itself progresses, as you’ll notice in the examples below.
 
 `Atmos` (Layout) by `marwec`: https://www.youtube.com/watch?v=jHskEeV1ZI4
-`Duplication` by `Zeptoz` and more: https://youtu.be/KXTyr7ybFC4
-
+`Duplication` by `Zeptoz` and more: https://youtu.be/KXTyr7ybFC4 >}} 
 Following this process forces players to use their prior knowledge to pass new parts of your level. It also encourages them to notice changes to its difficulty and intensity, which creates a feeling of progress. That’s the entire essence of progression; to ensure that the player feels that they’re taking meaningful steps forward as they play, and using that to make your level interesting over the long run.
 

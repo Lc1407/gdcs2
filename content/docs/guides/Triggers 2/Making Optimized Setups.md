@@ -1,6 +1,6 @@
 ---
 title: "Making Optimized Setups"
-weight: 615
+weight: 6150
 date: 2025-03-17T00:00:00.000Z
 authors:
   - "theibra"
@@ -88,18 +88,18 @@ $$
 We can build this using the following algorithm:
 ```
 Objects:
-    X: Real variable // already set
-    Exp, U: Float variables set to 1
-    PrevExp: Float variable set to 0 // used to stop the **Do** while loop
-    k: Integer variable set to 1
-    Tolerance: constant set to 0.01 // used to stop the **Do** while loop
+  X: Real variable // already set
+  Exp, U: Float variables set to 1
+  PrevExp: Float variable set to 0 // used to stop the **Do** while loop
+  k: Integer variable set to 1
+  Tolerance: constant set to 0.01 // used to stop the **Do** while loop
 Start:
-    Do {
-        PrevExp = Exp       # PrevExp will keep track of the current value of Exp
-        U = (U * X)/k       # calculates the value of x^k/k!
-        Exp = Exp + U       # update the value of Exp
-        k = k + 1           # increase the index
-    } While ( Abs(Exp - PrevExp) >= Tolerance )     # repeat until the difference is as small as we want
+  Do {
+  PrevExp = Exp # PrevExp will keep track of the current value of Exp
+  U = (U * X)/k # calculates the value of x^k/k!
+  Exp = Exp + U # update the value of Exp
+  k = k + 1 # increase the index
+  } While ( Abs(Exp - PrevExp) >= Tolerance ) # repeat until the difference is as small as we want
 End
 ```
 
@@ -121,7 +121,7 @@ This setup can calculate the value you need with all the precision you want, but
 
 You can notice the difference between both setups in the video below: the first solution gives the most accurate value, while the second gives the fastest answer.
 
-{{< youtube 5FIqgsJYeMw >}}
+{{< youtube 5FIqgsJYeMw >}} 
 
 Level ID: `115004354`.
 

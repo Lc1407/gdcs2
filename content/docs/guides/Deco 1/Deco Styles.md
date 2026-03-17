@@ -1,6 +1,6 @@
 ---
 title: "Deco Styles"
-weight: 111
+weight: 1110
 date: 2023-11-01T00:00:00.000Z
 authors:
   - "komatic5"

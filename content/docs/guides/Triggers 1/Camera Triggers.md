@@ -1,6 +1,6 @@
 ---
 title: "Camera Triggers"
-weight: 329
+weight: 3290
 date: 2024-05-31T00:00:00.000Z
 authors:
   - "zars70"
@@ -40,7 +40,7 @@ This is how it looks fully zoomed out:
 
 Here's a video demonstrating the Zoom trigger:
 
-{{< youtube tfgrxSFtBh0 >}}
+{{< youtube tfgrxSFtBh0 >}} 
 
 # 2: Static Trigger
 
@@ -62,7 +62,7 @@ This is how the Static Camera looks in game:
 
 Here's a video demonstrating the Static trigger:
 
-{{< youtube Twv7jRXqlGg >}}
+{{< youtube Twv7jRXqlGg >}} 
 
 # 3: Offset Trigger
 
@@ -87,7 +87,7 @@ Here's how offsets X(50) and Y(50) look in game:
 
 Here's a video demonstrating the Offset trigger:
 
-{{< youtube JScHLkRc4gk >}}
+{{< youtube JScHLkRc4gk >}} 
 
 # 4: GP Offset Trigger
 
@@ -115,7 +115,7 @@ Here's how the game looks rotated 20°:
 
 Here's a video demonstrating the Rotate Camera trigger:
 
-{{< youtube UEZ6gdpolZg >}}
+{{< youtube UEZ6gdpolZg >}} 
 
 # 6: Edge Trigger
 
@@ -129,7 +129,7 @@ Unlike the other camera triggers, you can't use a certain easing or modify the m
 
 Here's a video demonstrating the Edge trigger:
 
-{{< youtube 26nq9kkLZ6s >}}
+{{< youtube 26nq9kkLZ6s >}} 
 
 # 7: Mode Trigger
 
@@ -149,7 +149,7 @@ You can tweak the sliders in order to reflect the previous camera's state if you
 
 Here's a video demonstrating how a Guide trigger can be used:
 
-{{< youtube Lg2xJB_ShjE >}}
+{{< youtube Lg2xJB_ShjE >}} 
 
 # 9: Shake Trigger
 
@@ -165,7 +165,7 @@ Shake triggers can be used to *exaggerate impact*, or emphasize a buildup with d
 
 
 
-**Video:** [Use 2.2 Camera Triggers CORRECTLY! (Tutorial)](https://youtu.be/Ib63PvOkxUY?si=e-_wO79iRmVJrAfp)
+**Video:** [Use 2.2 Camera Triggers CORRECTLY! (Tutorial)](https://youtu.be/Ib63PvOkxUY >}} si=e-_wO79iRmVJrAfp)
 
 
 

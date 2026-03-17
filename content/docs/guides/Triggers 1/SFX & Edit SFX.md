@@ -1,6 +1,6 @@
 ---
 title: "SFX & Edit SFX"
-weight: 315
+weight: 3150
 date: 2024-01-07T00:00:00.000Z
 authors:
   - "electrifyxd"
@@ -176,4 +176,4 @@ This page is already covered in the fourth page of the SFX trigger, so this is g
 
 The video below demonstrates the usages of SFX and Edit SFX triggers:
 
-<div><iframe src=https://drive.google.com/file/d/1FbXa2GOVXoAYdyGai7vkdhwKPEL14C8Q/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1FbXa2GOVXoAYdyGai7vkdhwKPEL14C8Q" >}}

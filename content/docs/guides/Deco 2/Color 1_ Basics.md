@@ -1,6 +1,6 @@
 ---
 title: "Color 1 (Basics)"
-weight: 801
+weight: 8010
 date: 2023-10-15T00:00:00.000Z
 authors:
   - "kde"
@@ -31,7 +31,7 @@ Colors are commonly represented by three concepts: **Hue, Saturation, and Value*
 
 Each of these aspects is demonstrated by the first three sliders in the :RGB: color picker.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1YG742b1oRKnLXQm4XN-G0xLccbdYGQ07/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1YG742b1oRKnLXQm4XN-G0xLccbdYGQ07" >}}
 
 It is common for artists to refer only to hue and saturation when talking about color, while value is considered separately. In similar fashion, this guide will only cover the aspects of color theory related to hue and saturation. If you need to learn about value, visit [Light 3](/docs/guides/deco-2/light-3-value/) instead.
 
@@ -41,7 +41,7 @@ The color wheel is composed of gradually changing hues moving around a circle, r
 
 Artists consider the color wheel a powerful tool because it is easy to visualize color combinations on it. The following are some common examples for color combinations.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1Fx7CBcOms-FK2ivv4WXvb3e0AQQF7eYV/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1Fx7CBcOms-FK2ivv4WXvb3e0AQQF7eYV" >}}
 
 ## Complementary Colors
 __Opposite colors on the color wheel__ are called **complementary colors**, and they are said to be complements of each other. Hues are always 180° away from each other when using Complementary Colors.
@@ -52,7 +52,7 @@ __Adjacent colors on the color wheel__ are called **analogous colors**. Hues are
 
 An example of analogous colors would be green, yellow, and orange.
 ## Triadic Colors
-__Colors that occupy equidistant thirds on the color wheel__ are called **triadic colors**.  Hues are always 60° away from each other when using Triadic Colors.
+__Colors that occupy equidistant thirds on the color wheel__ are called **triadic colors**. Hues are always 60° away from each other when using Triadic Colors.
 
 An example of triadic colors would be red, blue, and yellow.
 
@@ -70,7 +70,7 @@ When a colored object is cast under a white light, the resulting color you perce
 
 Observe in the figure below how the same object appears to have different colors under different colored light. Now ask yourself as a creator: how might one determine the color to use?
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1EXmplbdii5K6Pt_pYmzbyl_AwtArS9fk/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1EXmplbdii5K6Pt_pYmzbyl_AwtArS9fk" >}}
 
 ## Rendering Colored Light
 
@@ -78,13 +78,13 @@ A lot of the difficulty in rendering colored light on a local color comes from d
 
 Fortunately, there are a few guidelines you can follow to help decide what color to use for your decoration. A method to mix the local color and light color is to consider their positions on the color wheel:
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1HHEqyE8IM6l5uk9lvm4Ij4ngegSNOonT/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1HHEqyE8IM6l5uk9lvm4Ij4ngegSNOonT" >}}
 
 - Note that in this version of the color wheel, the saturation decreases towards the center of the wheel. This is intentional.
 
 To mix the light and local colors, locate them as points on the color wheel and connect them with a line. The mixed color will likely be somewhere between the points on this line, depending on how intense the light is.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/11sl-icW_2nf5YldHVOgHHAV3Knkec_8c/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/11sl-icW_2nf5YldHVOgHHAV3Knkec_8c" >}}
 
 The diagram above shows how you might use this method to determine the color of a blue object under a harsh yellow light (like sunlight). By selecting the two colors on the color wheel and drawing a line between them, you can find a range of suitable colors you might want to select.
 
@@ -92,7 +92,7 @@ The diagram above shows how you might use this method to determine the color of 
 
 The final gradient would look like this, with the brighter areas being directly lit by the light source taking the hues to the left, and the darker areas taking the colors to the right.
 
-<div><iframe src=https://drive.google.com/file/d/161PFVrvFXVIzmGkKw-HfAJDqdo2IULrH/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/161PFVrvFXVIzmGkKw-HfAJDqdo2IULrH" >}}
 
 
 # Sources

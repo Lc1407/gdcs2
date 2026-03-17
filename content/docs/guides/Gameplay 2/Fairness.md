@@ -1,6 +1,6 @@
 ---
 title: "Fairness"
-weight: 709
+weight: 7090
 date: 2024-07-31T00:00:00.000Z
 authors:
   - "tdp9"
@@ -46,5 +46,5 @@ Though fairness might make levels more enjoyable, there can be drawbacks. Giving
 
 Overall, fairness is difficult to keep at a balance. You want to make an enjoyable level most people will have a good time with. However, you don’t want to lose sight of what your level should be.
 
-{{< youtube kVZojmhE_-g >}}
+{{< youtube kVZojmhE_-g >}} 
 

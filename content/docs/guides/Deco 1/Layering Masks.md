@@ -1,6 +1,6 @@
 ---
 title: "Layering Masks"
-weight: 515
+weight: 5150
 date: 2023-10-13T00:00:00.000Z
 authors:
   - "unknown"
@@ -18,11 +18,11 @@ This is one of the simplest methods of masking. It relies on placing blocks over
 
 1. Place plain blocks everywhere besides the structures. These blocks will serve as masking blocks. For spikes, use the long slopes scaled down to 0.50x size.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1l4hzcd8ZlsKvO_qgk0nC3DjZb-GjxBIB/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1l4hzcd8ZlsKvO_qgk0nC3DjZb-GjxBIB" >}}
 
 2. Place a design or an effect into the editor and layer it under the masking blocks.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1k_OMidJ1et2PlNQa60dPej-LQ1yh47WM/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1k_OMidJ1et2PlNQa60dPej-LQ1yh47WM" >}}
 
 ## Pros
 - Simple
@@ -33,11 +33,11 @@ This is one of the simplest methods of masking. It relies on placing blocks over
 ## Examples
 - Auditory Breaker by Manix648 and Lazerblitz
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1egI5A4iPrYM6QomZyElv6U5oc9W2PyUY/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1egI5A4iPrYM6QomZyElv6U5oc9W2PyUY" >}}
 
--  Impasse by G4lvatron
+- Impasse by G4lvatron
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1hEkKRfTCtiOOouhQB5WNdS7tKVC8ayXx/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1hEkKRfTCtiOOouhQB5WNdS7tKVC8ayXx" >}}
 
 # 2: Equal Color Mask
 
@@ -49,11 +49,11 @@ This mask is more straightforward than it may sound. The only aspects that need 
 
 - As in the picture below, the lines that are the same color as the background look invisible until a block is placed under it.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1--eQkuJqbf0m-9n2Eo6p0QXqG41LcXxI/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1--eQkuJqbf0m-9n2Eo6p0QXqG41LcXxI" >}}
 
 When this concept is applied to a block design, as seen here, you get this. Because the design is the same color as the background, the part of the design outside of the block remains perfectly hidden.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1rfnMcq_SbdrJDUVaiihAUSQWyDpOvGgi/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1rfnMcq_SbdrJDUVaiihAUSQWyDpOvGgi" >}}
 
 ## Pros
 - Simple
@@ -65,15 +65,15 @@ When this concept is applied to a block design, as seen here, you get this. Beca
 
 - Curl Up by ilrell and Millepatte
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/175M5FDka3DxHWLJ1OW_C7Ws2oyp7lNHg/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/175M5FDka3DxHWLJ1OW_C7Ws2oyp7lNHg" >}}
 
 - Come Back To Earth by Wulzy
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1EPqmr-BHGgR7bE7x1WfOwNZyyxI7uEgh/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1EPqmr-BHGgR7bE7x1WfOwNZyyxI7uEgh" >}}
 
 - Invinciwolf 2 by Werewolf GD (background)
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1_Z9JMGLckIfUuim1L9yuAJAdwokT-1tx/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1_Z9JMGLckIfUuim1L9yuAJAdwokT-1tx" >}}
 
 # 3: Color Pair Mask
 
@@ -84,23 +84,23 @@ This mask is a little more difficult than the previous two. It’s created by pu
 1. Place a background and objects in the editor.
 2. Select a hue for both background and objects. Make the background darker than the objects.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/16OjO8QjTEt5O5DfJN06MF4tOoXYZuryT/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/16OjO8QjTEt5O5DfJN06MF4tOoXYZuryT" >}}
 
 3. Make another background that combines a light version of the colors chosen with a low opacity black overlay.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1uX8wMlkM229TnC444T0N02tBqm5oXapF/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1uX8wMlkM229TnC444T0N02tBqm5oXapF" >}}
 
 Tweak the brightness of the objects and backgrounds, as well as the opacity of the black overlay, until it looks similar to the picture below.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1E78NdpYrnA_kwcfx7SuAVCsCZe0nI2Ce/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1E78NdpYrnA_kwcfx7SuAVCsCZe0nI2Ce" >}}
 
 Here’s how this looks when applied to a block design.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1Ghr7DWFHcpihKzrK2cMJr8LQanQYINJN/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1Ghr7DWFHcpihKzrK2cMJr8LQanQYINJN" >}}
 
 You can also combine this mask with other animations and visual effects, like this.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1_T6XjjOWWON7Wi5eWHqC-88Hh1VtvmV8/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1_T6XjjOWWON7Wi5eWHqC-88Hh1VtvmV8" >}}
 
 ## Pros
 - Colors are easy to work with
@@ -113,7 +113,7 @@ You can also combine this mask with other animations and visual effects, like th
 
 - Glyph by Optical
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/19Adpn_HoFchVQwHXS6AC9JJQucMGQVLQ/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/19Adpn_HoFchVQwHXS6AC9JJQucMGQVLQ" >}}
 
 # 4: General Layering Mask
 
@@ -123,26 +123,26 @@ This mask uses multiple layers to create a pattern when a block is layered in be
 
 1. Begin by making a set of blocks and setting them to low opacity. Select a pattern out of these blocks and add it onto a higher layer than the rest of the blocks.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1Zps1IqDDHJEKcLr-d2r-Bv2sUoUni2Zk/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1Zps1IqDDHJEKcLr-d2r-Bv2sUoUni2Zk" >}}
 
 Make your block structures. Ensure that they are in between the two layers of the pattern.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/18I0b-bwEeM6iED_hbjW1mAkpISaTKDkJ/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/18I0b-bwEeM6iED_hbjW1mAkpISaTKDkJ" >}}
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1K2aezRE7uke-ZMi6TFOtRBEcmo2oPJA-/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1K2aezRE7uke-ZMi6TFOtRBEcmo2oPJA-" >}}
 
 Additionally, there is a glow mask variant that can be created:
 1. For this, you'll have to create a large glow object, but put the glow pieces on a higher layer than the blocks.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1pqJaFwacdesFuFD8P5H9LXsJcHF8ftIg/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1pqJaFwacdesFuFD8P5H9LXsJcHF8ftIg" >}}
 
 2. From here, make your block design. Ensure that it’s in between both layers of the glow.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1wKyrJUPnEhM0bC_tWVIZeVCKkP65GtkB/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1wKyrJUPnEhM0bC_tWVIZeVCKkP65GtkB" >}}
 
 3. Finally, add some of the glow blocks you made for the effect. For example, the picture below has a large tan piece of glow in the middle for visuals.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1PRmmWZ5Smu7DvBNv8surbzxfQlAI68Fx/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1PRmmWZ5Smu7DvBNv8surbzxfQlAI68Fx" >}}
 
 ## Pros
 - Works well with other masks
@@ -155,15 +155,15 @@ Additionally, there is a glow mask variant that can be created:
 
 - Invinciwolf 2 by WerewolfGD (block structures)
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1OvjeovHT6fELWOPsAPyinZM8Xu8tYSKV/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1OvjeovHT6fELWOPsAPyinZM8Xu8tYSKV" >}}
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1_Z9JMGLckIfUuim1L9yuAJAdwokT-1tx/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1_Z9JMGLckIfUuim1L9yuAJAdwokT-1tx" >}}
 
 - Next Yesterday by ilrell (both old and new versions)
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1Famu-sTSsIcOLa9RklJPCLCQKS_DpeCD/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1Famu-sTSsIcOLa9RklJPCLCQKS_DpeCD" >}}
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1T0ow-gAwLPchE1PKHvqbc-1wcMBcY5VH/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1T0ow-gAwLPchE1PKHvqbc-1wcMBcY5VH" >}}
 
 # 5: Color Combination Layering Mask
 
@@ -177,25 +177,25 @@ This masking technique also allows you to make multiple masks at the same time.
 2. Make two other blocks and set them to the same opacity, but with different colors. Put them on a lower Z layer than the first two blocks.
 3. Since these blocks are being added to the top blocks, adjust these colors so that the combinations result in the same color, like below.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1HumsLnRluvdBiNujgTigQ-mVbL8Bu7s6/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1HumsLnRluvdBiNujgTigQ-mVbL8Bu7s6" >}}
 
 4. Make a pattern out of the color combinations. The pattern **cannot** overlap at all, otherwise the mask will show through in the background. The example provided below is a checkerboard pattern.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1xwyAlZQ7Tjm6xUeziZulGvPiPZbJNkix/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1xwyAlZQ7Tjm6xUeziZulGvPiPZbJNkix" >}}
 
 As seen below, when an object is placed in between these two designs, the checkerboard becomes visible.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1oA3bEk2BEGm5ZaZ02LqZkc1YtL9Tqn3K/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1oA3bEk2BEGm5ZaZ02LqZkc1YtL9Tqn3K" >}}
 
 Here’s how this looks when applied to a block design:
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1M_uaCa1zLFCc46I-8cTnXKP71I4ZahTb/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1M_uaCa1zLFCc46I-8cTnXKP71I4ZahTb" >}}
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1C31KkuZsopZi5FdBIqijnKJD3kJETsw0/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1C31KkuZsopZi5FdBIqijnKJD3kJETsw0" >}}
 
 It’s easy to see how the pattern is only visible within the blocks. This can also, however, make the background appear faded. To mitigate this, increase the brightness by using some blending glow to make an overlay.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1vwabSm8myBj5hb3SzuvIlPso9YySsIbK/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1vwabSm8myBj5hb3SzuvIlPso9YySsIbK" >}}
 
 ## Pros
 - Allows for many masks
@@ -211,11 +211,11 @@ It’s easy to see how the pattern is only visible within the blocks. This can a
 
 Grapheme by Optical
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1WDsOTQVuawwod1yHPs-samKXVEYZeWbN/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1WDsOTQVuawwod1yHPs-samKXVEYZeWbN" >}}
 
 Curl Up by ilrell and Millepatte
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/13WEb57aEtHW4RD5hdQRRITsY1XPiKe-h/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/13WEb57aEtHW4RD5hdQRRITsY1XPiKe-h" >}}
 
 # 6: Spu7nix’s Old Mask
 
@@ -227,19 +227,19 @@ Although outdated, it’s an interesting method of masking.
 1. Begin by making a cutout of the gameplay in similar fashion to a background mask.
 2. Within the empty areas, add some black blocks at `0.12x` opacity. Layer these blocks above the other blocks.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1POR2BuGNMjmvz5cijz82YI4yoxCb2uzU/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1POR2BuGNMjmvz5cijz82YI4yoxCb2uzU" >}}
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1ZeDNgrpyUBaPotBp5XGi8YgSrVjtwnGm/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1ZeDNgrpyUBaPotBp5XGi8YgSrVjtwnGm" >}}
 
 3. Make a pattern with different colors. This will serve as the background.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1uF9_VL3QDSesJANp-0XIf8E2LUVh3vBM/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1uF9_VL3QDSesJANp-0XIf8E2LUVh3vBM" >}}
 
 4. Add the same pattern on a layer above but with the colors reversed and at `0.35x` opacity. You should end up with a pair of equal colors. Tweak the colors around until an ideal combination is reached.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1GX4oI0V1LEktAda9vuDGXglDBLeCFv-k/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1GX4oI0V1LEktAda9vuDGXglDBLeCFv-k" >}}
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1zQUucBZyzo1Jt8GXKu8K_IM-KU-gYE5J/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1zQUucBZyzo1Jt8GXKu8K_IM-KU-gYE5J" >}}
 
 ## Pros
 - Allows for a large range of color combinations
@@ -252,9 +252,9 @@ Although outdated, it’s an interesting method of masking.
 
 - Hallucion by Spu7nix
 
-<div><iframe src=https://drive.google.com/file/d/1lnK0sKIvDp22bJw49USTxmgzYHMOaeHI/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1lnK0sKIvDp22bJw49USTxmgzYHMOaeHI" >}}
 
-<div><iframe src=https://drive.google.com/file/d/104wh_r-9cd9pU2vF-AD5APml5G3TyLUA/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/104wh_r-9cd9pU2vF-AD5APml5G3TyLUA" >}}
 
 ## Summary
 

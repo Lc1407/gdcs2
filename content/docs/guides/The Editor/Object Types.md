@@ -1,6 +1,6 @@
 ---
 title: "Object Types"
-weight: 108
+weight: 1080
 date: 2024-04-28T00:00:00.000Z
 authors:
   - "illusion2"

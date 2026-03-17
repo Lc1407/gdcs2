@@ -1,6 +1,6 @@
 ---
 title: "Trigger Intro"
-weight: 301
+weight: 3010
 date: 2025-06-05T00:00:00.000Z
 authors:
   - "komatic5"
@@ -24,15 +24,15 @@ Triggers are objects that can change the properties of other objects. You can us
 
 At a low level, you can do very simple things with triggers, like in Stereo Madness where only the background and ground colors change. At the most advanced level, you can do seemingly mind-blowing things, like in HOW.
 
-{{< youtube ZUrPev0g1qE >}}
+{{< youtube ZUrPev0g1qE >}} 
 
-{{< youtube -XcPfH9MDFk >}}
+{{< youtube -XcPfH9MDFk >}} 
 
 People have even made entire games inside of GD; some examples include Geometry Dash and MasterGame. Triggers made all of these levels possible.
 
-{{< youtube 88HtsbRIWfI >}}
+{{< youtube 88HtsbRIWfI >}} 
 
-{{< youtube azgK0u-MsNI >}}
+{{< youtube azgK0u-MsNI >}} 
 
 # 2: Trigger Features
 

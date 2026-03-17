@@ -1,6 +1,6 @@
 ---
 title: "Follow Through & Overlapping Action"
-weight: 811
+weight: 8110
 date: 2025-04-30T00:00:00.000Z
 authors:
   - "asandboxer"
@@ -25,19 +25,19 @@ As the name suggests, **Follow Through** outlines how __ even when an object sto
 
 ## Without Follow Through
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/15EA_-VKvQHkRSefS2zYDfye20GGIXgkq/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/15EA_-VKvQHkRSefS2zYDfye20GGIXgkq" >}}
 
 In this example, the car and the driver stop moving at the same time, making the motion feel unnatural. The driver is merely sitting in the car, so we intuitively expect them to keep moving slightly after the car stops due to how loosely connected they are even with seatbelts.
 
 ## With Follow Through
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1f2YHpDRFegb18BxMCOu-hvmlN5m_Z6UU/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1f2YHpDRFegb18BxMCOu-hvmlN5m_Z6UU" >}}
 
 By applying Follow Through, the driver gains a slight movement after the car stops, making the movement feel more natural. The added motion mimics real-world physics, revitalizing the animation.
 
 Additionally, we can also see Follow Through in full display through this animation by TArrow.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/17ecEXf_2kejM8rjR4w6xKaF3MVfj6zoq/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/17ecEXf_2kejM8rjR4w6xKaF3MVfj6zoq" >}}
 
 Here, the blue stick figure's lower body continues moving even after its head is forcefully stopped by the giant, contrasting how different they are in terms of strength, weight, and durability.
 ## Uses of Follow Through
@@ -52,19 +52,19 @@ However, excessive Follow Through can make certain objects feel inorganic. Too m
 
 ## Without Overlapping Action
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1V62AUXqcR0AUmkc9GdGPslJfDa9MXH6R/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1V62AUXqcR0AUmkc9GdGPslJfDa9MXH6R" >}}
 
 When every part of an object moves simultaneously, the motion appears robotic or rigid. This is useful for metallic or mechanical objects, such as vehicles, but it can break immersion if applied to organic elements, such as a dog’s movement.
 
 ## With Overlapping Action
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1okIAEaJzhw-FdQ41tpoFASPC77VfTLZU/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1okIAEaJzhw-FdQ41tpoFASPC77VfTLZU" >}}
 
 Notice how the dog’s ears and tail move differently relative to the head. Structurally, those parts would have a flimsier bone structure than the skull. Being mindful with these details help to make animations look more natural.
 
 A great example is found in the dragon’s movements in [Against the God](<https://www.youtube.com/watch?v=naX3GvvumWA>) by 1374.
 
-<div><iframe src=https://drive.google.com/file/d/1u9qVSEhVF3z-5AEURsyHkSEf7Et1u2wo/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1u9qVSEhVF3z-5AEURsyHkSEf7Et1u2wo" >}}
 
 This is a strong example of Overlapping Action as the dragon’s limbs arc with different timings as it flaps its wings. Additionally, notice how the wingtips move faster than the rest of the dragon’s wings. This is because its main action starts from the shoulders then cascades to its wingtips to fly.
 ## Uses of Overlapping Action

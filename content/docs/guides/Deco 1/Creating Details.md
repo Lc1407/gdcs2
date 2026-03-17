@@ -1,6 +1,6 @@
 ---
 title: "Creating Details"
-weight: 506
+weight: 5060
 date: 2024-05-15T00:00:00.000Z
 authors:
   - "komatic5"
@@ -37,25 +37,25 @@ Finally, it’s time to actually reference; choose a specific detail or property
 
 Here's an example with an actual wedding cake, made by Sparktwee. At first, they attempted to make a wedding cake from memory without any references, which turned out quite unrefined and basic.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1pDaSdR1rURVAzAnNVRLhN5HDM1M2nhgi/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1pDaSdR1rURVAzAnNVRLhN5HDM1M2nhgi" >}}
 
 Afterwards, they got a reference for a wedding cake online. They noted the flowers and the shape of the cake, both of which would become details used later on.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1Km31o3bydMYot-wK1huQUZZTI2Dby0YK/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1Km31o3bydMYot-wK1huQUZZTI2Dby0YK" >}}
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1qjNmV6BVCbUHGOgaRegogAb4G9axJ-nJ/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1qjNmV6BVCbUHGOgaRegogAb4G9axJ-nJ" >}}
 
 One important thing about references is that you don't need to copy them one-to-one. Note that the layers of cake aren't separated here as they were in the reference image, and that the colors are completely different as well. I strongly encourage you to deviate from your references as necessary to suit your vision; those images were made with a different vision in mind anyways.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1n4eBIbeacbD3wT8yGgD_iWKinhwJtGDy/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1n4eBIbeacbD3wT8yGgD_iWKinhwJtGDy" >}}
 
 Past this point, it comes down to polishing. Sparktwee referenced the flower idea from the image as stated prior, and they also started adding other details of their own like the different frosting colors and the candles on the second layer.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1foJLMUSLjQ_RF372bnmmLqwcSxSndlNV/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1foJLMUSLjQ_RF372bnmmLqwcSxSndlNV" >}}
 
 The end result looks like this. Compared to the original cake made from memory, it looks significantly better.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1nMANil6lVBHubM4_PPvTSEDC4s9HkGVd/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1nMANil6lVBHubM4_PPvTSEDC4s9HkGVd" >}}
 
 ## Studies
 
@@ -84,7 +84,7 @@ In GD and other games, many of your functional details will be derived from game
 
 Here's an image I took while playing Ghostrunner. This section has fans you should jump on, which have a distinct design and stand out from everything else in the screenshot. Similarly, the walls you should run on are a distinct orange which tells the player what the correct path is.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1jPjful_4d7vgjqQbOwwxmto7yrOUb8d2/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1jPjful_4d7vgjqQbOwwxmto7yrOUb8d2" >}}
 
 ## Themed/Narrative
 
@@ -94,7 +94,7 @@ These are the least appreciated type of detail for one main reason. Narratives r
 
 Here's another screenshot from Ghostrunner. The main antagonist of the game is the Keymaster, an authoritarian despot who controls the "Tower" the game is set in. The graffiti on this wall indicates some resistance to her rule, with statements like "Down with the Slave-Master" and "Short live the queen!" clearly visible here.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1CKKKkhQmTOA5wDr2b1--n5sGMRSP5f37/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1CKKKkhQmTOA5wDr2b1--n5sGMRSP5f37" >}}
 
 ## Aesthetic
 
@@ -106,7 +106,7 @@ Different crowds will appreciate different types of aesthetic details; for examp
 
 Compare these two screenshots, once again from Ghostrunner. The second one includes details like spotlights on the right and bloom on the light sources, which are absent from the first. These are aesthetic details; they don't contribute to the story or serve a big gameplay function, but they look cool and that's why they exist.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1jAuoVuM2sHe_0HHCuywijgCy8mpEyNVM/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1jAuoVuM2sHe_0HHCuywijgCy8mpEyNVM" >}}
 
 ## Simplifying
 
@@ -116,9 +116,9 @@ One can make many arguments in favor of keeping your work intentionally simple. 
 
 Take a look at these two screenshots.
 
-<div><iframe src=https://drive.google.com/file/d/1pUUjIbSjZGRz-tb5EWhhIX9Tzw8K3L2f/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1pUUjIbSjZGRz-tb5EWhhIX9Tzw8K3L2f" >}}
 
-<div><iframe src=https://drive.google.com/file/d/1wsccUJ82OSS5UIzsJhwvoazXjkM8VqUz/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1wsccUJ82OSS5UIzsJhwvoazXjkM8VqUz" >}}
 
 I’m sure you think the second image looks better here, and that’s ultimately because the details on display are more impactful & have greater quality than the textures you can barely see in the first image. Even if you prefer the look of the first image, you should recognize that the more detailed textures barely contribute to that image's appeal.
 
@@ -140,4 +140,6 @@ If you’re trying to form a style to make levels, you have things backwards. Yo
 
 But overall, styles are arbitrary limitations. They’re just a visual thing which doesn’t have any bearing on your skill with the editor or your experience; at most they may affect your workflow, but that’ll be due to more fundamental things like detail usage anyways. You may see people reject useful advice because it wouldn’t fit their “style”, when it would unequivocally benefit their vision, which is a shame. Furthermore you may miss out on useful techniques in your levels just because you don't think it fits “your style”. Ultimately, you should experiment with techniques and try to learn as much as possible regardless of arbitrary classifications like style, which have no tangible bearing on your standing as a creator.
 
-**Video:** [How To DECORATE in Geometry Dash!](https://youtu.be/3ofZI82lKQ8?si=a5bXL1ilq24c9C_N)
+**Video:**
+
+{{< youtube 3ofZI82lKQ8 >}}

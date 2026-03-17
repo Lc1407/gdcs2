@@ -1,6 +1,6 @@
 ---
 title: "Control Schemes"
-weight: 616
+weight: 6160
 date: 2026-03-05T00:00:00.000Z
 authors:
   - "theibra"
@@ -94,7 +94,7 @@ We will break this down into individual directional movements, which can be crea
 ## Setup A: Spawn loop:
 
 * place 2 event triggers {{< img src="images/GDEmotes/Triggers/EventLink.png" class="emote">}}
-* the first detects [key] push and activates  groupID X
+* the first detects [key] push and activates groupID X
 * place a spawn trigger that activates groupID X, and a move trigger that moves your character a certain direction
 * give both these triggers the same delay and groupID X
 * the second event trigger detects [key] release and activates a stop trigger that stops groupID X
@@ -110,7 +110,7 @@ You can also replace the move trigger with a rotate trigger.
 * your character has a groupID X, with a center object being the parent of this group
 * place an object away from the center of your character and in your desired direction, give it groupIDs X and Y
 * place 2 event triggers {{< img src="images/GDEmotes/Triggers/EventLink.png" class="emote">}}
-* the first detects [key] push and activates  groupID Z
+* the first detects [key] push and activates groupID Z
 * place an adv follow trigger and give it groupID Z
 * set TargetGID: X, FollowGID: Y and speed to a desired finite number
 * the second event trigger detects [key] release and activates a stop trigger that stops groupID Z
@@ -214,7 +214,7 @@ This is for when you need an ordered sequence of keys to activate your action an
 if instead of having a small delay for your key sequence you want to have keys held in a specific order, you can change the spawn triggers with event triggers that detect [key] release
 {{< /callout >}}
 
-##  Buttons
+## Buttons
 
 Buttons require different controls from what the player icon uses, depending on your use case, you might want to implement a different approach.
 In the following examples that don’t use the player as a cursor, we will use a collision block, collision can be either detected using the collision trigger and toggling on and off this block, or by spawning an instant collision trigger
@@ -227,18 +227,18 @@ there are various ways to achieve this:
 
 {{< image-details src="https://lh3.googleusercontent.com/d/1LEGZMgmZAbU4pHS8p0k3MnOfeqvxfMm4" tlbr="89 94 10 5">}}
 
-{{< detail name="sequence" src="https://lh3.googleusercontent.com/d/1lGUmQok9Q84FITBvTnOZRnCeo5O4P5Zj"  tlbr="35 18.5 10 7.5" >}}
+{{< detail name="sequence" src="https://lh3.googleusercontent.com/d/1lGUmQok9Q84FITBvTnOZRnCeo5O4P5Zj" tlbr="35 18.5 10 7.5" >}}
 
-{{< detail name="eventselect" src="https://lh3.googleusercontent.com/d/1nsrrVodamcmOWE6yjFS7wZpqp-AlNCkQ"  tlbr="15 19 10 6.5" >}}
-{{< detail name="eventclick" src="https://lh3.googleusercontent.com/d/1cukhbL63arpX5fwGcP9uLQbI1oWFP0Jl"  tlbr="15 70.5 10 6.5" >}}
+{{< detail name="eventselect" src="https://lh3.googleusercontent.com/d/1nsrrVodamcmOWE6yjFS7wZpqp-AlNCkQ" tlbr="15 19 10 6.5" >}}
+{{< detail name="eventclick" src="https://lh3.googleusercontent.com/d/1cukhbL63arpX5fwGcP9uLQbI1oWFP0Jl" tlbr="15 70.5 10 6.5" >}}
 
-{{< detail name="move2" src="https://lh3.googleusercontent.com/d/1n8_w4pcVrmioJPSqrPZNti8iounpL_yl"  tlbr="35 35 10 5" >}}
-{{< detail name="move3" src="https://lh3.googleusercontent.com/d/1Gw5cd5PFBmSSRk_btJPzw15BAi810PEn"  tlbr="53 35 10 5" >}}
-{{< detail name="move4" src="https://lh3.googleusercontent.com/d/1VfJH7woXE16fdbJbiDl4WcM5vlI__tQ1"  tlbr="71 35 10 5" >}}
+{{< detail name="move2" src="https://lh3.googleusercontent.com/d/1n8_w4pcVrmioJPSqrPZNti8iounpL_yl" tlbr="35 35 10 5" >}}
+{{< detail name="move3" src="https://lh3.googleusercontent.com/d/1Gw5cd5PFBmSSRk_btJPzw15BAi810PEn" tlbr="53 35 10 5" >}}
+{{< detail name="move4" src="https://lh3.googleusercontent.com/d/1VfJH7woXE16fdbJbiDl4WcM5vlI__tQ1" tlbr="71 35 10 5" >}}
 
-{{< detail name="instcoll2" src="https://lh3.googleusercontent.com/d/1-PMYWrMAR7rMjKzsjCUIS6Qzmw1tGWlK"  tlbr="32 70.5 12 7" >}}
-{{< detail name="instcoll3" src="https://lh3.googleusercontent.com/d/1BCSue8QubLMgdID4kh205VLrg9PVXYaZ"  tlbr="51 70.5 12 7" >}}
-{{< detail name="instcoll4" src="https://lh3.googleusercontent.com/d/1LMjWl6X_NkYO4IbeP1N5eNAsb8Awvm30"  tlbr="69 70.5 12 7" >}}
+{{< detail name="instcoll2" src="https://lh3.googleusercontent.com/d/1-PMYWrMAR7rMjKzsjCUIS6Qzmw1tGWlK" tlbr="32 70.5 12 7" >}}
+{{< detail name="instcoll3" src="https://lh3.googleusercontent.com/d/1BCSue8QubLMgdID4kh205VLrg9PVXYaZ" tlbr="51 70.5 12 7" >}}
+{{< detail name="instcoll4" src="https://lh3.googleusercontent.com/d/1LMjWl6X_NkYO4IbeP1N5eNAsb8Awvm30" tlbr="69 70.5 12 7" >}}
 
 {{< tooltip-detail tooltip="Cursor GID1" tlbr="35 45 9 6" >}}
 {{< tooltip-detail tooltip="Button GID2" tlbr="32 49 14 8" >}}
@@ -251,21 +251,21 @@ there are various ways to achieve this:
 
 {{< image-details src="https://lh3.googleusercontent.com/d/1Lc1cc4XFF4x-ZSc4Dym7XD9YA25UOQXE" tlbr="89 94 10 5">}}
 
-{{< detail name="eventup" src="https://lh3.googleusercontent.com/d/1XUAvrfgP3gekTs08ILa_HZuptjyzhjK9"  tlbr="37 20 10 6.5" >}}
-{{< detail name="eventdown" src="https://lh3.googleusercontent.com/d/1G50RipDXjYFm0CFFXG0uiWEKiuv7CfWj"  tlbr="56 20 10 6.5" >}}
-{{< detail name="eventclick" src="https://lh3.googleusercontent.com/d/1cukhbL63arpX5fwGcP9uLQbI1oWFP0Jl"  tlbr="10 71.5 10 6.5" >}}
+{{< detail name="eventup" src="https://lh3.googleusercontent.com/d/1XUAvrfgP3gekTs08ILa_HZuptjyzhjK9" tlbr="37 20 10 6.5" >}}
+{{< detail name="eventdown" src="https://lh3.googleusercontent.com/d/1G50RipDXjYFm0CFFXG0uiWEKiuv7CfWj" tlbr="56 20 10 6.5" >}}
+{{< detail name="eventclick" src="https://lh3.googleusercontent.com/d/1cukhbL63arpX5fwGcP9uLQbI1oWFP0Jl" tlbr="10 71.5 10 6.5" >}}
 
-{{< detail name="collisiondown" src="https://lh3.googleusercontent.com/d/12rb8FnMpxDA-vLc6qJ6GpuTGm0hp1G6y"  tlbr="10 30 10 7" >}}
-{{< detail name="collisionup" src="https://lh3.googleusercontent.com/d/1HWvww3uJBOqrO9Y_J3J3mNnqRsdE8cc4"  tlbr="84 30 10 7" >}}
-{{< detail name="moveup" src="https://lh3.googleusercontent.com/d/1FD8Q2heXDNgZaQqyD8vr1A3I0qslwAOR"  tlbr="38 31 10 5" tooltip="Moves the cursor up">}}
-{{< detail name="movedown" src="https://lh3.googleusercontent.com/d/1bH6AEmpvJ0fvBDc8f7djZvNU8augjHXf"  tlbr="57 31 10 5" tooltip="Moves the cursor down">}}
+{{< detail name="collisiondown" src="https://lh3.googleusercontent.com/d/12rb8FnMpxDA-vLc6qJ6GpuTGm0hp1G6y" tlbr="10 30 10 7" >}}
+{{< detail name="collisionup" src="https://lh3.googleusercontent.com/d/1HWvww3uJBOqrO9Y_J3J3mNnqRsdE8cc4" tlbr="84 30 10 7" >}}
+{{< detail name="moveup" src="https://lh3.googleusercontent.com/d/1FD8Q2heXDNgZaQqyD8vr1A3I0qslwAOR" tlbr="38 31 10 5" tooltip="Moves the cursor up">}}
+{{< detail name="movedown" src="https://lh3.googleusercontent.com/d/1bH6AEmpvJ0fvBDc8f7djZvNU8augjHXf" tlbr="57 31 10 5" tooltip="Moves the cursor down">}}
 
-{{< detail name="move2" src="https://lh3.googleusercontent.com/d/1yL7fdlZXKvTsHzk3_CZKJuMYBxCeR5SY"  tlbr="10 41.5 10 5" >}}
-{{< detail name="move4" src="https://lh3.googleusercontent.com/d/1V1CGOi6sfWyhl7rDS5ui4G-84IRxAdjg"  tlbr="84 41.5 10 5" >}}
+{{< detail name="move2" src="https://lh3.googleusercontent.com/d/1yL7fdlZXKvTsHzk3_CZKJuMYBxCeR5SY" tlbr="10 41.5 10 5" >}}
+{{< detail name="move4" src="https://lh3.googleusercontent.com/d/1V1CGOi6sfWyhl7rDS5ui4G-84IRxAdjg" tlbr="84 41.5 10 5" >}}
 
-{{< detail name="instcoll2" src="https://lh3.googleusercontent.com/d/1-PMYWrMAR7rMjKzsjCUIS6Qzmw1tGWlK"  tlbr="26 71 13 7.5" >}}
-{{< detail name="instcoll3" src="https://lh3.googleusercontent.com/d/1BCSue8QubLMgdID4kh205VLrg9PVXYaZ"  tlbr="44 71 13 7.5" >}}
-{{< detail name="instcoll4" src="https://lh3.googleusercontent.com/d/1LMjWl6X_NkYO4IbeP1N5eNAsb8Awvm30"  tlbr="62 71 13 7.5" >}}
+{{< detail name="instcoll2" src="https://lh3.googleusercontent.com/d/1-PMYWrMAR7rMjKzsjCUIS6Qzmw1tGWlK" tlbr="26 71 13 7.5" >}}
+{{< detail name="instcoll3" src="https://lh3.googleusercontent.com/d/1BCSue8QubLMgdID4kh205VLrg9PVXYaZ" tlbr="44 71 13 7.5" >}}
+{{< detail name="instcoll4" src="https://lh3.googleusercontent.com/d/1LMjWl6X_NkYO4IbeP1N5eNAsb8Awvm30" tlbr="62 71 13 7.5" >}}
 
 {{< tooltip-detail tooltip="Top limit" tlbr="9 50 14 8" >}}
 {{< tooltip-detail tooltip="Cursor GID1" tlbr="29.5 46 9 5" >}}
@@ -335,7 +335,7 @@ There are some rules you can follow to help you design a more robust control sch
 
 * **Intuitive:** The player should be able to pick them up in the first minutes of your level. If you’re introducing new mechanics, you can include a tutorial
 * **Simple:** Key combos get exponentially harder to remember the more keys you have to press, so it’s best to only use 2-key combos (considering mobile players too), and include less important and non time critical actions in menus
-* **Compact:**  One key can fit multiple actions when they are mutually exclusive (one action can be performed at a time). Some examples include:
+* **Compact:** One key can fit multiple actions when they are mutually exclusive (one action can be performed at a time). Some examples include:
   - the player doesn’t move while using a menu, so you can use player left/right to navigate them
   - toggle orbs/blocks can be used to interact with objects, as you don’t need to jump
   - player jump can be used to jump while grounded and dash while mid-air

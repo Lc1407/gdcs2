@@ -1,6 +1,6 @@
 ---
 title: "The Rating System"
-weight: 217
+weight: 2170
 date: 2024-05-31T00:00:00.000Z
 authors:
   - "sparktwee"
@@ -22,7 +22,7 @@ draft: false
 
 Let’s start off this topic by answering: Who participates in the rating system? In broad strokes, 4 main participants come to mind: players, creators, moderators, and the executive.
 
-<div><iframe src=https://drive.google.com/file/d/1gnd3FymxxjgQsLbat1wKkaRUgFa9oVMA/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1gnd3FymxxjgQsLbat1wKkaRUgFa9oVMA" >}}
 
 1. **Players**: __They beat levels and collect stars__. (e.g. Michigun, Smiffy777) Within the context of getting a level rated, players are the main target audience. However, due to the variety in their behaviour and playstyles, we also have a variety of levels that range in difficulty, themes, and skill-sets. Players complete rated levels for tangible rewards like stars, moons, and mana orbs, which serves as an incentive.
 
@@ -117,7 +117,7 @@ GD incentivises a mentality where one of the achievements in this game involves 
 
 Aside from a number on your name, a reminder that Robtop noticed your level and a new UFO, what does having creator points ultimately mean? *The rating system at its current form merely depicts the opinions and standards of the executive branch.* If you disagree with their opinions and arguments on a level’s rate and feel that a rated level isn’t worth your attention, you don’t have to play the level. Even with the rewards and community recognition in mind, you don’t have to succumb to peer pressure if you subjectively have a level that you enjoy, even if it’s unrated. If there’s no level out there you like, build the ones you like. To quote Franz Kafka, “By believing passionately in something that still does not exist, we create it.”
 
-Treat the editor like a game/exercise. It’s meant to be fun. If it’s not, treat it like a studying session. The best of creators don’t conjure up masterpieces on their first attempt. Just because you’ve seen their end-results doesn’t mean you’ve seen the journey and cost of producing it.  Enjoy the process when creating. Most of what people see as motivation is just creators enjoying the pain of tediously placing objects into the editor, realizing it’s terrible, then discarding it to plan a more improved version. Sometimes it looks improved, sometimes not. The journey is not always straightforward. Sometimes you’ll encounter problems that you can’t solve by yourself, and by then, reach out and ask for help.
+Treat the editor like a game/exercise. It’s meant to be fun. If it’s not, treat it like a studying session. The best of creators don’t conjure up masterpieces on their first attempt. Just because you’ve seen their end-results doesn’t mean you’ve seen the journey and cost of producing it. Enjoy the process when creating. Most of what people see as motivation is just creators enjoying the pain of tediously placing objects into the editor, realizing it’s terrible, then discarding it to plan a more improved version. Sometimes it looks improved, sometimes not. The journey is not always straightforward. Sometimes you’ll encounter problems that you can’t solve by yourself, and by then, reach out and ask for help.
 
 # 5: Wrap-Up
 

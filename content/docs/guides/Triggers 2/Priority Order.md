@@ -1,6 +1,6 @@
 ---
 title: "Priority Order"
-weight: 603
+weight: 6030
 date: 2024-09-17T00:00:00.000Z
 authors:
   - "theibra"
@@ -14,7 +14,7 @@ draft: false
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Ordering of triggers is important, as it prevents possible randomness in the way they fire.
--  Priority Order is a hidden system that determines which objects get processed first, such as collision blocks, stacked orbs, and triggers on the same X axis.
+- Priority Order is a hidden system that determines which objects get processed first, such as collision blocks, stacked orbs, and triggers on the same X axis.
 - There are plenty of ordering algorithms that the game puts into place, but you can change this yourself with the Trigger Order option found in the Edit Group menu.
 
 {{< /callout >}}
@@ -89,32 +89,32 @@ Be aware that *Priority Order does NOT save between attempts in 2.2, only in 2.1
 
 In most cases, triggers aren’t commutative, meaning that the result can vary drastically depending on the order they activate at. Setting up when triggers activate ensures you get the wanted results.
 
-{{< youtube RecbfdJFl9Q >}}
+{{< youtube RecbfdJFl9Q >}} 
 
 # 3: Simultaneous Ordering in 2.2
 
-In certain cases, the game will order what triggers activate first to prevent unwanted randomness. An example of this is 2 pickup triggers activating at the same time, where trigger A  adds 1 to itemID 1, and trigger B multiplies the itemID 1 by 10; what will the final ItemID value be? The result can either be 1 or 10 based on which trigger activates first.
+In certain cases, the game will order what triggers activate first to prevent unwanted randomness. An example of this is 2 pickup triggers activating at the same time, where trigger A adds 1 to itemID 1, and trigger B multiplies the itemID 1 by 10; what will the final ItemID value be? The result can either be 1 or 10 based on which trigger activates first.
 
 In order to eliminate randomness, triggers activated on the same frame happen in a set order, much like how a calculator processes mathematical operations. The game uses 3 different ordering algorithms to achieve this.
 
 ## Left to Right Priority
 If "spawn triggered" is enabled, triggers will be activated from left to right, meaning the leftmost triggers will activate first, cascading until the last trigger is activated.
 
-{{< youtube Wy4kVg7cxmA >}}
+{{< youtube Wy4kVg7cxmA >}} 
 
 ## Order Value Priority:
 **As of 2.206, this feature suffers from multiple bugs, and should be avoided when possible until it’s fixed.** This can trigger on portals, pads, and orbs but has no visible effects. This can also break triggers if they aren’t set up properly.
 
 This feature is only used for regular or touch-enabled triggers. Their order values are compared in ascending order, meaning the triggers with the lowest value activate first. You can change a trigger’s order value in the bottom left of EditGroup , and a trigger’s value must be larger than all other triggers before it in order to prevent breaking.
 
-{{< youtube 07Ras4igAMs >}}
+{{< youtube 07Ras4igAMs >}} 
 
 ## Placement Priority:
 In the case of 2 or more triggers having the same X position and the same order value, the most recently created trigger will activate first, with the oldest activating last. For example, copy + pasting a trigger means the copy will activate before the original.
 
-{{< youtube Kvk8a-bfHxM >}}
+{{< youtube Kvk8a-bfHxM >}} 
 
 ## Order Inheritance:
 An important thing to note is that a trigger’s priority depends on the previous triggers’ priority, so the order of 2 triggers activated by different spawn triggers is based on the order of these spawn triggers.
 
-{{< youtube bI8iyrOKVnc >}}
+{{< youtube bI8iyrOKVnc >}} 

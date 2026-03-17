@@ -1,6 +1,6 @@
 ---
 title: "Low Detail Mode"
-weight: 519
+weight: 5190
 date: 2025-06-29T00:00:00.000Z
 authors:
   - "komatic5"
@@ -29,7 +29,7 @@ Generally speaking, the game does calculations for every object in a level. By t
 For the scope of this guide, 2 factors come to mind: **active object counts** and **object properties**.
 
  ## Active Objects
-[Show Info Label](<https://discord.com/channels/414295025883545600/1083170592573902868/1216773432025550949>) has a description that measures the amount of active objects that are visible on  screen at any given moment.
+[Show Info Label](<https://discord.com/channels/414295025883545600/1083170592573902868/1216773432025550949>) has a description that measures the amount of active objects that are visible on screen at any given moment.
 
 Every detail created, every orb that was placed, and every trigger that was set up contributes to your level’s object count. Those corner pieces and low-opacity blocks that you might have used for parallax or texturing will also add up in the object count. With high active object counts, the risk of lag and input delays increase, which can affect the level’s experience as a whole.
 
@@ -39,7 +39,7 @@ https://tenor.com/view/smash-bros-melee-super-smash-bros-melee-bat-homerun-homer
 
 If you are using merely the default static and detail objects, the most lag risk that you face will come from object density - where many objects and little details cover up the entirety of the screen.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1tTkM-n06v2-0OojxCJn0YZ7Ek-yyLL16/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1tTkM-n06v2-0OojxCJn0YZ7Ek-yyLL16" >}}
 
 ## Object Properties
 
@@ -47,7 +47,9 @@ While blending and opacity eat up a level’s performance, it wasn't a problem b
 
 Historically, lag started to become an issue once Update 2.0 came out with groups, animated objects, and more triggers such as the Move and Spawn Trigger. Minigame levels are the best example, as triggers go beyond editing colors, the risk of lag increases.
 
-These features snowballed to Updates 2.1 and 2.2 where players grew more concerned about lag, level performance, and optimizing details for effects and trigger setups to effectively create the vision they wanted. Additionally, with some mods allowing creators to bypass the object count limit, levels reached as high as [1 million objects](<https://youtu.be/Htg4aIoRcYw?si=hacIGUodFEURDHNe>).
+These features snowballed to Updates 2.1 and 2.2 where players grew more concerned about lag, level performance, and optimizing details for effects and trigger setups to effectively create the vision they wanted. Additionally, with some mods allowing creators to bypass the object count limit, levels reached as high as 1 million objects.
+
+{{< youtube Htg4aIoRcYw >}}
 
 # 2: Low Detail Mode
 
@@ -59,7 +61,7 @@ You can tick High Detail in the Edit Group’s Extra tab in order to make an obj
 
 With that said, you can make objects only appear in Low Detail Mode if you set a toggle trigger to High Detail.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1Sql4eDH7lWR5jxmzZSsUyn_xllBBIg1q/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1Sql4eDH7lWR5jxmzZSsUyn_xllBBIg1q" >}}
 
 ## 1b Toggles
 
@@ -71,7 +73,7 @@ Following that idea, sometimes you might want to give the players more customiza
 3. Normal with LDM ticked
 4. Min Mode with LDM ticked
 
-{{< youtube j_Hgp-k2twk >}}
+{{< youtube j_Hgp-k2twk >}} 
 
 With 2.2’s upgrades in Item IDs, the amount of LDM customization has expanded.
 
@@ -94,7 +96,7 @@ Every level has their own vision, plan, idea, and details in mind when created. 
 
 The point of LDM is to create an accessible playing experience for lower-end devices, so functional details cannot be removed. Could you imagine if ISpyWithMyLittleEye by Voxicat removes the black screen obscuring the player’s vision in LDM? Or if Skeletal Shenanigan’s bossfight removes its attack indicators?
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1hiuN2dybuPc_f_wPTXOR_95wywdb__o7/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1hiuN2dybuPc_f_wPTXOR_95wywdb__o7" >}}
 
 If you feel that setting up an LDM is too tedious for you, the other option is to be efficient with the way you use your objects for details. This means you need to understand your detail’s properties, shape, function, and match them to the existing objects and features in the editor with as few objects as possible.
 
@@ -124,15 +126,15 @@ While there are curved objects available in the editor, sometimes they might not
 
 ## 1b Scaling/Warping
 
-**Scaling**  is another simple way to reduce object counts. By making one object take up more space, you can use far fewer objects to fill in the needed space. Note that this is much easier with warping.
+**Scaling** is another simple way to reduce object counts. By making one object take up more space, you can use far fewer objects to fill in the needed space. Note that this is much easier with warping.
 
 > *Warning*: GD renders large objects differently depending on their hitboxes but this can be remedied by ticking NoTouch to remove the hitbox. Be careful with this because it can cause visual errors.
 
-<div><iframe src=https://drive.google.com/file/d/1SbmTH_Sp1LEu1efhi6I1uW9EfAYzmwd5/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1SbmTH_Sp1LEu1efhi6I1uW9EfAYzmwd5" >}}
 
 ## 1c Object Types
 
-**Object Types** is the strongest way to efficiently optimize, although using this requires more experience. Essentially, some objects can be sufficient to maintain similar quality with far lower object counts. These optimized objects will depend on what you’re trying to do with the unoptimized objects as shown in[Creating Details](<https://discord.com/channels/414295025883545600/1233710767895740456/1233710767895740456>).  For example, you can get away with using the wood objects in the 1st and 9th tabs in the editor instead of making your own custom wood. In general, be aware that custom assets will always be more inefficient than using default objects, which includes things like creating custom curves instead of default curves.
+**Object Types** is the strongest way to efficiently optimize, although using this requires more experience. Essentially, some objects can be sufficient to maintain similar quality with far lower object counts. These optimized objects will depend on what you’re trying to do with the unoptimized objects as shown in[Creating Details](<https://discord.com/channels/414295025883545600/1233710767895740456/1233710767895740456>). For example, you can get away with using the wood objects in the 1st and 9th tabs in the editor instead of making your own custom wood. In general, be aware that custom assets will always be more inefficient than using default objects, which includes things like creating custom curves instead of default curves.
 
 With other object types that have both base and detail color channels, you can also make use of partial masking to make them part of a detail.
 
@@ -140,7 +142,7 @@ With other object types that have both base and detail color channels, you can a
 
 As much as creators can use toggles for LDM, toggles can also be used for optimizing by removing unnecessary objects that are offscreen. Castlemania does this with its branching paths where any path the player avoids gets toggled off. As shown here, removing those toggles makes the level difficult to render in the editor and in-game.
 
-{{< youtube dhsYDtOrvw0 >}}
+{{< youtube dhsYDtOrvw0 >}} 
 
 ## Miscellaneous Methods
 
@@ -178,4 +180,4 @@ Note that this works significantly better if you use a lot of Editor layers. Thi
 
 Here is an example of this process.
 
-{{< youtube NMwzuKoi3Nk >}}
+{{< youtube NMwzuKoi3Nk >}} 
