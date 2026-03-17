@@ -48,6 +48,6 @@ As you may expect, the prior factors – clear goals, rapid feedback, and adequa
 
 # Sources
 
-> • <https://www.gamedeveloper.com/design/the-flow-applied-to-game-design>
-> • <https://www.gamedeveloper.com/blogs/rational-design-part-1---the-player>
-> • <https://www.medicalnewstoday.com/articles/flow-state#effects-on-brain>
+- <https://www.gamedeveloper.com/design/the-flow-applied-to-game-design>
+- <https://www.gamedeveloper.com/blogs/rational-design-part-1---the-player>
+- <https://www.medicalnewstoday.com/articles/flow-state#effects-on-brain>

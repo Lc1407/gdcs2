@@ -60,11 +60,11 @@ In GD 2.2, you can use “Lock to Camera X” and “Lock to Camera Y” instead
 
 Sometimes you’ll see parallax where some of the moving objects just look out of place. This is due to how many layers there are. The more parallax layers you have, the more context you’ll give your parallax and the more natural it’ll look.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1yi6lq337GP5xJnsHKwtlW6VoCYse6eU7/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1yi6lq337GP5xJnsHKwtlW6VoCYse6eU7" >}}
 
 Make sure your layers are CORRECT. When the camera moves in one direction, everything should move in the other direction. Objects closer to the camera than your reference point should move faster as well.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1tgzhVJ5KWevu-bAz2gI_79c2KY1cMxHN/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1tgzhVJ5KWevu-bAz2gI_79c2KY1cMxHN" >}}
 
 When making objects that need additional movements besides their parallax layer’s movement, make sure those movements have context. If you have something like a train, then make sure the tracks and the layers around those tracks move correctly.
 
@@ -73,15 +73,15 @@ Similarly, if you have objects that are moving freely, have multiple of them on 
 
 1. Normal parallax: Exactly what you see most of the time.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1l4eghj76mUuo9v10Z-j5wP4G1EePippg/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1l4eghj76mUuo9v10Z-j5wP4G1EePippg" >}}
 
 2. Player slowing down: Add another set of follow triggers with X and Y mods which’ll stack with the normal parallax triggers. These values must add up to 1 so everything gets locked to the player position when the parallax is locked to Camera X and Y.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1PNWKAUtyIWcNlXDxi2j9KrQE3EMGvaCV/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1PNWKAUtyIWcNlXDxi2j9KrQE3EMGvaCV" >}}
 
 3. Rotating around a point: Think of this as being the same way that parallax looks when you’re in the editor. You can essentially take the normal parallax setup and move everything towards the right, so the layers behind the point move towards the right while the layers in front of it move towards the left. Make sure that you set a reference point for the parallax so that this can work properly; add a new follow trigger with X/Y mods that stack with the original so they add up to 1, then just add another follow trigger with X/Y mods of 1 to all other layers.
 
-<div><iframe src=https://drive.google.com/file/d/1374f2ct1vFa2AGSaMWU1m167i7ReD2T7/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1374f2ct1vFa2AGSaMWU1m167i7ReD2T7" >}}
 
 ## Setup
 

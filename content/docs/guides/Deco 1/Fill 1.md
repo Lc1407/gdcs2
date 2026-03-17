@@ -26,11 +26,11 @@ The best way to do this is to use the objects in-game. As such, we’ll give som
 
 ## Lines and Rectangles
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1lrE1posiNmR2B87qCTsLb17VUQJMVVk7/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1lrE1posiNmR2B87qCTsLb17VUQJMVVk7" >}}
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1HsVchwqBrfef-I3GBFcCS-suzvi-g0D_/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1HsVchwqBrfef-I3GBFcCS-suzvi-g0D_" >}}
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1x55clh3QLIj3RaPFRTjvMX2XAZq7A__C/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1x55clh3QLIj3RaPFRTjvMX2XAZq7A__C" >}}
 
 Lines are a fairly simple way to construct shapes, and let you use a wide variety of colors. They're quite versatile; just look at practically any level out there and you'll see just that.
 
@@ -38,29 +38,29 @@ Rectangles are another straightforward way to efficiently use objects. The GD ed
 
 Many of GD’s older assets – specifically the ones from before 1.9 – have rectangles or squares on them. We encourage you to play around and experiment with these blocks and their colors to make different shapes for some interesting results.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1P_makFUphYLg9imGnlEkspas-zLdnOVf/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1P_makFUphYLg9imGnlEkspas-zLdnOVf" >}}
 
 ## Circles and Curves
 
 If you’ve read the [previous guide](/docs/guides/deco-1/detail-objects/) this will be fairly self-explanatory. You can use objects like the ones below to make circles and curves; some will be more beneficial than the default lines too.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/13Nu22c1D-UNjgId02R8ZVgr-crwGal6S/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/13Nu22c1D-UNjgId02R8ZVgr-crwGal6S" >}}
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/13Nu22c1D-UNjgId02R8ZVgr-crwGal6S/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/13Nu22c1D-UNjgId02R8ZVgr-crwGal6S" >}}
 
 You can also use the text objects, found in the Orb tab - this lets you do a lot of things as text is versatile. Be aware, however, that this largely depends on the font you choose.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1G5eI8PZoLkpbg_qBdvPTvwdFFpAb0Qum/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1G5eI8PZoLkpbg_qBdvPTvwdFFpAb0Qum" >}}
 
 While these objects aren’t great for making highly geometric shapes, they excel at making freeform shapes or details that extensively use curves. Here are some examples of that.
 
 > by `Artaire`
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1lOZwdfPO8BTbbG7UlkyNEn3F7D-qdaO2/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1lOZwdfPO8BTbbG7UlkyNEn3F7D-qdaO2" >}}
 
 > `Expy`'s part in `Scorpius`
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1VBvkzu2U_AD5ggIheZcXMYuVJzMO_Qcg/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1VBvkzu2U_AD5ggIheZcXMYuVJzMO_Qcg" >}}
 
 ## Specific Objects
 
@@ -70,7 +70,7 @@ Many of these objects can be assigned a Base color and a Detail color. By making
 
 You'll find these sorts of specific objects everywhere, especially in more art-based levels.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1GGriD2x5fo2zM-SvFYEAQ46VI_E2Mr0G/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1GGriD2x5fo2zM-SvFYEAQ46VI_E2Mr0G" >}}
 
 # 2: Filling Custom Shapes
 
@@ -80,23 +80,23 @@ Here's how to fill in a shape using pre-existing objects:
 
 1. Take your shape and freehand the outline using thicker objects.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1bbjEyMXwvz70zRfzfF4wDrjvjBa3No8Q/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1bbjEyMXwvz70zRfzfF4wDrjvjBa3No8Q" >}}
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1Mxxqt0CmROYbM8SvbZ95wPAay2K862Zk/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1Mxxqt0CmROYbM8SvbZ95wPAay2K862Zk" >}}
 
 2. Fill in the rest of the space using large objects. You may have to use :FreeMove: Free Move, :Rotate: Rotate, and :Scale: Scale, especially when filling in small spaces.
 
 Make sure not to limit yourself to a single object when filling up space. Some objects will be more efficient at filling in your shape.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1XQGG0O5VjfuPB_syUQA-PnS9hXXDSGsA/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1XQGG0O5VjfuPB_syUQA-PnS9hXXDSGsA" >}}
 
 3. Assign all these objects to the same color channel.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1g14veMqHQ_BoLmvfhFCxgHqKt2jfupB8/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1g14veMqHQ_BoLmvfhFCxgHqKt2jfupB8" >}}
 
 4. Repeat this process to fill in everything else. You can use things like Z layers and overlapping to mask parts of the colored shapes, as can be seen in the example below.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1ZSh2IDrxodxuniXXSGHXEJR1s6kLs3DL/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1ZSh2IDrxodxuniXXSGHXEJR1s6kLs3DL" >}}
 
 You’ll be able to skip some of these steps when working with simple shapes. However, when working with curves and more complex shapes, they will all be necessary.
 
@@ -107,13 +107,13 @@ For example, the circular part of this structure uses just one object to fill it
 In this section, we’ll cover some important principles you should bear in mind when using colors.
 - **Plan out your colors** and where exactly you'll use them _before you start building_. This will make your decoration process more streamlined.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/16JDztituJdSptJs-nJUpi5eNvmidqbtU/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/16JDztituJdSptJs-nJUpi5eNvmidqbtU" >}}
 
 - **Fill in bigger shapes** before focusing on small details. This will help you stay organized and get a better sense of how your block will look once finished.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1AowPQiMIbCNwxhSYTWAKISgT-_lSSsJs/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1AowPQiMIbCNwxhSYTWAKISgT-_lSSsJs" >}}
 
 - **Save smaller color changes and low-opacity objects for last.** This will help ensure that you don’t overload your blocks or make them messy.
 
-<div><iframe src=https://drive.google.com/file/d/1rp8eE0jnHGCJg5rJHZgzgEyN9DnG3CL1/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1rp8eE0jnHGCJg5rJHZgzgEyN9DnG3CL1" >}}
 

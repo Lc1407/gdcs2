@@ -30,11 +30,11 @@ A green orb's hitbox rotates with its texture. Using this odd property, it's pos
 
 1. Place a green orb in a way where the player has to buffer-click it, and then scale it past 4.00x. *Note that you can scale it up to 2.00x if Scale Hack isn't available.*
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1BV40hpxTV3hwl0n-L7pm-SStAcaEXyIM/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1BV40hpxTV3hwl0n-L7pm-SStAcaEXyIM" >}}
 
 2. Place a lot of pickup triggers in a dense cluster at the exact position where the player will land, which increase the count by random values.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1vxGd6F9YHKvf7MyD0trQnVfCA4Zxo2FV/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1vxGd6F9YHKvf7MyD0trQnVfCA4Zxo2FV" >}}
 
 3. Place a count trigger which activates a group when the target value is reached. This can be repeated multiple times for however many variants you want, as long as each count trigger has a unique target value and activates a unique group.
 
@@ -47,7 +47,7 @@ This method uses a circle of collision blocks to randomize the group toggled on.
 
 1. Create a circle made out of collision blocks. As a rule of thumb, a bigger circle generally means you'll be having more things to randomize.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1Atg0JmB8OYFuN-x7o2XeaZr78ffFj7V-/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1Atg0JmB8OYFuN-x7o2XeaZr78ffFj7V-" >}}
 
 2. Assign unique collision IDs to each of these blocks.
 3. Place another collision block with a new group on the circumference of this circle. Make sure it has a unique collision ID and is a Dynamic Block. We'll call this collision block `` A.``
@@ -94,12 +94,12 @@ This randomizer abuses an interaction between the shake trigger and dual mode in
 
 Here's what it should look like.
 
-<div><iframe src=https://drive.google.com/file/d/1kOGzNoGNk4BxdJhh9IYYx9P5HQldqlPy/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1kOGzNoGNk4BxdJhh9IYYx9P5HQldqlPy" >}}
 
 This randomizer does not require any player input, and is fully random. However, it only supports 2 outcomes, requires Shake to be enabled, and cannot be playtested in the editor.
 
 # Sources
 
-> • <https://youtu.be/LbPYygtpxJk>
-> • <https://youtu.be/guOzs1aU_Us>
-> • <https://youtu.be/tbzdZJQWaAc>
+- <https://youtu.be/LbPYygtpxJk>
+- <https://youtu.be/guOzs1aU_Us>
+- <https://youtu.be/tbzdZJQWaAc>

@@ -25,7 +25,7 @@ The Hide Player trigger makes the player icon invisible during gameplay.
 
 The Show Player trigger makes the player icon visible after it is hidden. This state is the default for all levels.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1usKhqLlDQYqHZtEvsBJz8mis9q2KHQDr/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1usKhqLlDQYqHZtEvsBJz8mis9q2KHQDr" >}}
 
 # 2: Show/Hide Player Trail Triggers
 
@@ -35,7 +35,7 @@ The Show Player Trail trigger makes a trail of afterimages that follows the play
 
 The Hide Player Trail trigger makes the trail invisible. This state is the default for all levels.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1cTnXNA8lVJF8ILs3S84sYt_BvXfPqxi8/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1cTnXNA8lVJF8ILs3S84sYt_BvXfPqxi8" >}}
 
 # 3: :BGEffectOn: :BGEffectOff: BG Effect On/Off Triggers
 
@@ -45,4 +45,4 @@ The BG Effect On trigger makes the BG Effect visible. This can only be seen duri
 
 The BG Effect Off trigger disables this effect.
 
-<div><iframe src=https://drive.google.com/file/d/1b9hkxacu0jc6m14zCspE1zvftLQPmFhI/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1b9hkxacu0jc6m14zCspE1zvftLQPmFhI" >}}

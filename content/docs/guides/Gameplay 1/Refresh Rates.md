@@ -54,6 +54,6 @@ These seem to vary between refresh rates, making one person’s bug-tested and c
 
 # Sources
 
-> • <https://www.youtube.com/watch?v=BiWtvKl0VCQ&ab_channel=KugelBlitZ>
-> • <https://www.youtube.com/watch?v=hhBnSJx-0-k&ab_channel=Stormy>
+- <https://www.youtube.com/watch?v=BiWtvKl0VCQ&ab_channel=KugelBlitZ>
+- <https://www.youtube.com/watch?v=hhBnSJx-0-k&ab_channel=Stormy>
 

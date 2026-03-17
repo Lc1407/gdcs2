@@ -140,17 +140,17 @@ We know how to make bosses good, but you can’t just slap on a formula and make
 ## Concept
 The most important part of a bosses identity is its concept. Every boss should have a unique concept and should, similarly to the attacks, be able to be explained easily. For example, take a look at the image below.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1z1NCkY2iKCSykl5ggwUQfUtx7_zbx6oR/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1z1NCkY2iKCSykl5ggwUQfUtx7_zbx6oR" >}}
 
 How are you supposed to describe a boss like this? The only thing that stands out are the wings, but it can’t be described by some simple keywords. The vision in our heads is unclear because the concept itself is unclear. The best thing we can say to describe the boss is “some weird bird guy with a spear,” which would have been fine as “a bird with a spear;” however, the boss ended up being overcomplicated which led to confusion about its concept. Now let’s look at a different boss from the same game.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1d49m_LjIELSXgu3z9MOoFetN_92e2OSD/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1d49m_LjIELSXgu3z9MOoFetN_92e2OSD" >}}
 
 This boss is obviously a big fiery face. If you think back to this boss, you’ll instantly remember what it is. The simple concept makes it memorable.
 
 All of the bosses below have a simple concept, see if you can define them.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1R66C_B5a30h-6Fe0du_BNmiuo4VEgIx-/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1R66C_B5a30h-6Fe0du_BNmiuo4VEgIx-" >}}
 
 *(left to right: red wolf, ghostly mage, mushroom boxer)*
 
@@ -162,11 +162,11 @@ In addition to making sure the boss concept is easily explainable, you still nee
 
 *(Gruz Mother, bigger version of a gruzzer)*
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/10EaRXwleqYMzn_5gKAEUE7RVu41ro_mp/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/10EaRXwleqYMzn_5gKAEUE7RVu41ro_mp" >}}
 
 *(Vengefly King, bigger version of a vengefly)*
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1QYbs6nKV2o-NQs8fXMf2cVCQbYuQO1Bn/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1QYbs6nKV2o-NQs8fXMf2cVCQbYuQO1Bn" >}}
 
 However, their concepts are both just improved versions of a normal enemy, which really isn’t unique at all, not to mention they tried to pull off the concept twice which heavily undermines the impact of the bosses.
 
@@ -174,7 +174,7 @@ You can still pull off the “bigger version of a normal enemy” concept by int
 
 *(Soul Master, similar to the Soul Twister)*
 
-<div><iframe src=https://drive.google.com/file/d/1VB006lbzIRrUtik6cxGXz1CqmkB5YKc7/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1VB006lbzIRrUtik6cxGXz1CqmkB5YKc7" >}}
 
 This boss, rather than being a better Soul Twister, has a completely self-contained identity and only shares traits with the Soul Twister. It may be the leader of all Soul Twisters and the strongest of them all, but it’s independent from its common counterpart. When you think of the boss afterwards, you think of a separate entity rather than just another Soul Twister.
 

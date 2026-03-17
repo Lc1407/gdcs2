@@ -11,9 +11,9 @@ draft: false
 
 
 - **Summary**
-- > • Feedback gives you extra ideas you can use to create.
-- > • Make sure you’re specific when you ask for feedback, so people can give you specific feedback that helps you.
-- > • Be polite when receiving feedback, even if you decide to reject it.
+- - Feedback gives you extra ideas you can use to create.
+- - Make sure you’re specific when you ask for feedback, so people can give you specific feedback that helps you.
+- - Be polite when receiving feedback, even if you decide to reject it.
 
 ** **
 
@@ -25,10 +25,10 @@ For example, suppose you posted in #gd-chat and said “I want to make a modern 
 
 Here are some sample questions you could use to describe your work. The more specific you can be, the better.
 
-> • What are you trying to make or learn?
-> • Is your work a practice piece or something serious?
-> • What inspired you to make this?
-> • Do you like or dislike specific things about your work?
+- What are you trying to make or learn?
+- Is your work a practice piece or something serious?
+- What inspired you to make this?
+- Do you like or dislike specific things about your work?
 
 **2: Taking Feedback**
 
@@ -53,6 +53,6 @@ Ultimately, feedback should give you a lot of ideas and suggestions for what to 
 
 # Sources
 
-> • <https://mattepaint.com/blog/how-to-ask-for-constructive-feedback/>
-> • <https://www.creativebloq.com/features/how-to-give-and-get-more-from-art-critiques>
+- <https://mattepaint.com/blog/how-to-ask-for-constructive-feedback/>
+- <https://www.creativebloq.com/features/how-to-give-and-get-more-from-art-critiques>
 

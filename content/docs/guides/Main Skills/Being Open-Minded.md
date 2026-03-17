@@ -11,10 +11,10 @@ draft: false
 ---
 
 - **Summary**
-- > • Being open-minded and objective will allow you to better accept the shortcomings of your work, which will help you avoid those mistakes in the future and improve
-- > • Taking negative criticism can be harsh. Rather than rejecting it or letting it discourage you, use it as an opportunity to grow.
-- > • Don’t beat yourself up when nothing in your level seems to look right. Frustration is normal, but don’t let it overwhelm you. Persisting through difficulties is a hallmark of a mature creator.
-- > • Developing an entirely new attitude towards your work can be daunting. A change of mind is never easy, so take your time.
+- - Being open-minded and objective will allow you to better accept the shortcomings of your work, which will help you avoid those mistakes in the future and improve
+- - Taking negative criticism can be harsh. Rather than rejecting it or letting it discourage you, use it as an opportunity to grow.
+- - Don’t beat yourself up when nothing in your level seems to look right. Frustration is normal, but don’t let it overwhelm you. Persisting through difficulties is a hallmark of a mature creator.
+- - Developing an entirely new attitude towards your work can be daunting. A change of mind is never easy, so take your time.
 
 ** **
 
@@ -51,4 +51,4 @@ It is hard to change the way you think about criticism. It is important to be pa
 
 # Sources
 
-> • <https://writingcooperative.com/what-kill-your-darlings-does-and-doesn-t-mean-cd8d533dd627>
+- <https://writingcooperative.com/what-kill-your-darlings-does-and-doesn-t-mean-cd8d533dd627>

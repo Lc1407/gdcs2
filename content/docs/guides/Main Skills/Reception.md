@@ -91,7 +91,7 @@ Within the eyes of Robtop, collecting your first creator points will be your har
 
 The game itself also contains its own distribution channels that affects a level’s reception through the game’s quick search tab:
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1GdjfeloaUvXEdaQs3MCMompi4zM31LbW/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1GdjfeloaUvXEdaQs3MCMompi4zM31LbW" >}}
 
 - **Downloads Tab:** Levels get sorted in descending order from most downloaded to least downloaded. This does not affect the reception of new levels.
 - **Likes Tab:** Levels get sorted from the most liked levels to the most disliked levels. Similarly to the downloads tab, this does not affect new levels.
@@ -147,13 +147,13 @@ If performance is below set expectations, that results in a letdown. Let’s see
 
 ## 1. Overhype
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1ZmH96ZL-Q-uryvJnfMcuS8CkCTfqEt3P/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1ZmH96ZL-Q-uryvJnfMcuS8CkCTfqEt3P" >}}
 
 > LET ME TELL YOU ABOUT MY UPCOMING TOP 1 MASTERPIECE THAT IS GUARANTEED TO HAVE A MYTHIC RATING BECAUSE I AM GOING TO MAKE THE BEST LEVEL IN EXISTENCE. YOU ALL WILL BOW DOWN TO ME BECAUSE UNDER 40K OBJECTS, I AM GONNA BLOW… YOUR… MIND!
 >
 > I WILL PERSONALLY VERIFY THIS LEVEL ON MOBILE, AND ON STREAM. IT WILL BE A LEGENDARY MASTERPIECE OF A STREAM WHERE THOUSANDS OF VIEWERS WILL SHOW UP TO SEE HISTORY BEING MADE. IF YOU LIKE WHAT YOU’RE READING, SHOW YOUR APPRECIATION BY SUBSCRIBING TO MY CHANNEL, *OR ELSE…*
 
-<div><iframe src=https://drive.google.com/file/d/1G5oBwEz5XGcDIMY1yGyia3frWdlznkS-/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1G5oBwEz5XGcDIMY1yGyia3frWdlznkS-" >}}
 
 If you felt annoyed by what you just read, then you’ve just been on the receiving end of **overhype**. You can promote so much that it comes off as annoying, or you can give such lofty, vague expectations like “perfect masterpiece” that it’ll look like a flop no matter how much polish is given.
 

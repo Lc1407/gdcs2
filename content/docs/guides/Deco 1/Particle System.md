@@ -31,7 +31,7 @@ These options let you control how particles spawn; how many will spawn, how ofte
 - **Lifetime:** How long the particles last.
 - **Emission:** Amount of particles spawned per duration.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1khB5voYqdJK-Hu8q3XZmxJ5aAOzXEkG7/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1khB5voYqdJK-Hu8q3XZmxJ5aAOzXEkG7" >}}
 
 ## Particle Movement
 These options let you control where particles spawn and how they move.
@@ -43,7 +43,7 @@ These options let you control where particles spawn and how they move.
 - **AccelRad:** Determines if the particles spread outwards from a center point (positive value), or spread inwards (negative value).
 - **AccelTan:** Determines if the particles turn in a counterclockwise (positive value) or clockwise direction (negative value).
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1gtSqZPv43WMUHN6xzdU3erR36mOAhI8-/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1gtSqZPv43WMUHN6xzdU3erR36mOAhI8-" >}}
 
 # 2: Page 2
 
@@ -56,7 +56,7 @@ These options determine the size, rotation, and color of particles over their li
  - You can fine-tune the color options in the top left corner.
  - Use the <> button to make them the same. Using this button will always copy the color of the first color box to the second box.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1Pr_GND4fRYpbdnexFngEmj_A2k1O9LNC/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1Pr_GND4fRYpbdnexFngEmj_A2k1O9LNC" >}}
 
 # 3: Page 3
 
@@ -70,7 +70,7 @@ Free, Relative, and Grouped determine how the particles generate when the partic
 You can see this by clicking and dragging the particle object in the bottom left window.
 - **Fade In and Fade Out:** Impacts opacity; works like the pulse trigger
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/167TuRksn5TiiXi4BYuKI8TX11IobX3TN/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/167TuRksn5TiiXi4BYuKI8TX11IobX3TN" >}}
 
 ## Particle Friction
 These options allow you to simulate friction on particles.
@@ -80,7 +80,7 @@ These options allow you to simulate friction on particles.
 - **FrictionR:** Increases the rotational friction on particles, making them rotate slower over time.
 - **Respawn:** Lets you control how fast the particles respawn when using a fast emission rate, like -1.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1piGi-H8atIyaYWng0rbMs3MU1nRqBI-T/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1piGi-H8atIyaYWng0rbMs3MU1nRqBI-T" >}}
 
 ## Particle Visuals
 These options control some of each particle’s visuals; their color, size, spin, and if they have blending.
@@ -95,7 +95,7 @@ These options control some of each particle’s visuals; their color, size, spin
  - This setting ignores blending, so use the “Enable Additive” function to make the particles have blending.
 - **Dynamic rotation:** Makes the particles dynamically change their rotation depending on how they’re rotated.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/17FIIPTFmkd8FhxM5FSZonvn7Nv0YbpqP/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/17FIIPTFmkd8FhxM5FSZonvn7Nv0YbpqP" >}}
 
 ## Technical Settings
 These options let you control how particles interact with other aspects of your level, like their layering and if they respond to triggers.
@@ -107,7 +107,7 @@ These options let you control how particles interact with other aspects of your 
  - This only works if blending is disabled in the particle menu, as well as the color you chose in the color picker when using “use obj color”.
 - **StartRGB/EndRGB var sync:** If you use the random sliders in the visual tab to select a color enabling this will make the particles either start or end with a grayscale effect.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1qTlOZ_XD8_5YK_6fzcuZCBjDAyFn2WcY/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1qTlOZ_XD8_5YK_6fzcuZCBjDAyFn2WcY" >}}
 
 # 4: Page 4
 
@@ -120,7 +120,7 @@ These buttons let you change multiple properties found in the motion tab simulta
 - **EndRad:** Functions exactly the same as StartRad but this time it determines where the particles will end/move to.
 - **RotSec:** Determines how much the particles will rotate before reaching the EndRad. It is measured in degrees and the particles will move clockwise for positive value.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/11q46n8F3laqPc0-nTiMDNODH7T_vViKp/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/11q46n8F3laqPc0-nTiMDNODH7T_vViKp" >}}
 
 These buttons let you copy every setting from one particle to a different one entirely.
 The `c` button copies the properties and the `p` button pastes them.
@@ -133,6 +133,6 @@ Finally, you can use the numbered buttongs to quickly change particle parameters
 
 The **C** button doesn't have a purpose at the time of writing. Alternatively, the **black square** to its right lets you set a background color for the particle viewer.
 
-<div><iframe src=https://drive.google.com/file/d/1gJPc8xcaoP4Yo_bzHRN7qYFB3T_viuk-/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1gJPc8xcaoP4Yo_bzHRN7qYFB3T_viuk-" >}}
 
 **Video:** [Geometry Dash 2.2’s CRAZY Particle Editor!](https://youtu.be/-744rW8WKmA?si=vBVz6hIJr860AnKz)

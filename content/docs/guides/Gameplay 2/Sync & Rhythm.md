@@ -23,10 +23,10 @@ draft: true
 
 Different levels of sync exist which can be classified by how much impact they have on the player.
 
-> • Minimal impact: Small deco animations (small pulses or color changes).
-> • Low impact: Deco animations that affect gameplay (large pulses/color changes, impact frames, movements).
-> • Medium impact: Gameplay elements that move the player (pads, portals).
-> • High impact: Player clicks.
+- Minimal impact: Small deco animations (small pulses or color changes).
+- Low impact: Deco animations that affect gameplay (large pulses/color changes, impact frames, movements).
+- Medium impact: Gameplay elements that move the player (pads, portals).
+- High impact: Player clicks.
 
 We can combine different types of sync - having the player click at the same time an animation plays will give the moment more impact than if only one of those occurred at once.
 
@@ -44,9 +44,9 @@ For example, clicks in a ship part will feel less impactful than clicking in a w
 
 We can expand this idea a bit further and discuss movements. While default movement of each gamemode is a large part of its unique visual feedback, automatic movements caused by moving platforms or the player icon hitting slopes also have their own impact. Here are some general factors you should consider when discussing the impact of sync.
 
-> • Movement Size - Larger movements will have more impact than smaller movements.
-> • Velocity - Faster movements will have more impact than slower ones. (This includes horizontal speed as well.)
-> • Acceleration - A sharp change in velocity will be more impactful than a smooth change.
+- Movement Size - Larger movements will have more impact than smaller movements.
+- Velocity - Faster movements will have more impact than slower ones. (This includes horizontal speed as well.)
+- Acceleration - A sharp change in velocity will be more impactful than a smooth change.
 
 One benefit of classifying movements like this is you can play around and experiment with them more effectively. Many layouts feel distinct just because of how their creators experimented with movements. Here are a few examples of that.
 

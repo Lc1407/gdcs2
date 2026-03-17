@@ -28,7 +28,7 @@ As you’ve seen from the first paragraph, **limitations** are a vital part of g
 
 But why is this even useful? Take a look at the image below. As you can see, the green square has to get to the upper ledge. Letting the green square fly would remove any thought behind the action, but having the player think about their options and see what they can do to get to the upper ledge creates an engaging strategic experience.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1TZf_5PSwO3Y7fNHWtflSdjKZgGY4eeuL/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1TZf_5PSwO3Y7fNHWtflSdjKZgGY4eeuL" >}}
 
 ## Limitations Within Mechanics
 But how do you create limits for your mechanics anyway? The easiest is to have clear boundaries for your mechanics. A dash can only go a specific distance, an attack can only do a specific amount of damage, a mechanic can only do a specific thing.
@@ -39,7 +39,7 @@ Let's go over an example of this real quick: Tears of the Kingdom. A problem wit
 
 *(a hoverbike in TotK, which allows you to fly anywhere with ease, made out of only 3 objects.)*
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/11svvwXJeHM04BjghMUwkDdcKysq8HBSp/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/11svvwXJeHM04BjghMUwkDdcKysq8HBSp" >}}
 
 Now hold your horses, this doesn’t mean that freedom is absolutely horrible and you should restrict your player whenever possible, because if you use freedom right it can create incredible strategies and experiences. The main takeaway is that creating limitations matters, and you should always set boundaries on your mechanics.
 ## Lock & Key
@@ -49,13 +49,13 @@ However, having 7 different keys per room would be overbearing and hard to incor
 
 Here’s an example from my level, meow map nya. The gap at the end of the segment requires a dash to get through, then a jump and another dash to land on the wall, but the player can’t dash twice. This is the lock. The red hook on the left gives the player two hooks. This means the red hook is the key.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1dLR_8NOy0RFGZpUWF03WRYE_Ri0zDxKu/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1dLR_8NOy0RFGZpUWF03WRYE_Ri0zDxKu" >}}
 
 This isn’t what makes the concept of locks & keys within mechanics special, they’re special because of a concept I call a **lock & key chain**. Lock & key chains are a __chain of keys, which open up more keys, which open up even more keys, until you finally reach the final lock__. The way you create a chain is by having action A cause action B. If you have action A cause action B and then you make action B vital to progressing, the player will have to find a way to do action A. What you did is simulate a lock and key chain with your mechanics. It may be obvious, but chains involve much more strategy and thinking than a single key, and with well-designed mechanics you can apply them seamlessly. I’ve hidden a small lock & key chain in the video example from earlier: you need to be on the left of the red hook hitbox, so you need to hook from the right first.
 
 In this video, we have a green swing which brings the player 180° around the center of the green swing. Let’s dissect this and see all the locks & keys.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1S2UEq_ZOv1EwgKc0fktd5eQTyq6TfS-u/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1S2UEq_ZOv1EwgKc0fktd5eQTyq6TfS-u" >}}
 
 > Lock: I need to launch right
 > Key: I can launch right from the top left
@@ -71,43 +71,43 @@ Now that you’ve learned how limitations work, let’s go over how you can appl
 ## Applying Limitations to Strategy
 To put it simply, a **strategy** is __a self-derived process made to fulfill a goal__. When solving a puzzle, you start at the solution and find the way backwards. Lock & key chains allow the creator to make a puzzle that works backwards seamlessly. However, even if you have a “critical path” through the room, you still need to make the critical path interesting and detailed enough that it makes the player feel smart. For example, let’s take a look at this collectible section in my level.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1kGE5y_v4HAZmkZ7FtP2L-0WgOGt0i8Xp/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1kGE5y_v4HAZmkZ7FtP2L-0WgOGt0i8Xp" >}}
 
 First, let’s analyze the situation. We start on the bottom left and we have two collectibles we want to get:
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1lYn_z2FpLjRigVjZQEO69VVukC8GBkhn/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1lYn_z2FpLjRigVjZQEO69VVukC8GBkhn" >}}
 
 For the right collectible, we would need to start on the bottom left, and for the left collectible we would need to dash from the top left:
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1AgTCSiZevR8514NhLjfHifQZwxn8R0Kk/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1AgTCSiZevR8514NhLjfHifQZwxn8R0Kk" >}}
 
 Because we already start on the bottom left, we can take that out of the equation, meaning we need to find a way to get to the top left. This can be done by hooking from the bottom right:
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1Zp5Hi_u9xT3JxuQUcOEOjByOK8bc_sBR/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1Zp5Hi_u9xT3JxuQUcOEOjByOK8bc_sBR" >}}
 
 To get to the bottom right, we can easily just dash from the bottom left, which was where we started:
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1Uv7sK1IOr3sTGiQcqQTcACFM2JqwaamX/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1Uv7sK1IOr3sTGiQcqQTcACFM2JqwaamX" >}}
 
 Now how do we get both? Let’s say we take the right collectible first, meaning we end up in the top right. To get back to the bottom left for the path to the other collectible, we would need to hook from the top right to the bottom left:
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/16x5hBoEER8RcoOIrTvORmC6nLonSKqTp/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/16x5hBoEER8RcoOIrTvORmC6nLonSKqTp" >}}
 
 Congratulations, we now have our path to both collectibles!
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1jnkBoMcH8oRTvuL_pS7CpCMs0ADqwW0l/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1jnkBoMcH8oRTvuL_pS7CpCMs0ADqwW0l" >}}
 
 The strategy or puzzle in this comes from how we have only one resource, yet we have to think about how to use that resource to get a path to both of these collectibles. The player can’t just look at the section and instantly know what to do because the problem isn’t linear and involves taking advantage of something in multiple ways. Speaking of using something in multiple ways, using existing gameplay in a different context is extremely useful in making the player think about what they’re doing. This is because they have to erase their preconceived image of the section and then figure out how to complete the puzzle. The section above is a good example of this because I’m using the red hook in different contexts and angles, but you can apply this on a larger scale too.
 
 Here's an example where the player has to go through the section, but later they have to backtrack through it, making them think about it in a new way. On the topic of this video, notice how it has locks and keys as well, but it’s made in a linear way where the player doesn’t have to think too hard about how to get through.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1tYAgp1R1GWzgmlNQ-wtw9eX4_QPkBuVg/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1tYAgp1R1GWzgmlNQ-wtw9eX4_QPkBuVg" >}}
 
 Let's also talk about one key opening up two different locks. You can do this in many different ways; for example, using the double-dashes in my level to reach two different places. The reason this is useful is because, once again, it makes your player think about something in different ways. In this case that is how a key can be used to open two different locks. You can hide the other lock within your critical path, which rewards the player for thinking about how to circumvent your limitations creatively. You may see the pattern here: things that make the player think in different ways have a plethora of strategic possibilities.
 
 Let’s look at another example. Everedeck and TheMilkCat’s pylon system, a system where you can enter and switch between diamonds, creates a lot of lock & key possibilities. The unique part is that, when you enter a certain type of pylon, you store the momentum you have. That momentum then gets released when you exit the pylon. This offers many different keys (getting a certain amount of momentum to complete the section), which can open up many different locks (exiting different pylons with the same momentum allows you to reach different places). Here’s some gameplay I made with the pylon system; pay attention to the coin at the start and how I used one dash orb to access multiple paths.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1GToThKLALpTgrsbPzRgOfXQLgAw6jX5f/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1GToThKLALpTgrsbPzRgOfXQLgAw6jX5f" >}}
 
 Alongside this topic, let’s talk about readability. If you want to create strategic gameplay, you will have to sacrifice the readability of your part. Though GD players value readability a lot, it isn’t really possible if you have to stop and think about how you approach something. Making strategic gameplay also requires your player to be smart, so don’t rework your entire system if a stupid player is complaining that they can’t figure out what to do. Discarding readability and relying on your players being smart is a tradeoff you need to be willing to make. However, there’s still a difference between an overly confusing mechanic and a stupid player, which is why I can’t stress this enough: PLAYTEST your levels well.
 
@@ -148,7 +148,7 @@ As always, we’ll start with an example, this time bringing up XC3 again. Not e
 
 *(class menu in XC3, as you can see a some of the classes are locked while some are unlocked)*
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1crjZZywRJPRraC3-Qp-rtToivb8RXgBB/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1crjZZywRJPRraC3-Qp-rtToivb8RXgBB" >}}
 
 Now let’s look at what you’ve all been waiting for, TotK. How come something like strategic freedom works with XC3 but not TotK? This is because breaking the game is so easy that even a beginning player could do it right after leaving the tutorial area. With XC3, not only is it difficult to rank up every relevant class to get a specific setup, you can’t access most of those classes while playing through the game. With TotK, there are 3 things that matter to making machines: effectiveness (how well it does its job), cost (how many materials + battery it uses), and how cool it looks. However, not only can you instantly create the best flying machine with a single google search, it only costs 3 materials (which is barely anything, and it uses very little battery), and it flies better than any other flying machine. This makes optimizing and creating cooler transportation machines much less useful, and they basically only function as eye candy (omg look i made a flying mech!).
 
@@ -158,7 +158,7 @@ This doesn’t solve the exploration aspect though, because you can still just f
 
 *(this entire temple is based around using minecarts for navigation, but it gets completely negated by flying machines and your partner being able to magically teleport)*
 
-<div><iframe src=https://drive.google.com/file/d/1vjnacB3eSlZq0ehV2f9PrzXPSzLsy4r3/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1vjnacB3eSlZq0ehV2f9PrzXPSzLsy4r3" >}}
 
 # Sources
 - <https://www.reddit.com/r/tearsofthekingdom/comments/14z0g1q/how_do_you_guys_think_the_devs_feel_about_this/>

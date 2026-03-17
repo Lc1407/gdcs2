@@ -39,7 +39,7 @@ https://tenor.com/view/smash-bros-melee-super-smash-bros-melee-bat-homerun-homer
 
 If you are using merely the default static and detail objects, the most lag risk that you face will come from object density - where many objects and little details cover up the entirety of the screen.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1tTkM-n06v2-0OojxCJn0YZ7Ek-yyLL16/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1tTkM-n06v2-0OojxCJn0YZ7Ek-yyLL16" >}}
 
 ## Object Properties
 
@@ -59,7 +59,7 @@ You can tick High Detail in the Edit Group’s Extra tab in order to make an obj
 
 With that said, you can make objects only appear in Low Detail Mode if you set a toggle trigger to High Detail.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1Sql4eDH7lWR5jxmzZSsUyn_xllBBIg1q/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1Sql4eDH7lWR5jxmzZSsUyn_xllBBIg1q" >}}
 
 ## 1b Toggles
 
@@ -94,7 +94,7 @@ Every level has their own vision, plan, idea, and details in mind when created. 
 
 The point of LDM is to create an accessible playing experience for lower-end devices, so functional details cannot be removed. Could you imagine if ISpyWithMyLittleEye by Voxicat removes the black screen obscuring the player’s vision in LDM? Or if Skeletal Shenanigan’s bossfight removes its attack indicators?
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1hiuN2dybuPc_f_wPTXOR_95wywdb__o7/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1hiuN2dybuPc_f_wPTXOR_95wywdb__o7" >}}
 
 If you feel that setting up an LDM is too tedious for you, the other option is to be efficient with the way you use your objects for details. This means you need to understand your detail’s properties, shape, function, and match them to the existing objects and features in the editor with as few objects as possible.
 
@@ -128,7 +128,7 @@ While there are curved objects available in the editor, sometimes they might not
 
 > *Warning*: GD renders large objects differently depending on their hitboxes but this can be remedied by ticking NoTouch to remove the hitbox. Be careful with this because it can cause visual errors.
 
-<div><iframe src=https://drive.google.com/file/d/1SbmTH_Sp1LEu1efhi6I1uW9EfAYzmwd5/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1SbmTH_Sp1LEu1efhi6I1uW9EfAYzmwd5" >}}
 
 ## 1c Object Types
 

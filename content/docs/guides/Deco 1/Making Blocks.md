@@ -32,11 +32,11 @@ Here’s how to restructure gameplay to make decorating easier:
 
 Here’s an example of this process.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1YY2lp_OatXFEmJLBRNRKD5NJhLqhDkyx/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1YY2lp_OatXFEmJLBRNRKD5NJhLqhDkyx" >}}
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1iyceO_yda5PwMh5faUM_AdDTVSMsoAjH/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1iyceO_yda5PwMh5faUM_AdDTVSMsoAjH" >}}
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1iwRc6OCwQrhOqP-5MEWHvPzotMT6QJKL/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1iwRc6OCwQrhOqP-5MEWHvPzotMT6QJKL" >}}
 
 Once you’re perfectly fine with the structures, proceed to the next step.
 
@@ -46,7 +46,7 @@ A base is the simplest version of a block, with very few details and only a few 
 
 Do note that while a base should be simple, it doesn’t need to be just a single flat color. You can have a few different colors inside the block, or use more 1st tab objects than just the basic squares. All you need to do is restrain yourself and don’t get too carried away before adding details.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/10eg_FGUuUGpThjIOMQUMRKa2Jk4MRpj-/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/10eg_FGUuUGpThjIOMQUMRKa2Jk4MRpj-" >}}
 
 Here’s an example of what you might have once you’re done making all the bases. You can see that I added a good amount of sections to each block, but there aren’t any smaller details that would make it too complex.
 
@@ -62,15 +62,15 @@ This phenomenon is something you can notice in real life, not just in this game.
 
 > Here, the main details are found on or around the cap of the bottle. There are also cut lines on the handle, which mark the borders of different shapes. Details like the company decal are near the edge of the bottle.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1vePd4_bmKUgsw8T7q6U2qjsELzb95jg9/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1vePd4_bmKUgsw8T7q6U2qjsELzb95jg9" >}}
 
 > Note that the cameras are all positioned close to each other, and the buttons on either side of the phone are also grouped close together. The Apple logo in the center is an example of a detail inside an object, and as you can see, it’s simpler & stands out less than the cameras around it.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1YVgQO2L9B2OlPflYOXap7Qcn4Md5GdX3/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1YVgQO2L9B2OlPflYOXap7Qcn4Md5GdX3" >}}
 
 Here’s a more complex example from Hollow Knight. This one I won’t explain to you; instead, you should try to pick out a *specific asset*, like the bell, and look at where the details are placed. Get into the habit of analyzing blocks and other decoration as it'll help you in the long run.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1NxV4525itpO-2XEl3WjE-pPpgkzzjNc7/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1NxV4525itpO-2XEl3WjE-pPpgkzzjNc7" >}}
 
 **4: Custom Assets**
 
@@ -84,11 +84,11 @@ Here are some assets from my Emerald Realm part . After making the assets, espec
 
 {{< youtube lRBiEWxifsk >}}
 
-<div><iframe src=https://drive.google.com/file/d/1HoVotmm-di7Jcsk_4Avjh1lo2MNEP42o/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1HoVotmm-di7Jcsk_4Avjh1lo2MNEP42o" >}}
 
-<div><iframe src=https://drive.google.com/file/d/1c_PHSyby-VrSadocEXRbNS5u1XNRRUSK/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1c_PHSyby-VrSadocEXRbNS5u1XNRRUSK" >}}
 
-<div><iframe src=https://drive.google.com/file/d/1DfFqvcMmX-JVLZ4HE7cuucL1Xdz_38NG/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1DfFqvcMmX-JVLZ4HE7cuucL1Xdz_38NG" >}}
 
 One benefit of making custom assets is that you get a lot of freedom with your blocks, no matter what theme you’re working with. If you’re making glow designs, you can use them to the same degree that you would with custom art. Additionally, assets make it a lot easier to explore your ideas or make many versions of blocks, which’ll help you improve faster.
 

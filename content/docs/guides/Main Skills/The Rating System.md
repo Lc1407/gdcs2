@@ -22,7 +22,7 @@ draft: false
 
 Let’s start off this topic by answering: Who participates in the rating system? In broad strokes, 4 main participants come to mind: players, creators, moderators, and the executive.
 
-<div><iframe src=https://drive.google.com/file/d/1gnd3FymxxjgQsLbat1wKkaRUgFa9oVMA/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1gnd3FymxxjgQsLbat1wKkaRUgFa9oVMA" >}}
 
 1. **Players**: __They beat levels and collect stars__. (e.g. Michigun, Smiffy777) Within the context of getting a level rated, players are the main target audience. However, due to the variety in their behaviour and playstyles, we also have a variety of levels that range in difficulty, themes, and skill-sets. Players complete rated levels for tangible rewards like stars, moons, and mana orbs, which serves as an incentive.
 
