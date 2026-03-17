@@ -75,8 +75,8 @@ Before diving into assigning values, you should understand the relationship betw
 
 As you can see, the drawing begins with the “123” grayscale color value chart to map colors to their respective areas. More variations of values are added, then the first bits of colors are introduced using our method of color blending mode and matching the true shade to its greyscale counterpart.
 
-This video goes more in-depth on how Lit Form and other light properties covered in this guide works, so it would be best to watch if this is still difficult to understand. [In-depth Lighting Video](<https://youtu.be/ad20_nSuYYM >}}   ) by LifeCheck.
+This video goes more in-depth on how Lit Form and other light properties covered in this guide works, so it would be best to watch if this is still difficult to understand. [In-depth Lighting Video](<https://youtu.be/ad20_nSuYYM >}} ) by LifeCheck.
 
 # Sources
 
-Scott Robertson: How to Render,  Ch.3
+Scott Robertson: How to Render, Ch.3

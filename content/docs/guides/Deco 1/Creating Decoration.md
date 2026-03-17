@@ -171,4 +171,4 @@ The level of **cohesion** in your work is __how much each deco element works wit
 {{< youtube ufrg38442gw >}} 
 
 
-**Video:** https://youtu.be/3ofZI82lKQ8 >}}   si=a5bXL1ilq24c9C_N
+**Video:** https://youtu.be/3ofZI82lKQ8 >}} si=a5bXL1ilq24c9C_N

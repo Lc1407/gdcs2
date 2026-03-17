@@ -51,13 +51,13 @@ The setup for the save consists of four modules: the binary saves that save and 
 
 To save decimal values, you’ll need to have a clear maximum value in mind, because you can’t do it without making binary saves (and you can’t save infinite binary values). Once you choose your maximum value, convert it to binary and keep the number of bits in mind.
 
->  **1. **Begin by creating a binary save system (refer to **Attempt-Based Data 1** for instructions), but make sure you leave out the four Move triggers that save the value. If you want, you can assign the Pickup trigger and Collision Block `C` to the same Group; this saves one Group per digit and make future steps easier._
->  **2. **Make both of the Collision triggers Spawn-triggered and assign them to a new Group `A`.
->  **3. **Place down a Spawn trigger at the very start of the level and make it target Group `A`.
->  **4. **Copy-paste the entire system, excluding the new Spawn trigger. Move it at least four grid spaces away on the X-axis (as the Y-axis is irrelevant to the Blocks’ priority order) and use Build Helper to update all the Groups.
->  **5. **Select the Pickup trigger and open the Edit Object menu. There, click the :BluePlus: icon next to the Item ID field to target the next free Item ID.
->  **6. **Do the same for all of the Collision blocks’ Block ID fields, and update the Collision triggers accordingly.
->  **7. **Repeat steps `4` to `6` until the number of binary saves matches the number of bits for your maximum value.
+> **1. **Begin by creating a binary save system (refer to **Attempt-Based Data 1** for instructions), but make sure you leave out the four Move triggers that save the value. If you want, you can assign the Pickup trigger and Collision Block `C` to the same Group; this saves one Group per digit and make future steps easier._
+> **2. **Make both of the Collision triggers Spawn-triggered and assign them to a new Group `A`.
+> **3. **Place down a Spawn trigger at the very start of the level and make it target Group `A`.
+> **4. **Copy-paste the entire system, excluding the new Spawn trigger. Move it at least four grid spaces away on the X-axis (as the Y-axis is irrelevant to the Blocks’ priority order) and use Build Helper to update all the Groups.
+> **5. **Select the Pickup trigger and open the Edit Object menu. There, click the :BluePlus: icon next to the Item ID field to target the next free Item ID.
+> **6. **Do the same for all of the Collision blocks’ Block ID fields, and update the Collision triggers accordingly.
+> **7. **Repeat steps `4` to `6` until the number of binary saves matches the number of bits for your maximum value.
 
 None
 

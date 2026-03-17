@@ -29,7 +29,7 @@ This guide will assume that you’re working with 2-point perspective, as it mak
 
 # 1: Basic Plane Operations
 
-A **plane** is a __flat, 2D rectangle positioned in a 3D space__. Planes are useful for making complex forms because you can create any shape inside a plane, position the plane in 3D space, then create that shape in perspective. It's an incredibly useful tactic which is used to draw all sorts of complex objects, from cars and airplanes to bridges and buildings. You’ll learn more about this process in the next few guides,  but for now let’s start with manipulating rectangular planes.
+A **plane** is a __flat, 2D rectangle positioned in a 3D space__. Planes are useful for making complex forms because you can create any shape inside a plane, position the plane in 3D space, then create that shape in perspective. It's an incredibly useful tactic which is used to draw all sorts of complex objects, from cars and airplanes to bridges and buildings. You’ll learn more about this process in the next few guides, but for now let’s start with manipulating rectangular planes.
 
 Cutting forms into pieces is an important operation that’ll save you a lot of time when making constructions. Similarly, multiplying the same plane multiple times in perspective is very useful. Both of these operations work by cutting planes apart.
 

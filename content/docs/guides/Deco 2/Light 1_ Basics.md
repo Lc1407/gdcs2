@@ -76,7 +76,7 @@ Adding occlusion enhances the realism of what you are rendering. The image below
 
 {{< img src="https://lh3.googleusercontent.com/d/1DpIfXgREBa_H8SoI3gOw2ZCl98DiknK3" >}}
 
-Another example is this sphere shown below.  The light bounces off of the ground which creates soft light on the underside of the sphere.
+Another example is this sphere shown below. The light bounces off of the ground which creates soft light on the underside of the sphere.
 
 {{< img src="https://lh3.googleusercontent.com/d/1pfl5iVsOKiKedivoQS7Y2IvOHfDmaxto" >}}
 

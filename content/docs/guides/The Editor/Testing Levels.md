@@ -62,8 +62,8 @@ These are the playtesting-related features that you’ll find by pausing the edi
 
 {{< img src="https://lh3.googleusercontent.com/d/1S2qGHyKBozXaYJ-03X7tjOj7Q6nCgCBe" >}}
 
-- **Playtest Music:**  Plays the music whenever you playtest.
-- **Playtest No Grid:**  Removes the grid when playtesting.
+- **Playtest Music:** Plays the music whenever you playtest.
+- **Playtest No Grid:** Removes the grid when playtesting.
 - **Playtest No UI:** Removes the editor's user interface (UI) when playtesting.
 ## Options Menu (Page 2)
 
@@ -98,7 +98,7 @@ You can enable it in the in-game pause menu in the gear icon at the top right. T
 
 - **Level ID:** Displays the ID of the level that you are playing. If it’s not yet uploaded, it will have an ID of `0`.
 
--  **Time:** Shows how long you've been playing the level. It resets when you die or restart, and keeps on going even when you stay in the “Level Complete” screen.
+- **Time:** Shows how long you've been playing the level. It resets when you die or restart, and keeps on going even when you stay in the “Level Complete” screen.
 
 - **Attempts:** Displays how many times you’ve died. The attempt count resets if you leave or complete the level.
 

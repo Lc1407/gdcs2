@@ -21,7 +21,7 @@ draft: false
 ** **
 # 1: Basics
 
-Advanced Follow is split into three triggers:  **Advanced Follow**, **Edit Adv Follow**, and **Re-Target Adv Follow**. *Note that the last two triggers require an active advanced follow in the level to function.*
+Advanced Follow is split into three triggers: **Advanced Follow**, **Edit Adv Follow**, and **Re-Target Adv Follow**. *Note that the last two triggers require an active advanced follow in the level to function.*
 
 Active Advanced Follow triggers persist even when toggled off. To stop them, you need to use a Stop or Pause trigger. This also applies to Edit Advanced Follow and Re-target Advanced Follow triggers targeting an active Advanced Follow trigger.
 
@@ -83,7 +83,7 @@ The box beside this option allows you to input a singular object's group. The ta
 - **Acceleration:** Sets the objects’ acceleration. They will continue to accelerate until the max speed is reached.
 - **Friction**: The friction applied to the objects as they move.
 - **NearDist:** Sets the distance for which objects are considered near the target. *Note that one block is equal to 30 units.*
-- **NearFriction**: The object’s friction when it  near the target. What counts as near is configured by the NearDist value.
+- **NearFriction**: The object’s friction when it near the target. What counts as near is configured by the NearDist value.
 - **NearAccel**: The object’s acceleration when it moves near the target. What counts as near is configured by the NearDist value.
 
 {{< youtube 5Gp9EL9s-ZI >}} 
@@ -122,7 +122,7 @@ This trigger lets you edit certain properties of an active advanced follow trigg
 *Note that Control ID may not appear in Extra 2 due to a possible bug, but this may be fixed in the future.*
 - **Redirect Dir**: Redirects the direction towards a reference object, whose group you input in an input box towards the bottom right.
 
-In this video, there are 3 edit advanced follow triggers. The first one accelerates  the spike toward the top of the screen. This can be changed by setting an angle in “Dir”.
+In this video, there are 3 edit advanced follow triggers. The first one accelerates the spike toward the top of the screen. This can be changed by setting an angle in “Dir”.
 
 The second trigger does the same as the first, but now a small triangle is set as the reference object. You can see the spike move towards it instead of the top of the screen. You can still offset this by using “Dir”.
 

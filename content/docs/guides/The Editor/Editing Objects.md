@@ -123,7 +123,7 @@ Objects will either have a "Base" color, a "Detail" color, or both. This doesnâ€
 
 To change an object's color, choose its "Base" or "Detail" tab, then click on one of the buttons. Each numbered button, along with the "P-Col 1", "P-Col 2", "Light BG", and "Default" buttons, are color channels. You can change their color by clicking on the color square in the bottom right.
 
-You can use the "Next Free" button to select the next unused color channel, the "HSV" button to modify an object's colors independent of its color channel, and the {{< img src="images/GDEmotes/Buttons/RGB.png" class="emote">}} button to adjust a color channel in real-time. Clicking the {{< img src="images/GDEmotes/Buttons/RGB.png" class="emote">}}  button a second time adjusts an object's HSV as well in real-time.
+You can use the "Next Free" button to select the next unused color channel, the "HSV" button to modify an object's colors independent of its color channel, and the {{< img src="images/GDEmotes/Buttons/RGB.png" class="emote">}} button to adjust a color channel in real-time. Clicking the {{< img src="images/GDEmotes/Buttons/RGB.png" class="emote">}} button a second time adjusts an object's HSV as well in real-time.
 
 {{< youtube H1qWm5d2xCc >}} }}
 

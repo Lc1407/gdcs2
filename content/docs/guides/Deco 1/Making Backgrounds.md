@@ -30,9 +30,9 @@ For maximum effectiveness, ensure that your background and foreground ideas aren
 
 **2: Background Contrast**
 
-The background must contrast from the foreground  so that it is easy to distinguish between the two at simply a glance. You don’t want your blocks to blend in with the background, as that’ll make it hard to see where the gameplay is.
+The background must contrast from the foreground so that it is easy to distinguish between the two at simply a glance. You don’t want your blocks to blend in with the background, as that’ll make it hard to see where the gameplay is.
 
-Furthermore, with enough contrast you can establish a focal point for your level.  Do you want the player to focus on the level’s background, or should the player be drawn to the block design instead? Your decisions here will affect what people focus on, and as such, what should be more detailed.
+Furthermore, with enough contrast you can establish a focal point for your level. Do you want the player to focus on the level’s background, or should the player be drawn to the block design instead? Your decisions here will affect what people focus on, and as such, what should be more detailed.
 
 Consider the following methods of making contrast, and determine which of them would be most appropriate for your level. This is not an exhaustive list, but is enough for a start.
 
@@ -46,11 +46,11 @@ One thing you can do is make less important details contrast less. For example, 
 
 Here are some levels which use detail contrast effectively.
 
-`Bloomng`’s part in `Honeydew`  – The background is low contrast in color, with only a few subtle brightness and hue changes in the leaves and the sky. Additionally, it is quite simple in terms of details. This differs from the foreground, which has a high contrast in color between the gray stone, the green grass, and the flowers – all of which have lots of detail. This way, the player’s attention is dominated by the foreground.
+`Bloomng`’s part in `Honeydew` – The background is low contrast in color, with only a few subtle brightness and hue changes in the leaves and the sky. Additionally, it is quite simple in terms of details. This differs from the foreground, which has a high contrast in color between the gray stone, the green grass, and the flowers – all of which have lots of detail. This way, the player’s attention is dominated by the foreground.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jLplew2Dwsw" frameborder="0" allowfullscreen></iframe>
 
-`No Return` (Preview) by `Culuc` and `nikrodox`  – The background is the main focus for this particular section. The foreground is intentionally left as a solid color to allow the background to stand out more.
+`No Return` (Preview) by `Culuc` and `nikrodox` – The background is the main focus for this particular section. The foreground is intentionally left as a solid color to allow the background to stand out more.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tuN6gERbMk0" frameborder="0" allowfullscreen></iframe>
 
@@ -64,11 +64,11 @@ Sometimes, you may have an orb that happens to match the color of the background
 
 Here are some examples of levels which use brightness contrast well.
 
-`Reunomi`’s part in `Scorpius`  – The foreground block design is considerably darker than the background, allowing you to clearly see the shape of the structures.
+`Reunomi`’s part in `Scorpius` – The foreground block design is considerably darker than the background, allowing you to clearly see the shape of the structures.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7HJPL4RLZdc" frameborder="0" allowfullscreen></iframe>
 
-`Dynamical` by `HanStor`  – This level uses a more abstract style. Even so, notice how despite the numerous changes in hue, the difference in brightness between the foreground and background is maintained throughout the level.
+`Dynamical` by `HanStor` – This level uses a more abstract style. Even so, notice how despite the numerous changes in hue, the difference in brightness between the foreground and background is maintained throughout the level.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4wl_mpnIjGI" frameborder="0" allowfullscreen></iframe>
 

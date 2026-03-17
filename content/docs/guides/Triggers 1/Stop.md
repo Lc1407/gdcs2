@@ -31,7 +31,7 @@ Note that Stop triggers can crash the game if used in certain ways. If a Stop tr
 
 # 2: Pause & Resume
 
-Pause and Resume are two new options in the Stop trigger. The Pause option acts similarly to the stop trigger, however, triggers can resume their functions when targeted by a Resume option. The Resume option takes the remaining trigger data and uses it to finish what  was originally paused.
+Pause and Resume are two new options in the Stop trigger. The Pause option acts similarly to the stop trigger, however, triggers can resume their functions when targeted by a Resume option. The Resume option takes the remaining trigger data and uses it to finish what was originally paused.
 
 To use these options, place down a Stop trigger, go to {{< img src="images/GDEmotes/Buttons/EditObject.png" class="emote">}} Edit Object, and click on "Pause" or "Resume".
 

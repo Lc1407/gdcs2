@@ -49,7 +49,7 @@ https://lh3.googleusercontent.com/d/1siYhNVkA6XillqiLl2TAkxk4Pj8iL9ke >}}
 
 Besides this, here are some other examples of slow gameplay.
 
-One good example of slow gameplay is `ISO` by `Mzero` and `Xzer`  at 89 seconds. The slow part here uses a variety of moving objects that fade in and out to keep the player on their toes. There’s enough happening to eliminate the “boring” aspect of slow gameplay.
+One good example of slow gameplay is `ISO` by `Mzero` and `Xzer` at 89 seconds. The slow part here uses a variety of moving objects that fade in and out to keep the player on their toes. There’s enough happening to eliminate the “boring” aspect of slow gameplay.
 
 {{< youtube EBh8YLYSFcA >}} 
 

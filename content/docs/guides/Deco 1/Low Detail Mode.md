@@ -29,7 +29,7 @@ Generally speaking, the game does calculations for every object in a level. By t
 For the scope of this guide, 2 factors come to mind: **active object counts** and **object properties**.
 
  ## Active Objects
-[Show Info Label](<https://discord.com/channels/414295025883545600/1083170592573902868/1216773432025550949>) has a description that measures the amount of active objects that are visible on  screen at any given moment.
+[Show Info Label](<https://discord.com/channels/414295025883545600/1083170592573902868/1216773432025550949>) has a description that measures the amount of active objects that are visible on screen at any given moment.
 
 Every detail created, every orb that was placed, and every trigger that was set up contributes to your level’s object count. Those corner pieces and low-opacity blocks that you might have used for parallax or texturing will also add up in the object count. With high active object counts, the risk of lag and input delays increase, which can affect the level’s experience as a whole.
 
@@ -47,7 +47,9 @@ While blending and opacity eat up a level’s performance, it wasn't a problem b
 
 Historically, lag started to become an issue once Update 2.0 came out with groups, animated objects, and more triggers such as the Move and Spawn Trigger. Minigame levels are the best example, as triggers go beyond editing colors, the risk of lag increases.
 
-These features snowballed to Updates 2.1 and 2.2 where players grew more concerned about lag, level performance, and optimizing details for effects and trigger setups to effectively create the vision they wanted. Additionally, with some mods allowing creators to bypass the object count limit, levels reached as high as [1 million objects](<https://youtu.be/Htg4aIoRcYw >}}   si=hacIGUodFEURDHNe>).
+These features snowballed to Updates 2.1 and 2.2 where players grew more concerned about lag, level performance, and optimizing details for effects and trigger setups to effectively create the vision they wanted. Additionally, with some mods allowing creators to bypass the object count limit, levels reached as high as 1 million objects.
+
+https://youtu.be/Htg4aIoRcYw?si=hacIGUodFEURDHNe
 
 # 2: Low Detail Mode
 
@@ -124,7 +126,7 @@ While there are curved objects available in the editor, sometimes they might not
 
 ## 1b Scaling/Warping
 
-**Scaling**  is another simple way to reduce object counts. By making one object take up more space, you can use far fewer objects to fill in the needed space. Note that this is much easier with warping.
+**Scaling** is another simple way to reduce object counts. By making one object take up more space, you can use far fewer objects to fill in the needed space. Note that this is much easier with warping.
 
 > *Warning*: GD renders large objects differently depending on their hitboxes but this can be remedied by ticking NoTouch to remove the hitbox. Be careful with this because it can cause visual errors.
 
@@ -132,7 +134,7 @@ While there are curved objects available in the editor, sometimes they might not
 
 ## 1c Object Types
 
-**Object Types** is the strongest way to efficiently optimize, although using this requires more experience. Essentially, some objects can be sufficient to maintain similar quality with far lower object counts. These optimized objects will depend on what you’re trying to do with the unoptimized objects as shown in[Creating Details](<https://discord.com/channels/414295025883545600/1233710767895740456/1233710767895740456>).  For example, you can get away with using the wood objects in the 1st and 9th tabs in the editor instead of making your own custom wood. In general, be aware that custom assets will always be more inefficient than using default objects, which includes things like creating custom curves instead of default curves.
+**Object Types** is the strongest way to efficiently optimize, although using this requires more experience. Essentially, some objects can be sufficient to maintain similar quality with far lower object counts. These optimized objects will depend on what you’re trying to do with the unoptimized objects as shown in[Creating Details](<https://discord.com/channels/414295025883545600/1233710767895740456/1233710767895740456>). For example, you can get away with using the wood objects in the 1st and 9th tabs in the editor instead of making your own custom wood. In general, be aware that custom assets will always be more inefficient than using default objects, which includes things like creating custom curves instead of default curves.
 
 With other object types that have both base and detail color channels, you can also make use of partial masking to make them part of a detail.
 

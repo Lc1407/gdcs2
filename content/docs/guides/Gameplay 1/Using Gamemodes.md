@@ -176,7 +176,7 @@ As mentioned earlier, Cube is reliant on orbs due to its simplicity. We don’t 
 
 The Cube takes good advantage of holding after orbs, as holding after a black orb or a blue orb straight onto a platform will make the player automatically jump. This can make the Cube more unique, but can also be buggy at times so use it well. When holding before an orb, you’ll automatically click it when making contact. Keep in mind that the yellow orb functions exactly like a normal jump, allowing mixups, but it can also make the yellow orb feel less unique.
 
-Here’s an example Cube part I made that uses orbs and  the Cube’s natural properties to my advantage. I chose it here because it’s snappy enough to function in fast, strong parts and can emphasize the high-cps parts well, while also being  simple enough to ease the player into the drop.
+Here’s an example Cube part I made that uses orbs and the Cube’s natural properties to my advantage. I chose it here because it’s snappy enough to function in fast, strong parts and can emphasize the high-cps parts well, while also being simple enough to ease the player into the drop.
 
 {{< img src="https://lh3.googleusercontent.com/d/1HYyehxc6y0xKwCo0QW-ygAaD9HLNKPjG" >}}
 
@@ -239,7 +239,7 @@ This Robot part is the very first part in my level. The song is slow and low ene
 ## Spider
 The Spider is the most powerful gamemode for emphasizing notes, and is successful at repetition too. Though it may look stale and uninteresting, only going up and down, the instantaneous teleportation combined with some interactions with orbs makes it an extremely bouncy and fun gamemode.
 
-Like the Cube, holding after of a black orb will perform a click as soon as you land (though not with a blue orb). This allows you to make clicks much more consistent as well as control the flow of the part much easier. In addition, clicking into a pad will instantly activate it, letting you  bounce, change gravity, or do whatever you want after a click. This constant up and down combined with bounces and orbs is extremely satisfying; you can see an example of it in this part of TROLLMACHINE.
+Like the Cube, holding after of a black orb will perform a click as soon as you land (though not with a blue orb). This allows you to make clicks much more consistent as well as control the flow of the part much easier. In addition, clicking into a pad will instantly activate it, letting you bounce, change gravity, or do whatever you want after a click. This constant up and down combined with bounces and orbs is extremely satisfying; you can see an example of it in this part of TROLLMACHINE.
 
 {{< youtube VSw1c3L8szo >}} 
 
@@ -263,7 +263,7 @@ The swing is the slowest of all gamemodes, which is why I thought it would fit a
 # 4: Conclusion
 
 In the end, this guide is still just a beginners guide for you to understand how to choose and use your gamemodes. As time goes on and you get more and more experienced, you will be able to make intentional choices based on your own gameplay ideas, and use them effectively.
-One common misconception you may have from this guide is that every part must have a *single standalone gamemode* in it. This is not true at all; a part can have as many gamemodes as you want,  as long as you have a good reason for it and you’re actually utilizing the gamemodes.
+One common misconception you may have from this guide is that every part must have a *single standalone gamemode* in it. This is not true at all; a part can have as many gamemodes as you want, as long as you have a good reason for it and you’re actually utilizing the gamemodes.
 
 The part below is a video of me using multiple gamemodes in a single part of the song, yet it still works well because I’m using them intentionally. I have a reason for each gamemode and I’m using them for that reason; notice as well that I’m using ball, ufo, ship (with orbs), cube, and spider, all gamemodes that work well with high speed, as well as robot at the end to emphasize the ending and some clicks. Admittedly I wouldn’t do this in an actual level because the song didn’t change much between this and the previous Spider, so this is purely for demonstration purposes.
 
@@ -273,5 +273,5 @@ Lastly, here’s a video of the entire level if you’re interested in seeing ho
 
 {{< youtube FGAftuAcquM >}} 
 
-**Video:** https://youtu.be/Se2KWB1XgfE >}}   si=tkpneccEJD-VfMcv
+**Video:** https://youtu.be/Se2KWB1XgfE >}} si=tkpneccEJD-VfMcv
 

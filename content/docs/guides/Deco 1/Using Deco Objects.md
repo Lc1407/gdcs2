@@ -166,5 +166,5 @@ You can also combine opacity with blending, of course. This makes your blending 
 Finally, note that you can use low opacity copies of objects to create blurred shapes, which is quite time-efficient.
 
 {{< youtube UoXnI6ni1ww >}} 
-**Video:** [How To DECORATE in Geometry Dash!](https://youtu.be/3ofZI82lKQ8 >}}   si=a5bXL1ilq24c9C_N)
+**Video:** [How To DECORATE in Geometry Dash!](https://youtu.be/3ofZI82lKQ8 >}} si=a5bXL1ilq24c9C_N)
 

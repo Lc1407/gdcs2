@@ -52,7 +52,7 @@ __Adjacent colors on the color wheel__ are called **analogous colors**. Hues are
 
 An example of analogous colors would be green, yellow, and orange.
 ## Triadic Colors
-__Colors that occupy equidistant thirds on the color wheel__ are called **triadic colors**.  Hues are always 60° away from each other when using Triadic Colors.
+__Colors that occupy equidistant thirds on the color wheel__ are called **triadic colors**. Hues are always 60° away from each other when using Triadic Colors.
 
 An example of triadic colors would be red, blue, and yellow.
 

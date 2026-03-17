@@ -15,9 +15,9 @@ draft: false
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 
-   - Randomizers can be used to change a level every attempt, from simple color changes to randomizing the layout every few seconds.
-   - Most randomizers require player input, with the exception of the Shake Trigger randomizer.
-   - No randomizer is truly random, as most of them can be "cheated" through specific click patterns. The exception to this is once again, the Shake Trigger randomizer.
+  - Randomizers can be used to change a level every attempt, from simple color changes to randomizing the layout every few seconds.
+  - Most randomizers require player input, with the exception of the Shake Trigger randomizer.
+  - No randomizer is truly random, as most of them can be "cheated" through specific click patterns. The exception to this is once again, the Shake Trigger randomizer.
 
 {{< /callout >}}
 
@@ -51,7 +51,7 @@ This method uses a circle of collision blocks to randomize the group toggled on.
 
 2. Assign unique collision IDs to each of these blocks.
 3. Place another collision block with a new group on the circumference of this circle. Make sure it has a unique collision ID and is a Dynamic Block. We'll call this collision block `` A.``
-4. Place a Rotate trigger which rotates  collision block ``A`` on the circumference. which means it needs the same center point as the circle, just with a different group. There's no specific parameters for this trigger, but large rotations or even multiple loops are preferable. Give this trigger a new group and enable Spawn Triggered and Multi-Triggered.
+4. Place a Rotate trigger which rotates collision block ``A`` on the circumference. which means it needs the same center point as the circle, just with a different group. There's no specific parameters for this trigger, but large rotations or even multiple loops are preferable. Give this trigger a new group and enable Spawn Triggered and Multi-Triggered.
 5. Place a touch trigger which toggles the group with the rotate trigger. Enable Hold Mode.
 6. Assign each collision block on the circle their own unique collisions that toggle their variant ON and toggle all other variants OFF.
 
@@ -78,7 +78,7 @@ The Target ID is the group you want to activate. Make sure each trigger has a di
 
 Noam's randomizer is the closest you can get to full randomization in GD. It's also fairly simple, and can be placed anywhere. However, just like the Collision Roulette, it needs player input to activate.
 
-Here's a video of the setup as well: https://youtu.be/tbzdZJQWaAc >}}  
+Here's a video of the setup as well: https://youtu.be/tbzdZJQWaAc >}} 
 # 4: Shake Trigger Randomizer
 
 This randomizer abuses an interaction between the shake trigger and dual mode in order to create randomness, and requires no player input.
@@ -99,6 +99,6 @@ This randomizer does not require any player input, and is fully random. However,
 
 # Sources
 
-- <https://youtu.be/LbPYygtpxJk >}}   
-- <https://youtu.be/guOzs1aU_Us >}}   
-- <https://youtu.be/tbzdZJQWaAc >}}   
+- <https://youtu.be/LbPYygtpxJk >}} 
+- <https://youtu.be/guOzs1aU_Us >}} 
+- <https://youtu.be/tbzdZJQWaAc >}} 

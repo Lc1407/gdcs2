@@ -14,7 +14,7 @@ draft: false
 
 ## TLDR - What this guide covers
 - Patience is a key ingredient when it comes to creating in Geometry Dash.
--  It allows you to take the time needed to create a well-designed level, to test and refine your level until it's balanced and enjoyable, to deal with setbacks and obstacles in a calm and productive way, and to enjoy the process of creating.
+- It allows you to take the time needed to create a well-designed level, to test and refine your level until it's balanced and enjoyable, to deal with setbacks and obstacles in a calm and productive way, and to enjoy the process of creating.
 - You can become more patient by being open to making changes in your levels, doing your best to stay calm, and taking breaks.
 
 ** **

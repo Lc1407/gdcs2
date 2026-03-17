@@ -12,7 +12,7 @@ draft: false
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - The last gameplay-related triggers are the Show/Hide Player, Show/Hide Player Trail, BG Effect On/Off.
--  All of these are self explanatory and easy to set up.
+- All of these are self explanatory and easy to set up.
 
 {{< /callout >}}
 

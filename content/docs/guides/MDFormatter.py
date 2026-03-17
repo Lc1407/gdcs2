@@ -36,7 +36,7 @@ def format_media(lines):
 
         # replace any bugs
         html2 = re.sub(r'( >}}){2,}', ' >}} ', html2)
-        html2 = re.sub(r'^(?<=.+) {2,}', ' ', html2)
+        html2 = re.sub(r'(?<=.) {2,}', ' ', html2)
 
         if (html2 != html):
             isChanged = True

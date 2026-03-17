@@ -24,7 +24,7 @@ To install plugins on FL Studio, make sure to have a .vst3 or .vst file prepared
 
 {{< img src="https://lh3.googleusercontent.com/d/1MWDmAY4PZxxDtfxw-U4LwBsSq5JoaXMy" >}}
 
-From here, you’ll want to place the plugin file you downloaded in a directory under  “Plugin search paths”. If you would like to add your own file path destination for searching for plugins, click on the folder to the far left of the list.
+From here, you’ll want to place the plugin file you downloaded in a directory under “Plugin search paths”. If you would like to add your own file path destination for searching for plugins, click on the folder to the far left of the list.
 
 {{< img src="https://lh3.googleusercontent.com/d/1rGawnK13UqVbgU-PMvUF5wuhOVyFrsmH" >}}
 
@@ -78,7 +78,7 @@ Only one waveform playing sounds pretty empty. Lets use unison to create more sp
 
 There are two sliders which we can utilize called Voices and Detuning. Voices are the main aspect of Unison; voices allow you to create multiple sounds of the same waveform playing with the same pitch by multiplying the signal that’s produced by the oscillator.
 
-Detuning allows voices to separate from each other, creating off-pitch voices that make a  chorus-like effect.
+Detuning allows voices to separate from each other, creating off-pitch voices that make a chorus-like effect.
 
 # 3: Layering Synthesis
 
@@ -94,9 +94,9 @@ The example below showcases taking away the high end of a frequency with an osci
 
 https://cdn.discordapp.com/attachments/396504131088547842/1304490189866926212/2024-11-08_11-57-06.mp4?ex=672f94a9&is=672e4329&hm=5a1907a11a379385f79d36f9cac013a9ff355afd6cda233227cb2abd27f93589&
 
-# 4:  Noise / Samplers
+# 4: Noise / Samplers
 
-**Samplers**, or SMP for short, is __a playback mode for your synth to add texture to the  sound.__ The most common forms of SMP are different forms of white noise.
+**Samplers**, or SMP for short, is __a playback mode for your synth to add texture to the sound.__ The most common forms of SMP are different forms of white noise.
 
 White noise usually covers the high end frequencies of sound, and are generally made to fill out more space. A good analogy to this is cooking something with salt. You obviously want to add salt to bring in more flavors to your food, and it works the same way in sound design.
 

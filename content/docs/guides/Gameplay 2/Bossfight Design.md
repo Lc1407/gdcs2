@@ -67,7 +67,7 @@ When an action is performed, you should instantly get a response, telling you wh
 
 How exactly do you create feedback? Tying into the point of conveying information quickly, attacks should be clear to the player. If the boss dashes in a direction, you should instantly understand that you need to move and avoid the attack. If projectiles fall from the ceiling, you should stand in between them in spots where they don’t hit. These are examples of the boss giving *feedback* to your actions.
 
-Feedback may tell you what to do the next time you face an attack, but that won’t help at all if you’re confused by what the boss is even going to do. The player might understand how to dodge attacks and punish the boss, but if they can’t quickly  understand what the attack will be, then it gets frustrating as they just have to hope to not get hit. The solution to this problem is to have the boss be visually clear as well.
+Feedback may tell you what to do the next time you face an attack, but that won’t help at all if you’re confused by what the boss is even going to do. The player might understand how to dodge attacks and punish the boss, but if they can’t quickly understand what the attack will be, then it gets frustrating as they just have to hope to not get hit. The solution to this problem is to have the boss be visually clear as well.
 
 ## Visual Information
 Just like how you should be able to tell what’s right and wrong against a boss, you should understand what the boss is doing too. This section delves a bit into the animation aspect of a boss, but it’s still important to understand this to make your attacks fair. An enemy’s attack is split into 3 parts:

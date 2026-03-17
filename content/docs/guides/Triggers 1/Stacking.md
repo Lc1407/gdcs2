@@ -66,7 +66,7 @@ When multiple of these triggers are active simultaneously, their effects combine
 
 {{< img src="https://lh3.googleusercontent.com/d/1SaTDl9STVioO1tEMkSK0SLXnjCzZ3eVo" >}}
 
-Additionally, stacking two rotate triggers with opposite directions (e.g. 60 degrees for one, -60 degrees for the other) makes an object move in a straight line. This can be used to make objects move and rotate at the same time, as shown here: https://youtu.be/glsG87Ipg0Q >}}  
+Additionally, stacking two rotate triggers with opposite directions (e.g. 60 degrees for one, -60 degrees for the other) makes an object move in a straight line. This can be used to make objects move and rotate at the same time, as shown here: https://youtu.be/glsG87Ipg0Q >}} 
 - **Follow Triggers**
 
 Stacking follow triggers is complex and heavily dependent on the way you do it.

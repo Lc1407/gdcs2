@@ -25,7 +25,7 @@ Providing useful feedback is no easy task. You have to account for a lot of fact
 
 - **Don’t be overbearing.** While being honest is usually the best policy you should follow, you shouldn’t overwhelm the person that asked for help. Dumping excessive amounts of criticism will probably demotivate them instead of helping them. Instead, try to focus on one major issue at a time so they can make adjustments accordingly while keeping their own vision.
 
-- **Explain your reasoning and be constructive**. Randomly pointing out problems won’t help most people understand how to fix them, so try to provide solutions and justify the changes you suggest. To give an example, saying  “I don't like the green in the background” is much less helpful than saying “The green in the background doesn’t really go well with the rest of the level because it stands out too much; you could use a purplish-blue instead.”
+- **Explain your reasoning and be constructive**. Randomly pointing out problems won’t help most people understand how to fix them, so try to provide solutions and justify the changes you suggest. To give an example, saying “I don't like the green in the background” is much less helpful than saying “The green in the background doesn’t really go well with the rest of the level because it stands out too much; you could use a purplish-blue instead.”
 
 **2: Receiving Feedback**
 
@@ -53,4 +53,4 @@ Once you find where you'll ask for feedback, *knowing what to get feedback on is
 - <https://habr.com/ru/post/556326/>
 - <https://www.unisender.com/ru/blog/idei/fidbek-chto-eto-takoe-i-kak-davat-obratnuyu-svyaz/>
 
-**Video:** https://youtu.be/NKtJXrD5F6Y >}}  
+**Video:** https://youtu.be/NKtJXrD5F6Y >}} 

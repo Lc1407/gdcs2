@@ -88,18 +88,18 @@ $$
 We can build this using the following algorithm:
 ```
 Objects:
-    X: Real variable // already set
-    Exp, U: Float variables set to 1
-    PrevExp: Float variable set to 0 // used to stop the **Do** while loop
-    k: Integer variable set to 1
-    Tolerance: constant set to 0.01 // used to stop the **Do** while loop
+  X: Real variable // already set
+  Exp, U: Float variables set to 1
+  PrevExp: Float variable set to 0 // used to stop the **Do** while loop
+  k: Integer variable set to 1
+  Tolerance: constant set to 0.01 // used to stop the **Do** while loop
 Start:
-    Do {
-        PrevExp = Exp       # PrevExp will keep track of the current value of Exp
-        U = (U * X)/k       # calculates the value of x^k/k!
-        Exp = Exp + U       # update the value of Exp
-        k = k + 1           # increase the index
-    } While ( Abs(Exp - PrevExp) >= Tolerance )     # repeat until the difference is as small as we want
+  Do {
+  PrevExp = Exp # PrevExp will keep track of the current value of Exp
+  U = (U * X)/k # calculates the value of x^k/k!
+  Exp = Exp + U # update the value of Exp
+  k = k + 1 # increase the index
+  } While ( Abs(Exp - PrevExp) >= Tolerance ) # repeat until the difference is as small as we want
 End
 ```
 

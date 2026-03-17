@@ -54,5 +54,5 @@ The curves here are created by using the Area Move trigger to smoothly move the 
 
 
 
-**Video:** [Geometry Dash 2.2’s OP Gradient Trigger! (Tutorial)](https://youtu.be/jhP4Tt_OpA0 >}}   si=VUeBGlPy1806EiqA)
+**Video:** [Geometry Dash 2.2’s OP Gradient Trigger! (Tutorial)](https://youtu.be/jhP4Tt_OpA0 >}} si=VUeBGlPy1806EiqA)
 

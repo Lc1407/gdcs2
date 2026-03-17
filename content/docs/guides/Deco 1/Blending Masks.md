@@ -12,7 +12,7 @@ draft: false
 
 # 1: How Blending Works
 
-Every color is composed of three primary colors:  red, green, and blue (RGB). The intensities of these colors depend on their number values, which range from 0 to 255. For example, pure red would have an RGB value of (255, 0, 0), or 255 red, 0 green, and 0 blue.
+Every color is composed of three primary colors: red, green, and blue (RGB). The intensities of these colors depend on their number values, which range from 0 to 255. For example, pure red would have an RGB value of (255, 0, 0), or 255 red, 0 green, and 0 blue.
 
 The process of **additive blending**, or simply **blending** (as it is referred to in Geometry Dash), __takes the RGB values from two colors and adds them together to produce a new color__ with a new set of RGB values. As an example, using additive blending to combine red (255, 0, 0) and blue (0, 0, 255) produces magenta (255, 0, 255).
 
@@ -184,5 +184,5 @@ It's important the blending colors are semi-transparent, because if they were fu
 - The Blending feature in the editor allows you to combine the colors of objects by adding their RGB values together.
 - Masking is one of the many applications of this feature.
 
-**Video:** [Everything About Colors Explained in 28 Minutes (Geometry Dash)](https://youtu.be/P2r4Z5kbx7M >}}  si=OXRptoIaYPXfi597&t=1274)
+**Video:** [Everything About Colors Explained in 28 Minutes (Geometry Dash)](https://youtu.be/P2r4Z5kbx7M >}} si=OXRptoIaYPXfi597&t=1274)
 

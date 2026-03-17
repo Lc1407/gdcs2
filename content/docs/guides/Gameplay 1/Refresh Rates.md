@@ -27,7 +27,7 @@ This is a value that shows how fast a display screen can renew images, usually e
 
 GD physics generally affect how the player interacts with hitboxes in the level. Every interactable object, such as saws and outlined blocks, has a hitbox. When the player’s hitbox collides with these objects’ hitboxes, an event is triggered that changes what the player is currently doing. The game checks for these collisions every frame, and executes the event the same frame it detects the collision.
 
-This video  shows an example of how this works. The important fact here is that since detection occurs every frame, changes to game physics also occur every frame. This means that the higher your framerate, the more control you'll get over your icons and the more accurate you can be.
+This video shows an example of how this works. The important fact here is that since detection occurs every frame, changes to game physics also occur every frame. This means that the higher your framerate, the more control you'll get over your icons and the more accurate you can be.
 
 {{< youtube jHHmPqjRqZY >}} 
 

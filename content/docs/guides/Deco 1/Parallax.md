@@ -34,13 +34,13 @@ In this guide, however, we’ll focus on two theoretical concepts to learn how t
 
 __Your parallax is based around this **reference point**__. Objects further from the reference point will appear to move faster, while objects that are near will appear to move slower.
 
-If the reference point is infinitely far away, then it practically doubles as a vanishing point. Everything will move in the same direction, and something infinitely far away will appear to be stationary. This is the way things will appear when you’re moving in a perfectly straight line and looking to your side. Observe this the next time you’re [in a car.](<https://youtu.be/SgmwyoRCHxM >}}   si=CKmHtUYI7sZOLEm7&t=4>)
+If the reference point is infinitely far away, then it practically doubles as a vanishing point. Everything will move in the same direction, and something infinitely far away will appear to be stationary. This is the way things will appear when you’re moving in a perfectly straight line and looking to your side. Observe this the next time you’re [in a car.](<https://youtu.be/SgmwyoRCHxM >}} si=CKmHtUYI7sZOLEm7&t=4>)
 
 If the reference point is finitely far away, everything in front of it will move in one direction. Everything behind it will move in the other direction. This is the way things appear when you’re moving in a circle/curve around a specific point. For example, try spinning around in one place and you'll notice that things closer to you appear to move slower.
 
 https://tenor.com/view/attack-on-titan-the-final-season-part2ending-akuma-no-ko-a-child-of-evil-eren-yeager-attack-on-titan-gif-24626604
 
-[Still Life](<https://youtu.be/OpUG1Aim0wU >}}   si=sO-d-h-5xg7DQHZN&t=72>) by Empika places the reference point in the tower itself. The ground in front of the tower moves to the left while the ground behind the tower moves to the right.
+[Still Life](<https://youtu.be/OpUG1Aim0wU >}} si=sO-d-h-5xg7DQHZN&t=72>) by Empika places the reference point in the tower itself. The ground in front of the tower moves to the left while the ground behind the tower moves to the right.
 
 # 3: Relative Motion
 

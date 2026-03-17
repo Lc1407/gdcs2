@@ -120,4 +120,4 @@ Here are some examples from Chunlv1 which demonstrate this process.
 
 # Sources
 
-- [Proko: Structure Basics](<https://youtu.be/3uEtdDvK6Xo >}}   )
+- [Proko: Structure Basics](<https://youtu.be/3uEtdDvK6Xo >}} )

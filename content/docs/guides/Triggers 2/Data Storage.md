@@ -166,7 +166,7 @@ We also need to figure out what constitutes a valid save code. For this example,
 
 As before - you don’t need to follow these exact conditions; just use this as an example of how to build your own system.
 
-To check if the save code entered is valid, you must  check each Item ID for their specific conditions. If it meets those conditions, then you can increment another Item ID (which is ID 8 in this case). We can then use that ID to check if it’s equal to the number of conditions which need to be met; if so, the save code is valid and you can use its value to execute conditions within the level, like enabling certain checkpoints or changing the player’s outfit.
+To check if the save code entered is valid, you must check each Item ID for their specific conditions. If it meets those conditions, then you can increment another Item ID (which is ID 8 in this case). We can then use that ID to check if it’s equal to the number of conditions which need to be met; if so, the save code is valid and you can use its value to execute conditions within the level, like enabling certain checkpoints or changing the player’s outfit.
 
 For example: If I was to check for Lives, I would first check to see if Lives is greater than 0, then if it is less than 4. If it meets those conditions, then I would increment Item ID 8 by 1.
 
@@ -187,7 +187,7 @@ If you combine both of those methods, then you can end up with something like th
 
 The rest of this is fairly straightforward. To save this data, all you need is to display the Item IDs to the player when they request it. They can then write the code down somewhere, and input it later to continue playing.
 
-This example uses a fairly simple save & load system, but  you can make it much more complex. You can add letters and use more data cells, but there are pros and cons to everything. A more complex system lets you save more data and potentially encrypt it better, so players can’t easily share codes to bypass most of your level. However, this also results in longer input times and loading speeds, while using more groups.
+This example uses a fairly simple save & load system, but you can make it much more complex. You can add letters and use more data cells, but there are pros and cons to everything. A more complex system lets you save more data and potentially encrypt it better, so players can’t easily share codes to bypass most of your level. However, this also results in longer input times and loading speeds, while using more groups.
 
 # 4: Combining Save Systems
 

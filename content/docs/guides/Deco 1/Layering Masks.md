@@ -35,7 +35,7 @@ This is one of the simplest methods of masking. It relies on placing blocks over
 
 {{< img src="https://lh3.googleusercontent.com/d/1egI5A4iPrYM6QomZyElv6U5oc9W2PyUY" >}}
 
--  Impasse by G4lvatron
+- Impasse by G4lvatron
 
 {{< img src="https://lh3.googleusercontent.com/d/1hEkKRfTCtiOOouhQB5WNdS7tKVC8ayXx" >}}
 

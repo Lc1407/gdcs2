@@ -77,7 +77,7 @@ When creating a level, you’ll have to sacrifice a specific aspect of the level
 
 - If you focus on adding more details and optimizing them, it’ll take longer to finish building your level.
 - If you spend more time adding details, you won’t have a very optimized level.
-- If you focus on optimizing the level and spend your time there, you won’t have as  detailed of a level.
+- If you focus on optimizing the level and spend your time there, you won’t have as detailed of a level.
 
 As a more complex example, we can look at chess. Even with its simple rules, it comes with very rich and complex strategies. We’ll be focusing mainly on the many styles of play people can choose from. They usually fall into either the “aggressive” or “defensive” styles of play.
 

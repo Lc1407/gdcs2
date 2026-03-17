@@ -165,7 +165,7 @@ Shake triggers can be used to *exaggerate impact*, or emphasize a buildup with d
 
 
 
-**Video:** [Use 2.2 Camera Triggers CORRECTLY! (Tutorial)](https://youtu.be/Ib63PvOkxUY >}}   si=e-_wO79iRmVJrAfp)
+**Video:** [Use 2.2 Camera Triggers CORRECTLY! (Tutorial)](https://youtu.be/Ib63PvOkxUY >}} si=e-_wO79iRmVJrAfp)
 
 
 

@@ -58,6 +58,6 @@ This process isn’t limited to just teaching the player mechanics, although tha
 If you’re working with a song that remains calm throughout, your level should also be calm. If your song is intense throughout, you should make your level similarly intense. You can deviate from this structure sometimes, but that takes more experience to do well. These changes in long-term flow reflect how the song itself progresses, as you’ll notice in the examples below.
 
 `Atmos` (Layout) by `marwec`: https://www.youtube.com/watch?v=jHskEeV1ZI4
-`Duplication` by `Zeptoz` and more: https://youtu.be/KXTyr7ybFC4 >}}  
+`Duplication` by `Zeptoz` and more: https://youtu.be/KXTyr7ybFC4 >}} 
 Following this process forces players to use their prior knowledge to pass new parts of your level. It also encourages them to notice changes to its difficulty and intensity, which creates a feeling of progress. That’s the entire essence of progression; to ensure that the player feels that they’re taking meaningful steps forward as they play, and using that to make your level interesting over the long run.
 

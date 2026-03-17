@@ -50,8 +50,8 @@ We can expand this idea a bit further and discuss movements. While default movem
 
 One benefit of classifying movements like this is you can play around and experiment with them more effectively. Many layouts feel distinct just because of how their creators experimented with movements. Here are a few examples of that.
 
-**Königstein layout ** by `Marwec`:  https://youtu.be/atW00xP32-4 >}}  
-**Salamander Dance** by `Ilrell`: https://youtu.be/cbp5H6wlW0k >}}  
+**Königstein layout ** by `Marwec`: https://youtu.be/atW00xP32-4 >}} 
+**Salamander Dance** by `Ilrell`: https://youtu.be/cbp5H6wlW0k >}} 
 Just like in the prior part, a good balance of impacts is important here. Too many high-impact movements will feel repetitive and dull after a while; similarly, too few could leave the player bored. It’s best for you to find a good balance between these two extremes.
 
 **3: Rhythm and Flow State**

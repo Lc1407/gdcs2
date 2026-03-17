@@ -103,7 +103,7 @@ The result of stacking Follow triggers depends on how they are stacked:
 Pulse trigger modes can affect the way these triggers stack:
 
 - Pulse triggers in Color mode will use Progressive Override stacking.
-- Pulse triggers in HSV mode will use Mixed stacking;  Hue attributes always stack additively, while Saturation and Brightness attributes stack multiplicatively by default. They can stack additively if you enable their respective checkboxes.
+- Pulse triggers in HSV mode will use Mixed stacking; Hue attributes always stack additively, while Saturation and Brightness attributes stack multiplicatively by default. They can stack additively if you enable their respective checkboxes.
 - If you combine multiple Pulse triggers with different pulse modes, every time a Color mode trigger or a HSV mode trigger that pulses with a specific color ID activates, it will override all the other effects acting on the target group/channel.
 
 (Trigger Stacking - Pulse Stacking 1)
@@ -174,9 +174,9 @@ A single trigger gives limited options for modifying objects. For complex transf
 
 Trigger **splitting** can be defined as __separating transformations performed by a single trigger into many triggers__; if a trigger has parameters $A$ and $B$, it can be split into 2 triggers: One to modify $A$ with a set easing, and another to modify $B$ with a different easing. The final result will be equivalent to using one trigger to change both parameters, except with added freedom for easings and durations. For example, a move trigger can be split so that the first changes the $x$ component and the latter changes the $y$ component.
 
-(Stacking Transformations  - Transformation Splitting)
+(Stacking Transformations - Transformation Splitting)
 
-This is useful when you want certain parameters to behave independently, where one change in a component doesn't have to correspond with another. Some examples are simulating parabolic trajectories, having some parameters be player-controlled, or  plotting functions.
+This is useful when you want certain parameters to behave independently, where one change in a component doesn't have to correspond with another. Some examples are simulating parabolic trajectories, having some parameters be player-controlled, or plotting functions.
 
 ## Cumulative Movements
 
@@ -184,7 +184,7 @@ Stacking can also be used to combine or cancel effects between triggers. When st
 
 Sometimes, triggers stack in a **cumulative** manner, where __all triggers apply transformations that build up into a larger overall effect__. An application of cumulative stacking is parallax. Normally you would set many groups with their own follow rates; with group stacking, this can be achieved in marginally less groups by adding the rates together. This is an example of binary stacking, which will be covered later.
 
-(Stacking Transformations  - Cumulative Movements)
+(Stacking Transformations - Cumulative Movements)
 
 ## Counteracting Movements
 
@@ -221,7 +221,7 @@ Just a few Advanced Follow triggers are enough to create basic physics simulatio
 
 - Set an initial speed and direction.
 - Follow objects with a set acceleration to simulate different forces, which can either pull or repel targets from the Follow group. For example, an object can be set to follow the y-axis of another object that's a considerate distance away with a set acceleration as terminal velocity to simulate gravity.
--  Apply friction to dampen the movement of objects, which can be seen in real physics.
+- Apply friction to dampen the movement of objects, which can be seen in real physics.
 
 With these in mind, we can simulate the parabolic movement of a particle. A particle can be launched with a set speed and angle, following a parabolic path if gravity is applied. Friction can be set on the x-axis to replicate air resistance, and more Advanced Follow triggers can be used later to set a new initial speed and angle.
 
@@ -248,7 +248,7 @@ Combining the previous forces will result in asymmetric interactions. New moveme
 
 ## Collisions
 
-In real life, two objects colliding will apply forces on each other upon contact; the forces  of objects will be sent in the opposite direction so they do not phase between each other.
+In real life, two objects colliding will apply forces on each other upon contact; the forces of objects will be sent in the opposite direction so they do not phase between each other.
 
 (Physics - Collision Diagram)
 

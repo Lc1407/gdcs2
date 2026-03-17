@@ -225,7 +225,7 @@ As you should know from the Pacing guide, this is how you control the gameplay�
 
 When designing your gameplay areas, you’ll need to design high-intensity rooms and lower intensity rooms depending on how you plan your pacing. You can arrange these rooms however you wish, although there are a few conventional ways to do so. You can use a **Pile of Beats**, where you make a large amount of rooms separately and connect them afterwards, or you can **Teach, Test, & Twist** where you introduce a technique in one room, test it in the next, and add a twist in a third.
 
-Regardless of how you organize your gameplay beats, make sure the gameplay at the start is simple, and switch up the intensity every so often. Starting simple sets the mood for the introduction and  lets the player get used to your gameplay. If you have story elements like characters, it’s also a good place to get players invested. Switching up the intensity every so often also helps to keep players engaged, instead of giving them more of the same.
+Regardless of how you organize your gameplay beats, make sure the gameplay at the start is simple, and switch up the intensity every so often. Starting simple sets the mood for the introduction and lets the player get used to your gameplay. If you have story elements like characters, it’s also a good place to get players invested. Switching up the intensity every so often also helps to keep players engaged, instead of giving them more of the same.
 
 # 4: Advanced Techniques
 

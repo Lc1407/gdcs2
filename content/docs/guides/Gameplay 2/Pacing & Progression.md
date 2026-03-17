@@ -22,7 +22,7 @@ draft: false
 
 When we describe Pacing, another term correlated to it is the **Flow State**. The Flow State is a __mental state where you put intense concentration into one task and lose focus on everything else__. You’ve probably heard this called “the zone” before.
 
-In terms of gameplay,  it’s very effective in making the player enjoy your level. Research suggests that when you’re in the zone, you’re more persistent at what you’re doing and have higher dopamine levels. This persistence and willingness to engage with the level are exactly what we want our pacing to accomplish.
+In terms of gameplay, it’s very effective in making the player enjoy your level. Research suggests that when you’re in the zone, you’re more persistent at what you’re doing and have higher dopamine levels. This persistence and willingness to engage with the level are exactly what we want our pacing to accomplish.
 
 When making the gameplay, you’ll find that pacing is critical to induce flow and get a player’s attention. There are three factors that are crucial for flow that you need to know:
 
@@ -36,7 +36,7 @@ With that out of the way, let’s look at the first application of flow: capturi
 
 **2: Micro Flow**
 
-**Micro flow**  is a form of short-term flow that occurs from one second to the next as you play. It’s the main consideration when you’re *building* your gameplay.
+**Micro flow** is a form of short-term flow that occurs from one second to the next as you play. It’s the main consideration when you’re *building* your gameplay.
 
 As you may expect, the prior factors – clear goals, rapid feedback, and adequate challenge – are important to develop good pacing at this stage. However, there are some other factors that are important for micro flow.
 

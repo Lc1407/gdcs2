@@ -89,4 +89,4 @@ Be patient. Inspiration isn't guaranteed to be instantaneous. It really can come
 - <https://fineartshippers.com/best-sources-of-inspiration-for-an-artist/>
 - <https://www.wework.com/ideas/professional-development/creativity-culture/what-is-inspiration-and-why-is-it-so-important>
 
-**Video:** https://youtu.be/s8DIK6qT8TM >}}  
+**Video:** https://youtu.be/s8DIK6qT8TM >}} 

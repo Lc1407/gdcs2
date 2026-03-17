@@ -28,7 +28,7 @@ Enabling the checkbox “multiply” will cause the “count” to be t replaced
 ## Divide
 Enabling the “divide” checkbox will cause the “count” to get replaced by a slider, allowing you to divide by the number that you’ve set on the slider (decimals won’t work).
 ## Override
-Enabling the “override” checkbox  will allow you to set that value to the “count” (e.g., if the value in item ID 1 is 10, an override pickup trigger with 2 on the counter, it will set to 2, if you place an override pickup trigger with 3, it will set it to 3).
+Enabling the “override” checkbox will allow you to set that value to the “count” (e.g., if the value in item ID 1 is 10, an override pickup trigger with 2 on the counter, it will set to 2, if you place an override pickup trigger with 3, it will set it to 3).
 
 {{< youtube hK-Bx0YFeus >}} 
 

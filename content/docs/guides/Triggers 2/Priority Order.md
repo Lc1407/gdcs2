@@ -14,7 +14,7 @@ draft: false
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Ordering of triggers is important, as it prevents possible randomness in the way they fire.
--  Priority Order is a hidden system that determines which objects get processed first, such as collision blocks, stacked orbs, and triggers on the same X axis.
+- Priority Order is a hidden system that determines which objects get processed first, such as collision blocks, stacked orbs, and triggers on the same X axis.
 - There are plenty of ordering algorithms that the game puts into place, but you can change this yourself with the Trigger Order option found in the Edit Group menu.
 
 {{< /callout >}}
@@ -93,7 +93,7 @@ In most cases, triggers aren’t commutative, meaning that the result can vary d
 
 # 3: Simultaneous Ordering in 2.2
 
-In certain cases, the game will order what triggers activate first to prevent unwanted randomness. An example of this is 2 pickup triggers activating at the same time, where trigger A  adds 1 to itemID 1, and trigger B multiplies the itemID 1 by 10; what will the final ItemID value be? The result can either be 1 or 10 based on which trigger activates first.
+In certain cases, the game will order what triggers activate first to prevent unwanted randomness. An example of this is 2 pickup triggers activating at the same time, where trigger A adds 1 to itemID 1, and trigger B multiplies the itemID 1 by 10; what will the final ItemID value be? The result can either be 1 or 10 based on which trigger activates first.
 
 In order to eliminate randomness, triggers activated on the same frame happen in a set order, much like how a calculator processes mathematical operations. The game uses 3 different ordering algorithms to achieve this.
 

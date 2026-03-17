@@ -35,7 +35,7 @@ When contrasted with another hue effectively, grays can often enhance the effect
 
 {{< img src="https://lh3.googleusercontent.com/d/1dX6kOb04K1JMFuw-enjHjQNEK2TnVxl8" >}}
 
-An example in GD is shown [in this brief ship part](https://youtu.be/h0-n3qLVQ5k >}}   t=18
+An example in GD is shown [in this brief ship part](https://youtu.be/h0-n3qLVQ5k >}} t=18
 ) by Xender Game. The relatively desaturated blue tones make up most of the color composition, allowing the more saturated red elements to stand out.
 
 ## Grays as a Transitional Color

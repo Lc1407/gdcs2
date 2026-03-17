@@ -34,8 +34,8 @@ Arrows are pretty self-explanatory. They tend to point the player in the directi
 Similarly, you can also use simple shapes like squares and circles to outline the gameplay path for the player. This is another form of air deco that you’ll see pretty commonly.
 Here are some levels that use arrows to fill space.
 
-`friday` by `endevvor`: https://youtu.be/TIIwskoucvc >}}  
-`Luminescence` by `gradientxd`: https://youtu.be/W-pu-5b809A >}}  
+`friday` by `endevvor`: https://youtu.be/TIIwskoucvc >}} 
+`Luminescence` by `gradientxd`: https://youtu.be/W-pu-5b809A >}} 
 **3: Connectors**
 
 Connectors link blocks to each other, or other details like saws and the ground. They can be very effective as they fill up a lot of space, especially when the blocks are on opposite sides of the screen. You’ve most certainly seen these connecting blocks to each other or the ground in a level like `Blast Processing` or `Deadlocked`.
@@ -44,13 +44,13 @@ To make these you can follow the same steps as you did to make blocks, only with
 
 Here are some examples of connectors in action.
 
-`Culuc` and `RealVet`’s part in `Abyssal Extinction` https://youtu.be/fRCNxPYP7z8 >}}   t=18
+`Culuc` and `RealVet`’s part in `Abyssal Extinction` https://youtu.be/fRCNxPYP7z8 >}} t=18
 
 As you can see, the dark rocks between the blocks connect most of them together.
 
 None
 
-`Ion` by `Khyros`: https://youtu.be/RiO5NKovWc0 >}}  
+`Ion` by `Khyros`: https://youtu.be/RiO5NKovWc0 >}} 
 The glowing squares connect the top cluster of blocks to the one on the bottom. Additionally, the white lines connect the saws to the blocks.
 
 None
@@ -68,12 +68,12 @@ An example from Geometry Dash is `White Space` by `Xender Game` . You’ll notic
 
 Here are some examples from other levels.
 
-`CuLuC`’s part in `Edge of Destiny:` https://youtu.be/qJYBhbJrQBY >}}  
+`CuLuC`’s part in `Edge of Destiny:` https://youtu.be/qJYBhbJrQBY >}} 
 The most noticeable particles here are the small rocks that float by the player. However, some other small particles and effects show up in the part too. Notice that fire follows the player whenever they touch a block. It’s a very subtle effect because you’ll rarely be in contact with the ground, but it exists nonetheless.
 
 Additionally, notice that the rocks tend to move and rotate at different speeds. This is also subtle but it makes the part feel a lot more dynamic than it otherwise would. Variety like this will make your particles look and feel a lot better, so be sure to use principles like trigger stacking to your advantage.
 
-`Well Rested` by `Overdefo`: https://youtu.be/bM6V_JeSmeg >}}   t=129
+`Well Rested` by `Overdefo`: https://youtu.be/bM6V_JeSmeg >}} t=129
 
 Two minutes and nine seconds in, you can see particles that are used for specific visual effects. Leaves fall from the trees, and stars shoot out of each pad when they’re touched. This is another example where the variety helps make the part look more interesting.
 
@@ -81,7 +81,7 @@ Two minutes and nine seconds in, you can see particles that are used for specifi
 
 Overlays are full-screen visual effects that are, well, laid over everything else. An example would be a full-screen flash, or a gradient that you make out of glow and put on the T3 layer.
 
-You could argue that many overlays don’t function as air deco; however, I think it depends on how you make and use them. A rain effect like the one in `Culuc`’s `Black Flag` part  counts as an overlay; so do motion lines like in `Fuel` by `Bli` . Even a full-screen gradient can make your colors look more interesting and direct attention away from empty parts.
+You could argue that many overlays don’t function as air deco; however, I think it depends on how you make and use them. A rain effect like the one in `Culuc`’s `Black Flag` part counts as an overlay; so do motion lines like in `Fuel` by `Bli` . Even a full-screen gradient can make your colors look more interesting and direct attention away from empty parts.
 
 {{< youtube 03OC6MzgASc >}} 
 
@@ -91,11 +91,11 @@ When making overlays, make sure they stay as a minor detail. They shouldn’t ov
 
 Here are some examples from other levels.
 
-`The Sulphur Sea` by `YoReid`: https://youtu.be/hpcJFK6iSvM >}}   t=29
+`The Sulphur Sea` by `YoReid`: https://youtu.be/hpcJFK6iSvM >}} t=29
 
 Twenty-nine seconds in, there’s a strong glow overlay on the screen. This is somewhat foggy; the other details on the screen, like the bubbles, make it clear that this part is supposed to be underwater.
 
-`Bli`’s part in `Ascension to Heaven`: https://youtu.be/EmKT01hDUyY >}}   t=7
+`Bli`’s part in `Ascension to Heaven`: https://youtu.be/EmKT01hDUyY >}} t=7
 
 You most certainly can see the overlay in this part, but you may not be able to tell what it’s made of. Here, there’s a combination of gradient lines and large cloud objects, all of which are on low opacity. Occasionally a spiral saw object is also used on a pulse. Finally, there’s a glow overlay which makes the part feel very bright.
 
