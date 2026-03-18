@@ -31,7 +31,7 @@ Custom objects do have their limits, though. Currently as of 2.206, each custom 
 
 While having an object in the tab selected, you can press the arrow buttons to move the position of the object up or down the object list. You can also press the red minus button to remove the object from the list entirely.
 
-{{< youtube dSveF6KysXA >}} }}
+{{< youtube dSveF6KysXA >}}
 
 When placing down custom objects, they are placed on an anchor point. By default, this anchor point is in the approximate center of the objects. However, if you enable group parent on one of the objects, the anchor point is overwritten to that point. If multiple objects have group parent enabled, the object with the highest y-position will take priority. If multiple objects have the same height, the object on the farthest left takes priority.
 

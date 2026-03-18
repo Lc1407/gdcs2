@@ -71,13 +71,13 @@ The “NA” options allow for rounding:
 
 > Note: Be careful when taking the floor or ceiling of negative numbers, as they may not do what you would expect. For example, the floor of `2.5` is `2`, but the floor of `-2.5` is `-3` because `-3` is less than `-2.5`.
 
-{{< youtube SG0LNJ_Omvw >}} }}
+{{< youtube SG0LNJ_Omvw >}}
 
 Item Edit also allows you to do complex algorithms like the Fibonacci Sequence and Recursion.
 
-{{< youtube rupPPGXXYos >}} }}
+{{< youtube rupPPGXXYos >}}
 
-{{< youtube O8doXySQH9A >}} }}
+{{< youtube O8doXySQH9A >}}
 
 # 2: Item Compare (Item Comp)
 

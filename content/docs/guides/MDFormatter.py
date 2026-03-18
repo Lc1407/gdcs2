@@ -43,7 +43,9 @@ def format_media(lines):
         html2 = re.sub(r'(?<={{< youtube [a-zA-Z0-9\-\_]{11}")\W(?! >}})', ' >}} ', html2)
 
         # replace any bugs
-        html2 = re.sub(r'( >}}){2,}', ' >}} ', html2)
+        html2 = re.sub(r'( }})', '}}', html2)
+        html2 = re.sub(r'(}}){2,}', '}}', html2)
+        html2 = re.sub(r'( >}}){2,}', ' >}}', html2)
         html2 = re.sub(r'(?<=.) {2,}', ' ', html2)
 
         if (html2 != html):

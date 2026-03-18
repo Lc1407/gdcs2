@@ -65,7 +65,7 @@ The **Edit Tab** is where you can change an object’s location, size, and rotat
 
 {{< img src="images/GDEmotes/Buttons/Warp.png" class="emote">}} Use the **warp button** to change an object's size and skew. Unlike scaling, there is no size limit here. This is explained more in the [Transforming Objects](/docs/guides/the-editor/transforming-objects) guide.
 
-{{< youtube lGJ7G-StnZ8 >}} }}
+{{< youtube lGJ7G-StnZ8 >}}
 <br>
 {{< img src="images/GDEmotes/Buttons/Swipe.png" class="emote">}} If you want to select lots of objects at once, click on the **Swipe** button.
 
@@ -75,7 +75,7 @@ The **Edit Tab** is where you can change an object’s location, size, and rotat
 
 {{< img src="images/GDEmotes/Buttons/DeSelect.png" class="emote">}} If you want to stop selecting every object, click on the **De-Select** button.
 
-{{< youtube PxovKuvUsYI >}} }}
+{{< youtube PxovKuvUsYI >}}
 
 # 4: The Delete Tab
 
@@ -83,4 +83,4 @@ This is where you can remove objects you don’t want. **Click on any object** t
 
 {{< img src="images/GDEmotes/Buttons/Delete.png" class="emote">}} You can use the **trash** button to delete any objects you have selected.
 
-{{< youtube FijgIgJH20c >}} }}
+{{< youtube FijgIgJH20c >}}
