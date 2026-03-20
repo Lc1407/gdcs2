@@ -1,0 +1,9 @@
+{{ $title := .Get "title" }}
+{{ with resources.Get (.Get "src") }}
+  <div class="card rounded-5 px-3 py-2 justify-content-center audio-card" style="display: inline-block; margin: 0px auto 16px 0px;">
+    {{ if $title }}
+      <div style="text-align: center;"><strong>{{ $title }}</strong></div>
+    {{ end }}
+    <audio controls preload="auto" src="{{ .RelPermalink }}"></audio>
+  </div>
+{{ end }}
