@@ -1,18 +1,33 @@
 backend:
-  name: git-gateway
-  branch: main # Branch to update (optional; defaults to master)
-media_folder: static/img
-public_folder: /img
+  name: github
+  repo: komatic5/gdcs2
+  branch: main
+  open_authoring: true
+
+media_folder: /static/media
+public_folder: /media
+publish_mode: editorial_workflow
+
+fields: &page_fields
+  - { label: Draft, name: draft, widget: boolean }
+  - { label: Math, name: math, widget: boolean }
+  - { label: Title, name: title, widget: string }
+  - { label: Weight, name: weight, widget: number }
+  - { label: Body, name: body, widget: markdown }
+
 collections:
-  - name: 'blog'
-    label: 'Blog'
-    folder: 'content/blog'
-    create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    editor:
-      preview: false
-    fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: guides
+    label: Guides
+    folder: "content/docs/guides"
+    nested:
+      depth: 5
+      subfolders: false
+    fields: *page_fields
+
+  - name: contributing
+    label: Contributing
+    folder: "content/contributing"
+    nested:
+      depth: 5
+      subfolders: false
+    fields: *page_fields
