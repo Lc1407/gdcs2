@@ -1,17 +1,17 @@
 ---
-title: "Decap"
+title: Decap
 weight: 200
 authors:
-  - "komatic5"
-  - "chuckolate"
+  - komatic5
+  - chuckolate
 contributors:
-  - "komatic5"
-  - "chuckolate"
+  - komatic5
+  - chuckolate
 draft: false
 ---
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 
-- How to use Decap CMS to make changes to the site.
+* How to use Decap CMS to make changes to the site.
 
 {{< /callout >}}
 
@@ -23,8 +23,7 @@ While on the website or localhost, navigate to [https://www.gdcreatorschool.com/
 
 {{< img src="https://lh3.googleusercontent.com/d/1sZ42lbtjHN7nDrG2tUmrJuqhqMdRHOTi" >}}
 
-
-You have to log with your Github account, and authorize the Netlify CMS.
+You have to log with your Github account, and authorize the CMS.
 
 {{< img src="https://lh3.googleusercontent.com/d/1xkdfNlHFNOLFbDKYrr-VkKDVgdUZadCi" >}}
 
@@ -36,7 +35,7 @@ Clicking on a unit will bring up all guides in that unit.
 
 {{< img src="https://lh3.googleusercontent.com/d/1X2HZ_cl-p7pe1sSBegHZkg78Z2h8Ohza" >}}
 
-Clicking on a guide brings up the editing menu, which lets you make changes to guides. The right side is a **preview pannel**, while the left side is the **editing pannel** where you can make changes. Each section of the editing pannel corresponds to an attribute in the guide's **frontmatter**, check the [Formatting](/contributing/guidelines/formatting) guide to understand what is the frontmatter, and what each attribute does.
+Clicking on a guide brings up the editing menu, which lets you make changes to guides. The right side is a **preview panel**, while the left side is the **editing panel** where you can make changes. Each section of the editing pannel corresponds to an attribute in the guide's **frontmatter**, check the [Formatting](/contributing/guidelines/formatting) guide to understand what is the frontmatter, and what each attribute does.
 
 {{< img src="https://lh3.googleusercontent.com/d/1Ndw25njEufbpMUPWzyou05Pselsfr_VW" >}}
 
