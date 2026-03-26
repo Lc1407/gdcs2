@@ -31,6 +31,16 @@
 
 			<h1>{{ partial "main/title.html" .Title }}</h1>
 
+			{{ partial "main/credits-section.html" . }}
+
+			<div class="page-footer-meta d-flex flex-column flex-md-row justify-content-between">
+				{{ if site.Params.doks.lastMod -}}
+					{{ partial "main/last-modified.html" . }}
+				{{ end -}}
+				{{ if site.Params.doks.editPage -}}
+					{{ partial "main/edit-page.html" . }}
+				{{ end -}}
+			</div>
 
 			<!-- <p class="lead">{{ .Params.lead | safeHTML }}</p> -->
 			{{ if ne .Params.toc false -}}
@@ -49,22 +59,11 @@
 				{{ .Content }}
 			{{ end -}}
 
-
-			{{ partial "main/credits-section.html" . }}
-
 			<script>
 				const id = "isVisited_" + location.pathname;
 				localStorage.setItem(id, "1");
 			</script>
 
-			<div class="page-footer-meta d-flex flex-column flex-md-row justify-content-between">
-				{{ if site.Params.doks.lastMod -}}
-					{{ partial "main/last-modified.html" . }}
-				{{ end -}}
-				{{ if site.Params.doks.editPage -}}
-					{{ partial "main/edit-page.html" . }}
-				{{ end -}}
-			</div>
 			{{ partial "main/docs-navigation.html" . }}
 			<!--
 			{{ if not .Site.Params.options.collapsibleSidebar -}}

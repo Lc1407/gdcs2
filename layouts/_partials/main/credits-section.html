@@ -1,9 +1,5 @@
 {{ $page := .Page }}
 {{ with $page.Params.contributors }}
-  <br>
-  {{ "** **" | $page.RenderString }}
-  <h1>Credits</h1>
-  <p></p>
   Created by
   {{- $contributors := partial "sort-contributor-strings.html" (dict "contributors" . "context" $) -}}
 
