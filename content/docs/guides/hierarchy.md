@@ -38,7 +38,7 @@ The components of deco are as follows.
 * **Space:** The area between and inside shapes. This can be positive space, such as the space taken up by objects, or negative space which is between objects. Both types of space are important to consider, especially for visual effects and transitions.
 * **Texture:** The material an object has or appears to have. Since we're not working with real objects, this is also implied like form. You can make objects appear to have texture by using lighting and colors.
 
-# \# 2: Using Deco Elements
+# \# 2: Applying Deco Elements
 
 While it's important to know what elements make up deco, it's equally (or even more) important to know about how to use them. There are many concepts you'll learn in later guides for this. For now though, it's important to go through the most important concepts.
 
@@ -119,5 +119,13 @@ Since visual weight is based on the elements of deco, each one provides a way to
 * **Texture:** Objects with textures will have more visual weight than flat objects without any texture. This is also the least impactful way to increase visual weight.
 
 # 3: Design Language
+
+The final important topic for this guide is **design language**. This is how you use design elements, contrast, variety, and visual weight to create a unique visual style for your deco. Design language is a very, *very* complex topic though, so it's recommended to read through the other guides and gaining experience before you prioritize it.
+
+While this is a very intricate topic, it helps to know some basic things about it. Here are some things to consider when developing a design language or style.
+
+* **Repetition:** Repeating certain shapes, colors, or other design elements can help create patterns. These patterns help others know what to expect and how they should respond to parts of your work.
+
+
 
 How you use these elements to basically make a style for yourself / communicate certain things, and the stuff that goes into that (e.g., repetition, consistency, etc)
