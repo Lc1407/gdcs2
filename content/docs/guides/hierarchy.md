@@ -78,7 +78,8 @@ Since visual weight is based on the elements of deco, each one provides a way to
 * \* \*\*Color:\** Different colors have more visual weight, which is tied to their local value. For instance, red feels heaviest while yellow feels lightest, and warm colors tend to stand out more than cool ones. Additionally, saturated colors will stand out more.
 * \* \*\*Shape:\** Objects with regular shapes, like polygons, will have more weight than ones with irregular shapes. This is likely due to them being easier to recognize as actual objects, in the same way that real words convey more meaning than "afokenof" or "hhhgjhg".
 * \* \*\*Direction:\** This is also derived from shape. Objects that appear vertical will stand out more than horizontal ones. Diagonal objects have the most weight, and as such they're used the most for dynamic deco.
-* \* \*\*Edges/Lines:\** 
+* \* \*\*Edges/Lines:\** Objects with thicker lines will appear to have more weight than objects with thinner lines. This is a side effect of proximity as thick lines are often used to convey objects being closer.
+*
 
 ## \## Hierarchy
 
