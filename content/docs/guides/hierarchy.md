@@ -60,6 +60,18 @@ The image below shows an example of contrast at work.
 
 Knowing how to use contrast effectively can help you make decoration as good as the image above. However, using contrast effectively requires a bit more nuance.
 
+
+
+## Variety
+
+This is *similar* to contrast, but covers a different aspect. Variety is **how diverse** your deco is, in terms of the elements you're using. For instance, a pure black and white image has low variety, but high contrast; a gradient from black to gray has lower contrast, but far more variety.
+
+`Insert a diagram/image showing exactly what's described in the last sentence`
+
+``
+
+
+
 ## Visual Weight
 
 What contrasts more: a white square against a black background, or a black square against a white background? This question reveals an important fact: not all contrast is created equal. Contrasting elements such as color, will have a larger impact on your deco than contrasting others, such as texture.
@@ -84,5 +96,3 @@ Since visual weight is based on the elements of deco, each one provides a way to
 * **Edges/Lines:** Objects with thicker lines will appear to have more weight than objects with thinner lines. This is a side effect of proximity as thick lines are often used to convey objects being closer.
 * **Proportion:** Larger parts of objects carry more visual weight than smaller parts.
 * **Texture:** Objects with textures will have more visual weight than flat objects without any texture. This is also the least impactful way to increase visual weight.
-
-## Hierarchy (will be moved to its own guide)
