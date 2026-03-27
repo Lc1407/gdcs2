@@ -1,22 +1,23 @@
 ---
-title: "How to Decorate"
-aliases:
-  - "Creating Decoration"
-weight: 5001
-date: 2024-07-19T00:00:00.000Z
-authors:
-  - "komatic5"
-contributors:
-  - "galofuf"
-  - "komatic5"
-  - "notamoderatr"
-  - "poryii"
 draft: false
+authors:
+  - komatic5
+title: How to Decorate
+date: 2024-07-19T00:00:00.000Z
+weight: 5001
+contributors:
+  - galofuf
+  - komatic5
+  - notamoderatr
+  - poryii
 seo:
-  title: "How To Decorate in Geometry Dash"
-  description: "Are you struggling to decorate? This guide provides a full overview of everything you must know to get started."
+  title: How To Decorate in Geometry Dash
+  description: Are you struggling to decorate? This guide provides a full overview
+    of everything you must know to get started.
   canonical: ""
   noindex: false
+aliases:
+  - Creating Decoration
 ---
 
 {{< callout context="note" title="TLDR – What this guide covers" icon="outline/info-circle" >}}
@@ -38,22 +39,25 @@ As mentioned before, deco is the visuals you see when viewing a level. However, 
 
 ## Deco Elements
 
-This image has all the common elements of decoration in it. You don't need *every element* for every level, but it's useful to recognize them when you see them.
+These are the common types of deco you'll learn to make. You don't need *every element* for every level, but it's useful to recognize them when you see them.
 
-{{< img src="https://lh3.googleusercontent.com/d/1c8u9pnQlu5KntIbLQbPwHhMOsYWguSHq" >}}
+**Block Designs** are decoration that signifies platforms you can touch as part of gameplay. The point of block designs is to *make it clear where the level's gameplay is*.
 
-The building with the pink pad and lights on it is a **Block Design**. This is decoration that signifies platforms you can touch as part of gameplay. The point of block designs is to *make it clear where the level's gameplay is*.
-- Sometimes, other gameplay objects will be decorated too, such as spikes and orbs. Here, the black saws are hazards that the player must avoid.
+An example of clear block designs is in the level Royal Roost Ruins by Glubfuberz. The blocks clearly stand out against the other decoration, making it clear where the gameplay is.
+
+{{< youtube id="BmDUemwIJ" end=26 >}}
+
+- Sometimes, other gameplay objects will be decorated too, such as spikes and orbs. Here, the spikes have some glow added to make them look more interesting.
 - You can read more about block designs [here](/docs/guides/deco-1/making-blocks/).
 ** **
 
-The buildings to the left and behind the blocks are part of the **Background**. These *fill up space behind the blocks* so the decoration can look more interesting.
+The mountains behind the blocks in Royal Roost Ruins are part of the **Background**. These *fill up space behind the blocks* so the decoration can look more interesting.
 - It's important for your background to "feel" different from your block designs. This way, players won't be confused about what's a gameplay object and what is not.
-- **Foregrounds** also exist to *fill up space in front of blocks*. They aren't as common, but some levels make use of them. Here, the metal scaffold on the right is part of the foreground.
+- **Foregrounds** also exist to *fill up space in front of blocks*. They aren't as common, but some levels make use of them. Here, some trees and rocks are intentionally darkened and used as foreground.
 - You can read more about backgrounds [here](/docs/guides/deco-1/making-backgrounds/).
 ** **
 
-The rain and particles in the air is a form of **Air Deco**. While backgrounds fill space behind blocks and foregrounds fill space in front of them, air deco *fills space on the same layer as blocks*.
+The arrows in the level are a form of **Air Deco**. While backgrounds fill space behind blocks and foregrounds fill space in front of them, air deco *fills space on the same layer as blocks*.
 - Air deco comes in many forms. Particles are one such form, but creators often use arrows, connectors between blocks, and other decoration for the same purpose.
 - You can find info on air deco [here](/docs/guides/deco-1/making-air-deco/).
 ** **
