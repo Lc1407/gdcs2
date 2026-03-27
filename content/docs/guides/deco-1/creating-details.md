@@ -39,7 +39,10 @@ Since details are features of objects, it helps to go through some features obje
 
 `(each of these needs an image)`
 
+- **Shape:** The shape of an object is one of the most noticeable types of details. The more individual sections a shape has, the more detailed it is.
+- **Color:** Another noticeable type of detail is what color an object has. The more colors an object has, the more detailed it is.
 
+  This also means
 
 # 2: Using Details
 
